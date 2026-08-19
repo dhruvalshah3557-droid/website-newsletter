@@ -1,6 +1,7 @@
 node_modules/
 .env
 data/news.json.tmp
+data/uploaded.json
 npm-debug.log*
 *.log
 .DS_Store

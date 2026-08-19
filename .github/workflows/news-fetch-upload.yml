@@ -1,0 +1,51 @@
+name: Fetch and Upload News
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-and-upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+        working-directory: colourdiam-news-service
+
+      - name: Fetch news
+        run: npm run fetch
+        working-directory: colourdiam-news-service
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          MAX_ARTICLES: ${{ vars.MAX_ARTICLES || '200' }}
+
+      - name: Upload news to admin
+        run: node src/upload-run.js
+        working-directory: colourdiam-news-service
+        env:
+          ADMIN_BASE_URL: ${{ secrets.ADMIN_BASE_URL }}
+          ADMIN_USERNAME: ${{ secrets.ADMIN_USERNAME }}
+          ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
+          UPLOAD_ENDPOINT: ${{ secrets.UPLOAD_ENDPOINT || '/Admin/SaveNews' }}
+          MAX_UPLOAD: ${{ vars.MAX_UPLOAD || '10' }}
+
+      - name: Commit and push updated news data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: auto-update news data [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
