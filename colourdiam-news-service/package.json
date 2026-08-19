@@ -1,0 +1,29 @@
+{
+  "name": "colourdiam-news-service",
+  "version": "1.0.0",
+  "description": "Auto-fetching jewellery and diamond news service for ColourDiam.com",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "fetch": "node src/fetch-now.js"
+  },
+  "keywords": [
+    "diamond",
+    "jewelry",
+    "news",
+    "rss",
+    "express"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-cron": "^3.0.3",
+    "rss-parser": "^3.13.0"
+  }
+}
