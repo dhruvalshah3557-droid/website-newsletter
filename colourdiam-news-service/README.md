@@ -65,6 +65,7 @@ npm run fetch      # run a one-off fetch without starting the server
 | `NEWSAPI_KEY`     | *(empty)*      | Optional NewsAPI.org key                        |
 | `MAX_ARTICLES`    | `200`          | Max articles kept in storage                    |
 | `FETCH_TIMEOUT_MS`| `15000`        | Timeout (ms) for all outbound HTTP requests     |
+| `GIT_AUTOPUSH`    | `true`         | Auto-commit & push `data/news.json` to the configured git remote after every fetch |
 
 > **Security note:** set `FETCH_TOKEN` in production. If it is empty, `/api/fetch`
 > is open and a warning is logged. Never commit `.env`.
@@ -118,6 +119,27 @@ curl 'http://localhost:3001/api/fetch?token=YOUR_TOKEN'
   4 hours). Cron expressions are 5 fields, e.g. `0 */4 * * *` (every 4 hours),
   `30 6 * * *` (6:30 AM daily).
 - Each fetch result is logged with a timestamp.
+- After every successful fetch, `data/news.json` is auto-committed and pushed to
+  the configured git remote (`GIT_AUTOPUSH=true`). Set `GIT_AUTOPUSH=false` to
+  disable. The repository must already have a remote and the commit identity must
+  be configured (see below).
+
+### Auto-push to GitHub
+
+The service saves every news update to GitHub automatically. To set this up on a
+fresh machine:
+
+```bash
+git init
+git remote add origin https://github.com/<user>/<repo>.git
+git config user.name  "Your Name"
+git config user.email "your@email.com"
+git push -u origin main
+```
+
+After that, each scheduled fetch will create a commit (`chore: auto-update news
+data [...]`) and push it to `origin`. You can confirm it works by checking the
+service log for `[git] Committed and pushed news data to origin/<branch>.`
 
 ## Deploying / linking from the main site
 
