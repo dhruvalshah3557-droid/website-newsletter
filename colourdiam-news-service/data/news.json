@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-08-19T20:58:38.826Z",
+  "lastFetchAt": "2026-08-20T03:12:53.237Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -474,6 +474,21 @@
       "sourceName": "Google News",
       "publishedAt": "2025-11-11T08:00:00.000Z",
       "description": "The sparkling ‘Blue Mellon’ 9.51-carat diamond ring that just sold for millions at auction The Independent",
+      "image": null,
+      "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1787195572667-cwj9v2wc",
+      "title": "The sparkling ‘Blue Mellon’ 9.51-carat diamond ring that just sold for millions at auction - Yahoo Lifestyle Canada",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83U3BwUjJzdGdFdG5EQnlFU1ltLTNXaDlveWFBeF9BbUR4U2cxaWY1MWdzY3IwcDhXOWJjUV9Sd3UyQWpHdXYzN1E3OGktcGV2UTV6WDJaa1JMdksyajhBZGN3cmFRbkZoMkVDMUNNN1hpU2owRHFZ?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2025-11-11T08:00:00.000Z",
+      "description": "The sparkling ‘Blue Mellon’ 9.51-carat diamond ring that just sold for millions at auction Yahoo Lifestyle Canada",
       "image": null,
       "category": "Auction",
       "sources": [
@@ -2237,6 +2252,21 @@
       "relevanceScore": 6
     },
     {
+      "id": "1787195572842-nbjro6or",
+      "title": "Taylor Swift’s vintage ring shines new light on diamond industry - Mining.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjROQXRrc0U2NmcxakVXZ29PZGl2N1R4NGZfOHNpSzZqdjNCdVh5Q0RQRFM2VkRGT0x2R191TkR5X0VLaDIxVzdGT01zLWFZMXpDbDRSWUluOEhjU3RUS2R1MHZqMDZ1OW8ySXB4QkJIRF94ZXVVaEhqTEllRDNEc0pGQWlfcFlIVXJYbnhZZ20?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-01-13T08:00:00.000Z",
+      "description": "Taylor Swift’s vintage ring shines new light on diamond industry Mining.com",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 6
+    },
+    {
       "id": "1787155412976-cy4visef",
       "title": "Donna Vekic launches DASH, a diamond jewelry brand made for movement - Tennis.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0FEMmpmN3RmYnJZVFN1cTRrV2pmeGplanpxOXZaSHBoUGdmS01RNkVxNUhlZDNSUTdLdGFFdkRWYXFQdkpiZFZUMThGWHB0U2hxdm15VzVtRWtJWVB5cUdXblhmN0loS2p4bVhUMnpZaGMwbDFiTGY1eFpxdmxoRkdILW9oZy14TzN2TFVBTkZjUDBVcmh5ZV9FNjY3enBQTkxlV29PQQ?oc=5",
@@ -2964,36 +2994,6 @@
       "sourceName": "Google News",
       "publishedAt": "2025-07-07T07:00:00.000Z",
       "description": "NDC Launches Definitive Fancy Color Diamond Report Amid Paris Couture Week Spotlight diamondworld.net",
-      "image": null,
-      "category": "Colored Diamonds",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155411955-59t8qop9",
-      "title": "Why Buyers Are Spending Millions on Colored Diamonds (Published 2025) - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDN4WFUxUEktVmh3c2YtaTJvMVVtRWdHOHFKWVFTSW9oRVNRaExxaktTS05ibFRuc1NGMHRuTDd3emk0Z2lXdlpPX1FNVGNDSXVvc0hqZUNzMDVmNVJLV09KMWNBMWY0LUN3WFVpT09WTUFidklKQ1JsRWEybW5jQ2V6ZFN2MDdZVVE?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2025-07-03T07:00:00.000Z",
-      "description": "Why Buyers Are Spending Millions on Colored Diamonds (Published 2025) The New York Times",
-      "image": null,
-      "category": "Colored Diamonds",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155411960-ojyg87ox",
-      "title": "Natural Diamond Council Releases First Ever Fancy Colour Diamond Report to Celebrate Nature's Rarest and Most Colourful Treasures - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOY0pEM0pveEJqRzNaQkIxTzhTdHFxc3BDdFVLc0xjbHFSVGtwRUJNRXk4SG5RanVraUNPaC0zakVnWTVObjY0eTBJelU0RUZYMGdmTndETTFZNVp0dktDeXdxa1ZDSUZIdXJPbkppT3Etak50aWxIcGE3Y1paYWFsaHhpc2JITDI0ZmJJcFhPTnBBQ3h2aEc4dWJMTV9YN0ZseXRCVlhTc21qYzZBNWRoTGVDenNUZzE3cEgxRjZtSUZQOVAwaGtabUxycG45TGVXUUVnbTYycEE1WnA2aV9DUmtBbURqeDh0VnNOeWZFRHpzWnpnQ0s4dW94ZlRKc3pvcWozLU05NV8xeW9OQXhzRF93?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2025-07-02T07:00:00.000Z",
-      "description": "Natural Diamond Council Releases First Ever Fancy Colour Diamond Report to Celebrate Nature's Rarest and Most Colourful Treasures PR Newswire",
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
