@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-08-20T17:06:16.865Z",
+  "lastFetchAt": "2026-08-20T21:02:02.202Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -549,6 +549,21 @@
       "sourceName": "Google News",
       "publishedAt": "2025-11-05T08:00:00.000Z",
       "description": "Sotheby's Geneva Unveils Record Breaking Diamonds at Auction Only Natural Diamonds",
+      "image": null,
+      "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1787259721955-qhxwtl5u",
+      "title": "Emperor Napoleon’s diamond jewellery heads to auction - Jeweller Magazine",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOUdkOGFmTUhhWmU2dmZpVkhuaENqWEVZcWdjUkJXLVJTT1E1ZGRhcXN2ak54QW9hUTZzZnBJNTVOOExWYVlxdlhZRFZnV2xvc3JodWpabzI4M3ExT2tSZmZYMTJ1MjlGM0xybVotTm5jejZSVGM0OFRac252RnZlZnQtMm9DZnRfRzdmM2VfbGdhLVRkUDNwd3NIRE1iNGR6?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2025-11-04T08:00:00.000Z",
+      "description": "Emperor Napoleon’s diamond jewellery heads to auction Jeweller Magazine",
       "image": null,
       "category": "Auction",
       "sources": [
@@ -2981,21 +2996,6 @@
       "description": "Taylor Swift’s Engagement Ring Designer Makes Her Auction Debut nationaljeweler.com",
       "image": null,
       "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155411883-o59x3wlt",
-      "title": "No Change: Fancy Color Diamond Price Index Stabilizes - IDEX Online",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9renJZcHZHVE1mM3g1UU9BQW45TmVvRk5YdTBoOEpXZi15LVV1bk1fVkFNYjc4b0ZjU05aRUE0MDZOdzdyR1dxY1hiMHNrN3dSSDNHXzA0X2FnYzA?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2025-11-03T08:00:00.000Z",
-      "description": "No Change: Fancy Color Diamond Price Index Stabilizes IDEX Online",
-      "image": null,
-      "category": "Colored Diamonds",
       "sources": [
         "Google News"
       ],
