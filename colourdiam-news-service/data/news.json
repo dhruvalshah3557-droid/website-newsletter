@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-08-20T14:09:12.747Z",
+  "lastFetchAt": "2026-08-20T17:06:16.865Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -56,6 +56,21 @@
       "description": "JAR Fancy Colored Diamond Ring Could Fetch $3.5 Million At Christie’s Forbes",
       "image": null,
       "category": "Colored Diamonds",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 12
+    },
+    {
+      "id": "1787245576197-6921db02",
+      "title": "This Colored Diamond Ring Crushed Auction Estimates, Selling for $3.7 Million - Robb Report",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUxDSHhJQmpLLWpzd1NtODFRNldpQ0s4UTFEaklCZXdxalFfcEl1ZW9JYlJqRTgxa1VsMmFheEc3QWVtX2Qzd3pBVTYtUnY3WEQ1RnFZV0gyeGp5TUttdmpGVTZ4UzlGdnNydldrTVk0YklJZU9nb0NicEtGRGxycXNlNjE?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2024-06-14T07:00:00.000Z",
+      "description": "This Colored Diamond Ring Crushed Auction Estimates, Selling for $3.7 Million Robb Report",
+      "image": null,
+      "category": "Auction",
       "sources": [
         "Google News"
       ],
@@ -827,6 +842,21 @@
       "relevanceScore": 8
     },
     {
+      "id": "1787245576149-shl9jvsb",
+      "title": "The Diamond-Dusted Comeback of the Cameo",
+      "link": "https://www.naturaldiamonds.com/culture-and-style/cameo-jewelry-history/",
+      "source": "Natural Diamonds",
+      "sourceName": "Natural Diamonds",
+      "publishedAt": "2026-08-20T14:46:06.000Z",
+      "description": "When Rihanna stepped out at the Dior Homme Menswear Spring/Summer 2026 runway show during Paris Fashion Week in June, she reinvigorated a trend from centuries ago: cameo jewelry. The pop star-turned-beauty mogul stunned in a pearl and natural diamond Artemis Necklace from Marlo Laz, featuring three strands of pearls linked to an antique gold cameo, surrounded […] The post The Diamond-Dusted Comeback of the Cameo appeared first on Natural Diamonds.",
+      "image": "https://www.naturaldiamonds.com/wp-content/uploads/2025/12/CULT_STY_JEWELRY-TRENDS_History-of-the-Cameo_Rihanna_Marlo-Laz_IMG_16X9.jpg?quality=82",
+      "category": "Jewelry",
+      "sources": [
+        "Natural Diamonds"
+      ],
+      "relevanceScore": 7
+    },
+    {
       "id": "1787155411632-0h5u1kij",
       "title": "Milky & Opalescent Gemstones Have Found A Foothold In Jewelry",
       "link": "https://agta.org/milky-opalescent-gemstones-have-found-a-foothold-in-jewelry/",
@@ -840,6 +870,21 @@
         "AGTA"
       ],
       "relevanceScore": 7
+    },
+    {
+      "id": "1787245576669-jaql791u",
+      "title": "The British Academy of Jewellery to liquidate - The Jewelry Wire",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJMXgzTU9hT1UwaDFBUzlzUnpOUkc3X3d3M0FjNXBxLURKb05hekRwMG9fRG9ZcW1ia3AtSEJKZHgxd0FTRGxXa3I4c2QwaFNwSWh1TFQ4UWVCZWZWeHpmWk9CWjl4ampZX1BaM0ZXMzhKQ0NTdWFXbWl3?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-08-20T14:18:22.000Z",
+      "description": "The British Academy of Jewellery to liquidate The Jewelry Wire",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 6
     },
     {
       "id": "1787219573139-84pb3qeb",
@@ -2267,6 +2312,21 @@
       "relevanceScore": 6
     },
     {
+      "id": "1787245576438-hta68bjo",
+      "title": "10ct. Tiffany Diamond to Lead Christie’s Auction - Rapaport",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53bDZJSHRiYU5LVDBFaUVsQVlyNlc2NWVfbE5OSzljYVBJQ1hBZTBxMG10MnJ2eFNibkVWeVdmSGhxdl9JaWlPRHpWN05mMHppVnp1bTd2UGZ2Q3JWTXFxQk4yNkNsVnJkX1JoNk1wNHBoZThvbG1XeHVoQ3c1UQ?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-03-10T07:00:00.000Z",
+      "description": "10ct. Tiffany Diamond to Lead Christie’s Auction Rapaport",
+      "image": null,
+      "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 6
+    },
+    {
       "id": "1787155412059-tufqtm57",
       "title": "Why Colored Stones Are Hot at Auction—and Diamonds Are Not - jckonline.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RRkJKcXBRLUxzbDR0NG9iVzlhQWQ5ZGUzUHR2Sy03WEFsN21vZFFySWxUelQ0WXRHVWQtSVFJY3hiUmNVRkI2SGwyWmpualpGOUZXQkg5ZFFBSVU5Mkduc2JJVkl4MmpSRFM0dGNLUEhSMkwzc2pVMTJRUQ?oc=5",
@@ -2936,66 +2996,6 @@
       "description": "No Change: Fancy Color Diamond Price Index Stabilizes IDEX Online",
       "image": null,
       "category": "Colored Diamonds",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155411910-gzqu6uoe",
-      "title": "Over 300 Colored Diamonds Among Top Lots at Christie’s Sale - Rapaport",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMk9OZ0FjRDU3aHVNNUwwYTg1U1FrZkp6RHFSX19xMWVNNmNkUzRBcUZsWFdmcVdGWFJWTkRyTkRVQzRSMUtFbjJoUlBpM3d3LVk4b2pURE5JbzJmVHlVYlFmcFZMQk55T2VsR1BVajIzUDNSeU5GLVFTbWVxYUcxd2VhNzU0dnpYQlV1LWVB?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2025-10-28T07:00:00.000Z",
-      "description": "Over 300 Colored Diamonds Among Top Lots at Christie’s Sale Rapaport",
-      "image": null,
-      "category": "Colored Diamonds",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155411874-u04osfev",
-      "title": "Colored Diamonds Rule Sotheby’s Geneva Sales - Rapaport",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9id1dFZmtlc0pJYjdFXzZDbjJQMm1ncVdBTk9GVkdHczlESXd4Q3VEcFFwSzZhNEkzd1JITzZLSnYzWnRUYmx0Umlta1BSRHRaMjRwT0t6LUthMTdubVV2MTlzVi1vUVRNOFQtV21mMFdOdGdOSHNLTFVB?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2025-10-26T07:00:00.000Z",
-      "description": "Colored Diamonds Rule Sotheby’s Geneva Sales Rapaport",
-      "image": null,
-      "category": "Colored Diamonds",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155413352-9e2n1dyy",
-      "title": "Pink Diamond, Vanderbilt Jewels to Headline Phillips’ Geneva Auction - nationaljeweler.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3RvSnZ0YzN4dnQ4YU9CLXlLVUZPWkFPNHc0Q01zd2VFYlhIamgzcGVzZjVMZDlLZzQ0TFg5ZTJPR0JCenJBSEdrYWRwMmRxaTFyYlY5VUVNN2MtMlJTaDZsUG9acmxUUUgtSEt0Y2RtMUZoR014MXBIWWd2amk1SHFLcmFBci1UYTdxVzJjWUx6dk91TGt4R3p2WUNsM1JQTXhoRzhsRXNRUGJLOVE?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2025-10-22T07:00:00.000Z",
-      "description": "Pink Diamond, Vanderbilt Jewels to Headline Phillips’ Geneva Auction nationaljeweler.com",
-      "image": null,
-      "category": "Auction",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155413581-5d594nbh",
-      "title": "Glowing Rose: High hopes for pink diamond at auction - Jeweller Magazine",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTlxUjVPS2JCc3hzTHNuTmJRaVp0cXIzajBjd2E4bE9aTVFocllWZldGQmMxMW1uVkx6Tnl5OEdMbWJHOWxIWmxicEN0cTYwdkVwYkdpZ1h5RkdkTkp6bmROUnhKQWhNaG5HTTZ6RHowRE4wMU9jR1lKNHQtaExtcW1UTDlId1h3RDJodlFkdVdWT0NrOGJ6VHEyQ19UN1E?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2025-10-20T07:00:00.000Z",
-      "description": "Glowing Rose: High hopes for pink diamond at auction Jeweller Magazine",
-      "image": null,
-      "category": "Auction",
       "sources": [
         "Google News"
       ],
