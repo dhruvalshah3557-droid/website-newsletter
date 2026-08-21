@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-08-20T21:02:02.202Z",
+  "lastFetchAt": "2026-08-21T03:31:03.879Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -1256,6 +1256,21 @@
       "description": "Fancy Color Diamond Prices Remain Stable in Q2 jckonline.com",
       "image": null,
       "category": "Colored Diamonds",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 6
+    },
+    {
+      "id": "1787283063505-5fbbqjol",
+      "title": "Top 5 Lab Grown Diamond Jewellery Brands in India - ANI News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNFBvNFhOcnhRYjhKdTRzNEtad0FMbE9hYjBPYWxUR254a1hHNjU4azRSbzdSOGJCR0RFQjVHcTY4cVczOGtpcXVUckdhbjNWcDRBN0hGQVhYY0hGRTBmcUs4Rks2a295blpRZkdySjg1dzR5TldCUGV0NUVhZDJKUVhDOXg0ZG84ZjlKNllQVGQtY19leTZPVzZaYXJCZFhHMGc?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-08-04T07:00:00.000Z",
+      "description": "Top 5 Lab Grown Diamond Jewellery Brands in India ANI News",
+      "image": null,
+      "category": "Jewelry",
       "sources": [
         "Google News"
       ],
@@ -2981,21 +2996,6 @@
       "description": "Video. Rare ‘Mellon Blue’ diamond expected to fetch up to $30 million at auction Euronews.com",
       "image": null,
       "category": "Auction",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155412156-rriz918h",
-      "title": "Taylor Swift’s Engagement Ring Designer Makes Her Auction Debut - nationaljeweler.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcjdvZE0wbWFDcUlZaERQdWRkSGJRb0o4SHVpVThNaEI1ajlDUXg0NmJJMjFPVGhtbzlHbHFmbnE1VF82VjBSOFNtV0otVVNDZ0gySlRBTy1rWHVfM1lfOWFHQmJIMnFVNTVOOUNFTjdXRlZ2RDY5VE4zWGZsMS1GU3dTVHQzR1RqVGFlVHk1a2RuTzhfVXV3Q0E3SDhKOUFjSkxHeldrWWI4UQ?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2025-11-05T08:00:00.000Z",
-      "description": "Taylor Swift’s Engagement Ring Designer Makes Her Auction Debut nationaljeweler.com",
-      "image": null,
-      "category": "Jewelry",
       "sources": [
         "Google News"
       ],
