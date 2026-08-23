@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-08-23T03:30:38.718Z",
+  "lastFetchAt": "2026-08-23T05:16:17.658Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -356,6 +356,21 @@
       "description": "What a Decade of Auction Data Reveals About Colored Diamonds Rapaport",
       "image": null,
       "category": "Colored Diamonds",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1787462177559-dzcckhff",
+      "title": "Rising Gold and Silver Prices Take the Jewelry Industry on a Wild Ride - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUVlXeHJiUjVNTHdXd1JUd2FnT3BxSFZkVF9SNW5YN2thMXI4aGZJMFBvTG1MZ2tJdEZmaHo5eWZxRkE1R1FWaHpFTy1XdGprRzhJa09ZaDAxZEo3b2xoRzBDemtjODRfcVFuVkhPTVVzQmowNUYtYjB2SnZYcHhyWVQyUTVyNHJPRlNN?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-03-12T07:00:00.000Z",
+      "description": "Rising Gold and Silver Prices Take the Jewelry Industry on a Wild Ride The New York Times",
+      "image": null,
+      "category": "Jewelry",
       "sources": [
         "Google News"
       ],
@@ -2981,21 +2996,6 @@
       "description": "25 Years of Chocolate Diamonds: Le Vian Marks a Jewelry Milestone jckonline.com",
       "image": null,
       "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155412584-mhdrieb2",
-      "title": "A Glittering Year on the Block: The Top Auction Jewels of 2025 - Rapaport",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd0JyWXRndHQ5dVZRWHRNcHlCalJZWFk2UXN5SHA3bVg4VlN6M1BEZEJRVy1URnJzTHhIX1Z6azk1UnZ4bkVXdGtSNjlQQXppUXpNbVdHWm13QmJwTVhEQjFyYWFLZWRqMlNFUGlHN2FqcktlSjAyWlNaVGJUMHB5eHVoZFlxd2lVQktidGs0VlowUQ?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2025-12-23T08:00:00.000Z",
-      "description": "A Glittering Year on the Block: The Top Auction Jewels of 2025 Rapaport",
-      "image": null,
-      "category": "Auction",
       "sources": [
         "Google News"
       ],
