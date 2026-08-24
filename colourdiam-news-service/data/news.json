@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-08-24T17:19:23.955Z",
+  "lastFetchAt": "2026-08-24T21:04:54.230Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -752,6 +752,21 @@
       "relevanceScore": 9
     },
     {
+      "id": "1787605493459-yv90pox1",
+      "title": "Rare Mediterranean Blue Diamond sells for a staggering $21.5 million at Sotheby’s auction - Something About Rocks",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZmsxZWljS0J2RTFhekpsNnNOcUJfUGNWTUJoY3ZfaVZRRXNtNVdBaDQ2Ym0xU050VmNmaW5NSTE2akhtWTAwd1oyU1ZKWUxZSEtjWS1kekFsMUhmTlVHZ19QcU9CakhSRFN3NlpNNVpUUXNqMGtXaC1IUnlBWGhJc0VSVUZzMFhZd1JFemxYVzYzNGxaWktmS1IwTEdNLTVPUkZzRWc0QkFsM21WUWhPU2Y0NXpSZ1V5?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2025-05-16T07:00:00.000Z",
+      "description": "Rare Mediterranean Blue Diamond sells for a staggering $21.5 million at Sotheby’s auction Something About Rocks",
+      "image": null,
+      "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
       "id": "1787155412241-l8oky4fc",
       "title": "Colored Diamonds to Rule Sotheby’s Geneva Auction Block - Rapaport",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2lLWEhZb0Fwd1EzOW9xVVB1aG1hWHdaem9YeDRMajBPME5EOWFGRmNhaURLZnlTRnFOMnZSX09NNHpiaXgyQkFUVlRGTzVCVkFnLU83Mkt1UkdkTkpSRkJGY29jMHVFNkFMdkpFMThKWWRRQ0xkaDh2TlQyX1ZWcnNfQ0pJdERQ?oc=5",
@@ -1138,6 +1153,21 @@
       "category": "Loose Diamonds",
       "sources": [
         "Natural Diamonds"
+      ],
+      "relevanceScore": 6
+    },
+    {
+      "id": "1787605493771-uz1obxpf",
+      "title": "Why Diamond Feather Jewelry Will Be in Style Forever - Only Natural Diamonds",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EcGxpVzRsMHR5MmZSMFhPZEdwN3RfYnl0OVpKcE9uUmdPcnNOaWdtM3Z4VmtmUGtjNXVWSzNlTExHbU0zNnVzR3pyV0JseTBjdS01b2o3dkZNdXRtb3VUOXJqdzFmaWJzak9vVUt0U0hvY2lM?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-08-21T20:59:21.000Z",
+      "description": "Why Diamond Feather Jewelry Will Be in Style Forever Only Natural Diamonds",
+      "image": null,
+      "category": "Loose Diamonds",
+      "sources": [
+        "Google News"
       ],
       "relevanceScore": 6
     },
@@ -2964,36 +2994,6 @@
       "sourceName": "Google News",
       "publishedAt": "2026-01-20T08:00:00.000Z",
       "description": "India’s Jewelers Grapple with Soaring Gold Prices, Falling Margins Rapaport",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155411919-797a9k2w",
-      "title": "Natural Diamond Council Says 41.82-Carat Rough Blue Diamond is an Extremely Rare Discovery - Centurion Jewelry Show",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzNQRDNacDUtUDgwVExRUU1ybEZqa1hzNWZCeVBPNmgwUnlSM1lKZ0FiZm9aVWZXa29DbGIwbG9kYmNxUzY5cDliWnZOZGt1clNKZl82NHBhZGYtQ19BQTBEdnNvMmp1S3lQVDBSR0QtNl9aZDhvZGtIcTRieERVNUd4RTVSRHJHYVRSVzREaFBoMHVYLUNoVGxYSkxNN3RsN3hkem5qQU5wZUVsUkdyWFB6RGJUN0ZCVmV5aFAzNVhCd2tHWF9UUHJpTmNCcDg0LVc2ellqOA?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-01-14T08:00:00.000Z",
-      "description": "Natural Diamond Council Says 41.82-Carat Rough Blue Diamond is an Extremely Rare Discovery Centurion Jewelry Show",
-      "image": null,
-      "category": "Loose Diamonds",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155413126-ke2360sf",
-      "title": "Gold-Price Jump Is Hitting Profits, Say Indian Diamond Jewelers - Rapaport",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUmVIYkxrOEJkV1RzUkI5RHozbE56dS1HTHQzX1ZrZFJlMENXQXdQZGpfaEZXSjBZak5ndVh5SDU2ZlR1MWw5QU9IeWh5RThnU2drMGZNaHdpMkF2XzdTN0RLbmxzaWY5WDJuSkJuTTFnZmJnNVg4eU5OR0cyV0xlemFvMGNSUlp5Y2twWG1rOVJMNjFzdHRFSA?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-01-13T08:00:00.000Z",
-      "description": "Gold-Price Jump Is Hitting Profits, Say Indian Diamond Jewelers Rapaport",
       "image": null,
       "category": "Jewelry",
       "sources": [
