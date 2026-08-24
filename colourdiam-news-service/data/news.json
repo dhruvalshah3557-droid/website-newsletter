@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-08-24T10:21:12.606Z",
+  "lastFetchAt": "2026-08-24T14:25:58.608Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -1097,6 +1097,21 @@
       "relevanceScore": 6
     },
     {
+      "id": "1787581557815-cj25zzus",
+      "title": "Flying High With Diamond Feather Jewelry",
+      "link": "https://www.naturaldiamonds.com/culture-and-style/feather-jewelry/",
+      "source": "Natural Diamonds",
+      "sourceName": "Natural Diamonds",
+      "publishedAt": "2026-08-21T20:59:21.000Z",
+      "description": "Explore diamond feather jewelry’s history, from ancient talismans and royal aigrettes to Chanel, Boucheron, and Mellerio’s modern designs. The post Flying High With Diamond Feather Jewelry appeared first on Natural Diamonds.",
+      "image": "https://www.naturaldiamonds.com/wp-content/uploads/2026/08/CULT_STY_Feather-Jewelry_BOUCHERON-QUESTION-MARK-PLUME-DE-PAON_IMG_16x9-1.jpg?quality=82",
+      "category": "Loose Diamonds",
+      "sources": [
+        "Natural Diamonds"
+      ],
+      "relevanceScore": 6
+    },
+    {
       "id": "1787345653641-69xa9cy0",
       "title": "The 10 Most Expensive Diamonds Ever Sold at Auction",
       "link": "https://www.naturaldiamonds.com/historic-diamonds/most-expensive-diamonds/",
@@ -1494,6 +1509,21 @@
       "sourceName": "Google News",
       "publishedAt": "2026-08-11T22:56:09.000Z",
       "description": "Democratic senators question Belgian diamond industry about ring given to Trump whbl.com",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 6
+    },
+    {
+      "id": "1787581558077-q2d3p6ok",
+      "title": "Democratic senators question Belgian diamond industry about ring given to Trump - 93.3 The Drive",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDNidXFLZlNZZm53ZWtzM3lUYVRyNDVobkczbjFFMU9CaVBtejhYel84eGs1aFZDQXhmeG9zN1JyaElwM01nSW9HdzM5T1NHNVQ3QWpfNWtDemVKVkN1dG05WVlrVllhajdmMGhFTTFuQjRUWDRBMnlzOGxlUnR0c2lVcmNMV1gyT2dkZlNwQm1xMmVwb3EwQUpkdTVRbzFnQjE1dGdzQTRRR180RnA2Z2R4aGhvNTVoQjZv?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-08-11T20:38:52.000Z",
+      "description": "Democratic senators question Belgian diamond industry about ring given to Trump 93.3 The Drive",
       "image": null,
       "category": "Jewelry",
       "sources": [
@@ -2966,36 +2996,6 @@
       "description": "A Rare 35-Carat Diamond Is Set to Sell for $3 Million at Auction Brides",
       "image": null,
       "category": "Auction",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155412981-qd5o0ffx",
-      "title": "Vekic launches DASH, a diamond jewelry brand with an athletic edge - WTA Tennis",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXRuQkcySHVuWm1FemwyeXlXLTRNRnpSOHQxRUxWU29XU1FGRVlIdkZSSnZaSU5FdWtLdU9VaExheVlJYzFYMmRzX1pJSENLUHQ2T3E1NEVWTFNZSDJKd1RHTWZzejV4T3hET2dYSUV2M3hGYVRsT19FZENqV0NQZVpLS3FUR0plbzdfVEV4RlkwVDhGVjFGd0FnSmJoS1dsOUplRUp3cw?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-01-08T08:00:00.000Z",
-      "description": "Vekic launches DASH, a diamond jewelry brand with an athletic edge WTA Tennis",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155412898-9a62jbyb",
-      "title": "The Best Jewelry Moments of the Critics Choice Awards 2026 - Only Natural Diamonds",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPclhaYWttVV9zX01GQkF0YWM0Wm5ab1c4b1hFalhhOWU2cUdiNFZJcFlmYjRidTRrajlsamFnSjFmWndFYkZ4bnlZbWpBelhpZkUtTVdTZlNHd3IwdjBVNll4ZjBjU1FoeDh3ejlkd1Voa0FrVkNlQWFMMmRkNlZIX3M4WQ?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-01-04T08:00:00.000Z",
-      "description": "The Best Jewelry Moments of the Critics Choice Awards 2026 Only Natural Diamonds",
-      "image": null,
-      "category": "Loose Diamonds",
       "sources": [
         "Google News"
       ],
