@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-08-26T10:05:19.928Z",
+  "lastFetchAt": "2026-08-26T14:25:29.760Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -122,6 +122,21 @@
       "relevanceScore": 12
     },
     {
+      "id": "1787754328916-sdaw15gd",
+      "title": "Graceful Charm: Diamond and Gold Bracelets for Women",
+      "link": "https://medium.com/@hirapannajewellers114/graceful-charm-diamond-and-gold-bracelets-for-women-6e398d63ae62?source=rss------diamonds-5",
+      "source": "Medium Diamonds",
+      "sourceName": "Medium Diamonds",
+      "publishedAt": "2026-08-26T11:38:51.000Z",
+      "description": "Jewellery is one of the finest expressions of adornments we wear to look outstanding on various occasions. When it comes to the most… Continue reading on Medium »",
+      "image": "https://cdn-images-1.medium.com/max/1440/1*9DNBvkYKzvtOs-EEI-R-Ew.jpeg",
+      "category": "Jewelry",
+      "sources": [
+        "Medium Diamonds"
+      ],
+      "relevanceScore": 10
+    },
+    {
       "id": "1787234952026-9uuascq4",
       "title": "High-End Diamond Jewelry for Women USA",
       "link": "https://medium.com/@moindigital/high-end-diamond-jewelry-for-women-usa-a7ee42017504?source=rss------diamonds-5",
@@ -135,6 +150,21 @@
         "Medium Diamonds"
       ],
       "relevanceScore": 10
+    },
+    {
+      "id": "1787754329263-h3p9gv7e",
+      "title": "KISNA’s new ad campaign employs humour to spotlight its 9KT diamond jewellery offering - The Retail Jeweller India",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1A2bmJleW1oQzAyQ0Itd00xLURyYU9sM3k1WmJnYnlmeFgxeDJjMXUzN3JlS3lLNDhFUWQ1YTdDci13eUM4SGliY21FaTNTQl9nWDVHdlZpX0hCcWVNS0NaT1BmdWViSFdlWEE4bkJHOHB3WTBVVTJXWUlnTHhDdWpsb3ZuWjR0cW1oQnRVUG5MZXlrR3o3NGx6TW1wVWxRSkc0UmdxblBva2ZCWUJJUENlWjVMQk0yUUE?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-08-26T06:42:09.000Z",
+      "description": "KISNA’s new ad campaign employs humour to spotlight its 9KT diamond jewellery offering The Retail Jeweller India",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
     },
     {
       "id": "1787691608551-knmbdx2a",
@@ -549,6 +579,21 @@
       "sourceName": "Google News",
       "publishedAt": "2025-12-04T08:00:00.000Z",
       "description": "13ct. Graff Diamond Ring to Lead Freeman’s Auction Rapaport",
+      "image": null,
+      "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1787754329046-wzgx2hgr",
+      "title": "Sotheby's Opens the Breuer Building For December Auctions - Only Natural Diamonds",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkxRTG5XSmVRbzVjTFh1TXlUenQtYi12QlhKS1RZZDREOGpWaWhlZzZvUy1pMm4yRnQ5ODNfaWxENkdhbFZDVDAzM0FsNEEwc0lPMjVjM3BwaV9Wd0xXNzViMXlqMzVkeTJ3Z1lMbFZJRURNREp4M3RjdjYyeEJWcQ?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2025-12-02T08:00:00.000Z",
+      "description": "Sotheby's Opens the Breuer Building For December Auctions Only Natural Diamonds",
       "image": null,
       "category": "Auction",
       "sources": [
@@ -1110,6 +1155,36 @@
         "AGTA"
       ],
       "relevanceScore": 7
+    },
+    {
+      "id": "1787754328915-aizce9xc",
+      "title": "These Everyday Diamond Jewellery Pieces Are Too Pretty",
+      "link": "https://hazoorilaljewellers.medium.com/these-everyday-diamond-jewellery-pieces-are-too-pretty-a0beec834fc9?source=rss------diamonds-5",
+      "source": "Medium Diamonds",
+      "sourceName": "Medium Diamonds",
+      "publishedAt": "2026-08-26T11:48:40.000Z",
+      "description": "There is something naturally beautiful about people who wear diamonds every day. They do not wait for a wedding, party, or special dinner… Continue reading on Medium »",
+      "image": "https://cdn-images-1.medium.com/max/1638/1*dMAsHZUFDzW-Np2avxCa5w.jpeg",
+      "category": "Jewelry",
+      "sources": [
+        "Medium Diamonds"
+      ],
+      "relevanceScore": 6
+    },
+    {
+      "id": "1787754329262-qbah6lsy",
+      "title": "KISNA Showcases 9KT Diamond Jewellery as an Entry Point to Fine Jewellery - Brand License - Indian Retailer",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRThUMDBLdnc3cU41dEwwU2NHWncyS1l4dGV5S3B5MTdXS3ZXbFpDaFVxd1BScFlzbExKQkc0SU1NeDB5WGtmRG9HU1ZEc1ZHSjI5ZnR3VXJGZS1mc2Rna1p6MkZnS3M1cXBianBPbDRiZ1pNQTNPTTZnVjc2eTVZeVpMM1RrZjJuYWxWYlZoWmxsYzFfdE9KRGo4X01uaDRWLXhDR01EU1JaVVFrRUp2UWRNLXVqQi1JOUhhVjlqRHZsQQ?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-08-26T10:12:19.000Z",
+      "description": "KISNA Showcases 9KT Diamond Jewellery as an Entry Point to Fine Jewellery - Brand License Indian Retailer",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 6
     },
     {
       "id": "1787738719104-qb1vb1qj",
@@ -2921,81 +2996,6 @@
       "description": "De Beers and Sotheby’s Unveil 28.88 Ct. Diamond Ahead of Auction jckonline.com",
       "image": null,
       "category": "Auction",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155412556-9bqb32zt",
-      "title": "Christie’s Online Auction Brings In $8.5M - Rapaport",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fRDdCSlhEbWVqZlN2ZHg4T0VBZkdycGdEOUgwOUNEdmF0UzZycm1aRWowZm45YU5xSUc1cjFjZ0s5dnZaWFVNcWJwRGYxb3ZiU2VVV05OUlFVLWFuM1lZMks1MHkyZkpBUmxvYWNvSWpwOVk0?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-03-22T07:00:00.000Z",
-      "description": "Christie’s Online Auction Brings In $8.5M Rapaport",
-      "image": null,
-      "category": "Auction",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155412656-1rb00ldb",
-      "title": "Sotheby's, De Beers Unveil ‘Jwaneng 28.88’ Diamond - nationaljeweler.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHVNZ3RyLUYzY0hVNkV1YlZibzFCY1UtR0Y5T29xQXhfbkJ4V28zZjUtX0t6U0h2T3V2NEJwNW42cEVVMVVWbGYySl9zUTlJRmQ2Ny1tZjR4SFBhX0lNRXpNYklVS25DTzVzaDRkYVp4dFdtSzd0eGlMYUNnVzkybF9lWHZmMXFYLXVMOU5Wd3QzdmlR?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-03-20T07:00:00.000Z",
-      "description": "Sotheby's, De Beers Unveil ‘Jwaneng 28.88’ Diamond nationaljeweler.com",
-      "image": null,
-      "category": "Auction",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787345653711-4px7w9ap",
-      "title": "De Beers and Sotheby’s to Auction Never-Before-Seen “Jwaneng 28.88” Diamond - Galerie Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeHBnSjgzZm5SN1ZZdk1QZU1FRUtEalpwV2VYNVlfX3N2UXFfOTljbW1Vb09XRTE4S3NNOVY5RG55bndPOUFzNWk4cDc3clA2eks2S3p1Y05tLTZfUXVqZlRsUGFsVjhRWEtFN0xDcGZTYW5LZ0dzZl91T0RtV25mbWloQXZKU1pUX3c?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-03-19T07:00:00.000Z",
-      "description": "De Beers and Sotheby’s to Auction Never-Before-Seen “Jwaneng 28.88” Diamond Galerie Magazine",
-      "image": null,
-      "category": "Auction",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155412547-aqhlnjt6",
-      "title": "The Mechanics Powering Heritage Brand Jewelry’s Secondary Market Appeal - observer.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRDBmcjNaWHk3MHc0dVptcHNYZUM0cE5hZmlDb3pfeV9LUnJRTm5PYlZzLVlVTGVTUGRYOUZvMHpNNUFIbWZaTUpqQVR2VVl3ZE42czY3WTVNU2diVjBPcWtYOWRzUXctWEMyTmp1NnhhZk1SXzJrekk5dFlSY3JJMW1iSjU?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-03-13T07:00:00.000Z",
-      "description": "The Mechanics Powering Heritage Brand Jewelry’s Secondary Market Appeal observer.com",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155412893-5vk3oghe",
-      "title": "Amazon sells lab-grown diamond jewelry — plus 9 more unexpected finds - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TeVNFMGxWMHpMMnZHbGFJdjRQZUQzVzY1SGctcUc5Y3JleWRfUWpuamxRU2lXZlp5NzJPek9tNFp5S1RfUTRHd280NW5kUC1oU2Y2c3RoLXJGT2c1RUN4d3dTUUE2M1U?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-03-12T07:00:00.000Z",
-      "description": "Amazon sells lab-grown diamond jewelry — plus 9 more unexpected finds Fox News",
-      "image": null,
-      "category": "Loose Diamonds",
       "sources": [
         "Google News"
       ],
