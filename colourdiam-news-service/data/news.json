@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-08-26T05:20:31.615Z",
+  "lastFetchAt": "2026-08-26T10:05:19.928Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -1110,6 +1110,21 @@
         "AGTA"
       ],
       "relevanceScore": 7
+    },
+    {
+      "id": "1787738719104-qb1vb1qj",
+      "title": "Diamond Jewellery in Delhi: How a Small Piece Says the Most",
+      "link": "https://medium.com/@isvariindia6/diamond-jewellery-in-delhi-how-a-small-piece-says-the-most-308e87ca6b71?source=rss------diamonds-5",
+      "source": "Medium Diamonds",
+      "sourceName": "Medium Diamonds",
+      "publishedAt": "2026-08-26T06:13:14.000Z",
+      "description": "The first diamond jewellery piece you buy may not out to be a spectacular purchase. Continue reading on Medium »",
+      "image": "https://cdn-images-1.medium.com/max/1170/1*hwqo_I6yc-dtlpridUVAoQ.jpeg",
+      "category": "Jewelry",
+      "sources": [
+        "Medium Diamonds"
+      ],
+      "relevanceScore": 6
     },
     {
       "id": "1787715278378-k71l7y2k",
@@ -2981,21 +2996,6 @@
       "description": "Amazon sells lab-grown diamond jewelry — plus 9 more unexpected finds Fox News",
       "image": null,
       "category": "Loose Diamonds",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155412103-7itsx7x4",
-      "title": "‘Spectacular’ 26-Carat Diamond Going Up for Auction in London - nationaljeweler.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZjJ2eDBIVFJJSVUxSUJ4UzRjTDZNVW1ndy1FMEpQdzJHbDV1cnZOSklHLUdXbGx2UnMzLVhQZHBmT3ZibzhETHBYX2lGTjhUVDVsZFZsSVZEdnE5OWgteXlNMUV4a3VwUWVrZ0x1WGlnVVdNaE42Z3VGT180V0d4TkV3bS13NG9tM25BaHZoQWhVVk5HOXNOdW42T29peUJEcUJSbg?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-03-11T07:00:00.000Z",
-      "description": "‘Spectacular’ 26-Carat Diamond Going Up for Auction in London nationaljeweler.com",
-      "image": null,
-      "category": "Auction",
       "sources": [
         "Google News"
       ],
