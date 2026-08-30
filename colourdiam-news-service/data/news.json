@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-08-30T18:57:21.938Z",
+  "lastFetchAt": "2026-08-30T22:15:55.217Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -11,6 +11,21 @@
       "description": "Sotheby's Jewelry Auction: June's Best Diamond Offerings Only Natural Diamonds",
       "image": null,
       "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 15
+    },
+    {
+      "id": "1788128154335-iwb8dtbi",
+      "title": "Three Fancy Colored Diamonds To Lead Christie’s New York Jewelry Auction - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZG1fY2tXZzJZUk1JbGNNVnZ5eE90N1B3Y3RtYzRiTTEta0gxVEp4azYxUjJpc3BRdnJBdWFqZUFPcXBUOC1oTXd3R1dFdUNONWhIZjRVQmtUbnBWWjNhaEpPNzFjTFB5VTlGMWxPdVFYVEhxdE05a3ZoSExRZ3RFSEJpM3FjZFRqTGZBOG5QY05FS0w0OWtaY3RKTTVZUDRhZUFiUE05R00wa21MZWxzQ1dMSl93TWdCNUhnVnBobnhiSXpRTEE?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2021-03-27T07:00:00.000Z",
+      "description": "Three Fancy Colored Diamonds To Lead Christie’s New York Jewelry Auction Forbes",
+      "image": null,
+      "category": "Colored Diamonds",
       "sources": [
         "Google News"
       ],
@@ -1187,6 +1202,21 @@
       "relevanceScore": 9
     },
     {
+      "id": "1788128154313-a4vf55zb",
+      "title": "De Beers’ New High Jewelry Collection Is All About Fancy Color Diamonds - nationaljeweler.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSXRfRmZ5Z3o1SnNhZmZTUHp3ZzRKWjdBUzd0LVZCYml5Vmh0R01ia2E1RGhxcm1Cb3NQVDdnV2F3ZW14dEpvZEZlbS1JSUlCMEwxYnR3NTlnMUJScGQzWW4wMnRUNjktZ1hMaVZ4ZXdSd0ppSFFqZnNBVDNJcWZiSE9RYnc0R3ZkRGY2cjhyYVlfWGxSYWdHV2Z5MEUtNWlhbmNRSDg3Mkl2em5wNEtoeGNiczZQQUE?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2021-02-03T08:00:00.000Z",
+      "description": "De Beers’ New High Jewelry Collection Is All About Fancy Color Diamonds nationaljeweler.com",
+      "image": null,
+      "category": "Colored Diamonds",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
       "id": "1787406194891-attmpfmz",
       "title": "Eden Rachminov Releases Fancy Colored Diamond Grading Book - nationaljeweler.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOG9pZktHUnc2ejVPbi1BbWpaUzFFM1R3SFFZa0JmVWFWcUJwRzZWN0NmZHlQX1dYSTNYeVJWaEhvOXFPNkhXSnZ6TkFDa1lwMlZqaG1zZkRaemotTUdOcEc1OG52WmI3bUlaRm9BVWY1TVBzRlk0RkctejlyVGdBVGpHaVVMTkd3eGdNMVZhbHR6OWt6RVQtOHBqa2lnQTNYaG9TcW5xQQ?oc=5",
@@ -2327,6 +2357,21 @@
       "relevanceScore": 6
     },
     {
+      "id": "1788128154722-5my2zvwc",
+      "title": "Is the diamond industry dying? These young people disagree - The Jewelry Wire",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MMUFhUzRoeTdTYlpBdGdHY0M2V1R2TkE3b2IwcmVRTUo2VlJsbHVuQVV4TVVuVW9vS29IVF9wMVNZdVkwNDZRVXZUX3RmV2oxb3dyel9CNC1TWDBIRFVleWFVQWhsZWxZT1ktbXNISXZpWk5XZm9rRnUzUzd6QQ?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-07-27T07:00:00.000Z",
+      "description": "Is the diamond industry dying? These young people disagree The Jewelry Wire",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 6
+    },
+    {
       "id": "1788057859581-2re7lkxf",
       "title": "New US Tariffs Include Diamonds and Gemstones - Rapaport",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEMEhMenBuWmNGX2pqZ1VwUkttRTAxckVhRjY1Y1h3aXVWZVNLaElxSXNVLVdhVG1DVnlDZEdLcGJhWktWWTE2UFZRMnVpNVoxQmVaRnVuWWxsOWV6S3BCdUxpaHB4anBYU3cwZXlWT2hmNlBKT3pLcDFvYTg?oc=5",
@@ -2951,51 +2996,6 @@
       "description": "Report: Signet Jewelers to buy natural diamond jewelry brand The Clear Cut Chain Store Age",
       "image": null,
       "category": "Loose Diamonds",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155413248-6oy5srv2",
-      "title": "Pink Diamond Ring: Why This Rare Gem Is the Ultimate Luxury - Only Natural Diamonds",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mOTRNQzBUbkxoX1VUU0FMSTl5T1d4dThYNFpWV3E2QUthZ0ZDa2RUSWxvcWtuZHg2dW5SWm02MzJXOVJvY2N0b0w1c0FHQnVpb3pRTk81RG95Si1Lbl91QVBhMnlmTHh5SDlKR0lTeDY2aExCTWRyNlloZVk3Zw?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-05-28T07:00:00.000Z",
-      "description": "Pink Diamond Ring: Why This Rare Gem Is the Ultimate Luxury Only Natural Diamonds",
-      "image": null,
-      "category": "Colored Diamonds",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787715278440-ck7hn346",
-      "title": "Intense bidding war for sapphire and diamond ring - Jeweller Magazine",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUGRtQzJ1VS14U2dtdzJLcU1jVy0tMUxVNnJlOFB5bGN1VVFpVVZfTTVjRjEwNXlVN1BZdUJJZTFrUUUta2YteGlRTWlCbkU4b2YwNFZNY01JVFdrTnRKOUpRYzlkazlEZGxONEk3T0JOODdPX1JabXcwMmk3RjhENFdUdUl3ZUJQSUlZeTNJVXdlRjFaVVdrMFZ5dHQ?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-05-26T07:00:00.000Z",
-      "description": "Intense bidding war for sapphire and diamond ring Jeweller Magazine",
-      "image": null,
-      "category": "Auction",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155412097-ja0swwoc",
-      "title": "Sapphire Ring to Star in Sotheby’s Auction - Rapaport",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMcU5aRVBadThnT1Q3SjNKYjRfd3BQdmZPcmxwc1lLSjg2ODZyN2JTaWpHZTUwWVd0eU9JdUhHTVliSVlvTm9EX0MwNlZ3SUxQQjRsa3BMN1FtTE01WEhOd1k3aGJDcEkzdFh3bVkwVmdfZWxyU19Z?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-05-25T07:00:00.000Z",
-      "description": "Sapphire Ring to Star in Sotheby’s Auction Rapaport",
-      "image": null,
-      "category": "Auction",
       "sources": [
         "Google News"
       ],
