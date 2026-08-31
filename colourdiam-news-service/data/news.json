@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-08-31T10:18:21.870Z",
+  "lastFetchAt": "2026-08-31T18:31:27.782Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -594,6 +594,21 @@
       "sourceName": "Google News",
       "publishedAt": "2026-02-05T08:00:00.000Z",
       "description": "BuzzBallz Auctions Off Pink 'Lemonsqueezy' Diamond Ring For Charity 02/05/2026 MediaPost",
+      "image": null,
+      "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1788201087161-5c4e4hhd",
+      "title": "BuzzBallz Auctions Off Pink 'Lemonsqueezy' Diamond Ring For Charity 02/05/2026 - mediapost.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUFDakJPVnN6WjYzTE5CQ2JqNm5aNTF3TW8xNjZfNnpNZENWSkdqLVJIWUN5NUF6Xy0yRVdRZjF1a1RtS2s5MkNVZ3NMbGJzLUZYOXpaVzMyWnQwUjNJTjEtU0VkYnB1OThTYzBWOXZmVlpyYnBCQW55N2RRT21KUWg5R1AxY3J5WDEtVERkTkVGbDI1UjFHNWRPNVNuLWZWalpUcVpSMWtSSDQ?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-02-05T08:00:00.000Z",
+      "description": "BuzzBallz Auctions Off Pink 'Lemonsqueezy' Diamond Ring For Charity 02/05/2026 mediapost.com",
       "image": null,
       "category": "Auction",
       "sources": [
@@ -2981,21 +2996,6 @@
       "description": "GSI Aids in Recovery of Stolen Lab-Grown and Diamond Jewelry Rapaport",
       "image": null,
       "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155412384-xl5mg5ja",
-      "title": "Christie's Presents Magnificent Jewels featuring The Azure Blue - press.christies.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN25rODRRakRuanpZdVdkSkdScHdtLWU5ZW83eDd3ZE51V0loS1dLSll2WHc3ZktkOU12Zi1fWXRxSFg5aDhpVXJRVjVyMzFCQnBhUTZtV053UjlsMTdiREs1b1VqS3ZZMlhVVTF4Z2hOUEo0M21IUzVVeUVLRXBsVFpzR1JqaEZXNFNoMWEwVFZGZ0N4UHc?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-05-29T05:32:33.000Z",
-      "description": "Christie's Presents Magnificent Jewels featuring The Azure Blue press.christies.com",
-      "image": null,
-      "category": "Auction",
       "sources": [
         "Google News"
       ],
