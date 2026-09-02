@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-02T19:07:32.690Z",
+  "lastFetchAt": "2026-09-02T22:12:23.217Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -180,6 +180,36 @@
         "Medium Diamonds"
       ],
       "relevanceScore": 10
+    },
+    {
+      "id": "1788387142601-238ahdpr",
+      "title": "571 Fancy Colored Diamonds and a Snake That Tells Time: Inside Morphy’s September Sale - jckonline.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3Ni1ScUp6cjlCcjJ4MzhvVC03bVM4M2J0OGZ1bWtDMHdCY1pVUk5LQzd4eXhXRGxqMWlKb0Z0SURPR2tWN3c3WG1oSUY0ZG1Xb1VobjQ3Y0R1MTRBeGVPYkthNWt4X2o5TGdJbUxQMkYwNGJB?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-09-02T18:24:35.000Z",
+      "description": "571 Fancy Colored Diamonds and a Snake That Tells Time: Inside Morphy’s September Sale jckonline.com",
+      "image": null,
+      "category": "Colored Diamonds",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1788387142746-4d0iha0x",
+      "title": "SEC brings case against former Lugano Diamonds CEO - The Jewelry Wire",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONWcwRk5XNXhwel80OHh3WjBJbUtoOG40Y2tvV0FWX0pNMVNoRi1jTy1GbkdFS1lXMTZYOEVJREhBZWZPSWYtUGpHSUxCa3ZOa1NKb0tEZklZNUpSSk5WZldTNlFhaFBKTnJRS2NKeHQyZzVsUGNUblV3Q0lxV3lVcw?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-09-02T13:21:48.000Z",
+      "description": "SEC brings case against former Lugano Diamonds CEO The Jewelry Wire",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
     },
     {
       "id": "1788336964738-ejyli0mx",
@@ -1316,6 +1346,21 @@
       "description": "Estimated at $28 million: Met Gala's Bulgari Laguna Blue Diamond Up for Auction slobodenpecat.mk",
       "image": null,
       "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1788387142194-q02b4dsl",
+      "title": "The Blue Bulgari Diamond Priyanka Chopra Jonas Wore at the Met Gala Could Fetch More Than $25 Million at Auction - Robb Report",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV2xQMkhMX1p1VUt2M0V6NGtpQ1BEam5EcTR5c1VSaWdjWVFBLVI1cEI2cExHc2JQcmVZX0pVYmNaUFByZ1VwV010dkdYX0JMTFZxTi0zbWM3Q25teUptdkJBaURBMWo5YnBPZXpLRjB3ZzdEbEtGLUVURzV1bUg0Ykc2ektmcUtvejBDQkZ5RVVITFd3cnh0OTBBZUMyMkE?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2023-05-02T07:00:00.000Z",
+      "description": "The Blue Bulgari Diamond Priyanka Chopra Jonas Wore at the Met Gala Could Fetch More Than $25 Million at Auction Robb Report",
+      "image": null,
+      "category": "Met Gala",
       "sources": [
         "Google News"
       ],
@@ -2702,6 +2747,21 @@
       "relevanceScore": 6
     },
     {
+      "id": "1788387142941-wry2ynnc",
+      "title": "Could De Beers’ diamond legacy sell for just $1 billion? - Jewellery Business",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb1V3b1RfYUE0eWY3OVdCTVlpZ2twdm4xY1d6dTNmaFhxUFBnMC03ejdrVndBTE5UdjN4WlZPVXAza3BGbjdub1lVdjFfcjJZUnFPekF0NGtqNFI5VmtrZU9MdTRhM1NCUkNKV1I5c0NUSnZSUkstYjdQQzNQdnVmRU05X0lwYlYxVUR2dmV4RjdRdk1VSFhsNQ?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-08-01T07:00:00.000Z",
+      "description": "Could De Beers’ diamond legacy sell for just $1 billion? Jewellery Business",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 6
+    },
+    {
       "id": "1787879415519-gxvcc5zx",
       "title": "Rat 'Steals' Diamond Jewellery Worth Rs 10 Lakh From Store Near Bengaluru, CCTV Solves Mystery | India News - News18",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlkyX1dBRk93ZEh2SmJQd2RiUmFILV92NnYydnRsQVlUa3puemk0VTNXVk5iYTVSWkVGZEJBbHg0UFJGYnMzVUlQUFc3T2lHUEVDMmN6TmpfN0UxbF85S0tUQXNheml1RTNERWVIUXhPM2preU9TMzlTQ0taLUF1bGVGS3kxcHJCTnVkUU04ODVGN0RvN20xMXk1cHRIZF9nUXljY1h6V2lvcjlT?oc=5",
@@ -2934,66 +2994,6 @@
       "sourceName": "Google News",
       "publishedAt": "2026-07-10T07:00:00.000Z",
       "description": "Natural diamonds may finally be allowed to escape from tariffs The Jewelry Wire",
-      "image": null,
-      "category": "Loose Diamonds",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155412997-n03tblq8",
-      "title": "Lab-grown diamond jewellery brand Aukera raises ₹90 crore in funding to accelerate retail expansion - ET Entrepreneur",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWd3ck4wUGczTzhwLU9MUE1zR25NbDdBT1FSbjF1MXdpY19VbWE2bXFIOVFmQ3U3c0FTWC1la3V0VHBLdFVreFlMRGpyTGExSWtSYldVZlFjX2hodjNmdENLaURuSGtxcS16RksxVmFEb01KZ2FuR29ndC00RWxPc1dqd3FpTjJPckFUd3RnLUJTSkZMQWdVVmZEZXVRYzdMTDM1bFQtU05EVnVKbDM2VGlqOTNMM2JENmt3VVd5amdNQkpBX1FtNzF3WUxiYU5naXBqVWRLcVVxaWtja1lUdNIB5gFBVV95cUxOMnlSQUx0QW8wblJuMldnUW9sY0dlQThMS1o1NjMzYjhEMEJzemlKMjQyMklFSF9aX0FteEJpYjU2R3VyTUtXRVUtT3A0aEtXMEo3OVRCTVc2U3pMSVZSaHh3ZjM1OFA5dFV2OUhWMk9CRVRlZHUtcFpYT1E3bkozb2Q5TEZoT0hqenlWZ0l5Ym5GWUVvMzkxVU1PY0hndHRxcno0ZXc0aUFwdXVVRW9QWWhOMnVxSzRVc1FFYVBPcm5kRUp6MVg2a3Y3LUhnV3ZmRWh1dmE1cGZMaFhubmhaYUwxSElnQQ?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-07-10T07:00:00.000Z",
-      "description": "Lab-grown diamond jewellery brand Aukera raises ₹90 crore in funding to accelerate retail expansion ET Entrepreneur",
-      "image": null,
-      "category": "Loose Diamonds",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787173118320-ietrciv0",
-      "title": "The Diamond King: How Nirav Modi’s jewellery empire came crashing down - The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa2xlODl3TGpFcXRmVXg1SE5acUVfWjZmWjdDbWtDZjRGZXRhMkRtSzRodXFINVVYTGxYUTJGazlZNl9QZy1GNmN6RjZQSmUyQ1Qta3Z2akplT1R6OW5ldURUcjFjOWE3SW5tTUN5MUNOYXdBWGRDOTFiRmtHZDhjZkZiOGNGN241ekQ5Sm9VZUpUZ2ZhTE1zV1VRLXBqZw?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-07-10T07:00:00.000Z",
-      "description": "The Diamond King: How Nirav Modi’s jewellery empire came crashing down The Telegraph",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155412873-cr9l5khw",
-      "title": "The Diamond King: How Nirav Modi’s jewellery empire came crashing down - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM3BTLXEyRHJkXzFCcWR1QUh4R0FhaWZlc3RKSnFVUW9nSFItYjEzQUQ5c05iemYyMnZIRFd5YWdaYlN2eXRpLVVxZDYtdmhJZzJOSXV6cjh6ckFMSDN0QTIwSG83MEJkVEN2aXd2MXduV3ExTTlXVnVpN2JvWFdLSmtZdlJocnZ2SDhsWHIxd2pqTHlHQlE?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-07-09T07:00:00.000Z",
-      "description": "The Diamond King: How Nirav Modi’s jewellery empire came crashing down Yahoo",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787879415556-88gapxjl",
-      "title": "Divine Solitaires Highlights Seven Natural Diamond Jewellery Pieces for Monsoon Styling - Indian Jeweller",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONzgtUkJzSWIycmc3dWN0RTJPZlJKSVhFbXZJVXZWc3RUTVJQd1JKM2pVakNVUlFKaDByVmU4YjFqYVU4VkRMQ0FELXN1Yk9ET01waVgtSmZTbGVERktuMkJlaExwdXcxdlpzUUFHRG8wYW01M2s3V09MZU1ZNHVPcEFGVnNQRXQwX0ZpWUZrTzdLZGxLTGJHRjQySFMtbGhxZl82bzh2aEFlTGhNLVFUU2oxdVc3NEVtbXhUTEhJQy0yYWhVUUNqeTI4TzBUWnM1OTF2RTFJeDJGNEJxemc?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-07-09T07:00:00.000Z",
-      "description": "Divine Solitaires Highlights Seven Natural Diamond Jewellery Pieces for Monsoon Styling Indian Jeweller",
       "image": null,
       "category": "Loose Diamonds",
       "sources": [
