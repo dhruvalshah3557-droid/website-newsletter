@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-02T15:42:44.319Z",
+  "lastFetchAt": "2026-09-02T19:07:32.690Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -339,6 +339,21 @@
       "sourceName": "Google News",
       "publishedAt": "2026-07-16T07:00:00.000Z",
       "description": "Malabar Gold & Diamonds becomes the first exporter of jewellery under India-UK FTA Gulf News",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1788376052009-om0pyz6j",
+      "title": "Verlas Brings New York’s Next-Gen Diamond Jewellery to India - Press Trust of India",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY2xIekwwc192VFBkNDFZbkRJSXZpZlFIcWtCcnkzLWszWEptS2VnU0haNWRwc3BFVlgzOXotUmJUMUsxeHpaYjhmR3hNRU9ra1hCa1FqeFF0SnBwbktvWkdDaS13aEZuQnpweURENHQ3S0NFNFUtU3BjZUVpV0l5NXVfZ1p6Z284eENmS291SFFSdmVtdnVnWEN3bEc3QjEwV0YzRjRySjJxSGJ3MXZqT0NjQlk?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-07-07T07:00:00.000Z",
+      "description": "Verlas Brings New York’s Next-Gen Diamond Jewellery to India Press Trust of India",
       "image": null,
       "category": "Jewelry",
       "sources": [
@@ -1262,6 +1277,51 @@
       "relevanceScore": 9
     },
     {
+      "id": "1788376051731-glwrmnha",
+      "title": "Vintage Blue diamond worn by Priyanka Chopra Jonas at Met Gala to be auctioned for about ₹204 crore - Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVGpOLTBtUUxPUlM5TUdyc3BNMGNkQ1JCUVNIc0szRTN3bnl0anluRU43Y0d4emlGNWhWQzlCSzc4T1RlOTlzaXdNMnZIMDhCdVFmZzZfRzl5bkZRU1NmYm0yZjlaLTYySUVwb0gyZHhxLW5CdWV3aUN1QXBKcVo3TnU4Y2ZabDBucmI3RVNNdnQ4YkI1ZnYxVWkyRktkdkxvTklLVzFRLVRTeTQ1ZkxHUEZ2b1RuODl1czlVY195Uy1IalBhZ3NHU3VCcUlPQzBRN25iZG0xOA?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2023-05-07T07:00:00.000Z",
+      "description": "Vintage Blue diamond worn by Priyanka Chopra Jonas at Met Gala to be auctioned for about ₹204 crore Free Press Journal",
+      "image": null,
+      "category": "Met Gala",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1788376051696-ysese2om",
+      "title": "Vivid blue diamond worn by Priyanka Chopra at Met Gala could fetch over Rs 204 crore at auction - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQmEzSWlaSVN3MWNyYmxOYzRNU2Jhcy1aNF92NTg4Ulk5b2x4V29URHN4d2M1dnhRSjdtcERFejR4T1hweVFLM215Zl8wZTJiVk9yUW5UZWNVOHhaSS16YlZFaHJjbWtNZGR1LUdVTk1VVkxtelVBcXQwLUl3Z2RyazdBbE5yNlduYmFEclU4ZUloVFZVNU53V0UwMTFHS0RtSFhuRUxNUE1uMDNSN1hsLWxscE4zUG5kdEQzSmtfbzZNMlHSAcoBQVVfeXFMTlZCcldhSnNxVWlBMWF0UEMyOS1hNU1DM2t6TUVqWXY0dVpVQUhSR1g4SU5RazY5eWNIWmVwN2p4eHlmRmV4VktTNnNMSnYwa1h0TGtmdWh0azJIa3Z3dkRuNHNCWDRxMS1FZXNoclBFdEtuNzNFUDQwbjhmQk9RMVBCR3VVU1huSFRxcmg3RVVpc0dsUVY1R0hlUnAwYlRfNmFmVWZFeWlXSlpCX2xaYmlXSS1iVXpZempFbzAyS0sxTktEZUNHN3U1dw?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2023-05-06T07:00:00.000Z",
+      "description": "Vivid blue diamond worn by Priyanka Chopra at Met Gala could fetch over Rs 204 crore at auction The Indian Express",
+      "image": null,
+      "category": "Met Gala",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1788376051732-h9evxhte",
+      "title": "Estimated at $28 million: Met Gala's Bulgari Laguna Blue Diamond Up for Auction - slobodenpecat.mk",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTDZzQlJmZW5pcV9fV2NmTzZ1SS1saFdKVTRnaXU2aVdhQTVRaGZObVdWeFJhSW1nVU5HZjBPQjRVMjNhWUFSMm1WZmxHbHBJUm00V3dzZ1lRSFVUN3hIVm9hRlRxZmRsaU5jd1BZemRqSkREeThZZjVUZE82Z0VhazROQWZDNlNLNHI0VHUzRGhqdktrdS1Na1Y4RF9oUUhUSlVzeXp5VjZqcmhXTUNIUmxwRkhjWlRjbjlV?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2023-05-04T07:00:00.000Z",
+      "description": "Estimated at $28 million: Met Gala's Bulgari Laguna Blue Diamond Up for Auction slobodenpecat.mk",
+      "image": null,
+      "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
       "id": "1787155412291-wldrqkli",
       "title": "Colored Diamonds Shine Bright at Heritage Auctions - Antique Trader",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOXzctb2tBWnJOVFltVm1HZnBmMnk2OHkxOUhLMlhUcTBrQ0wtR0dkbkVjdjBDVlN0emVhZ3d2bGlHODlYbjNxRjVJLUptcXE0QWNhMVh1WTZURGpNdVhxanhGdUFUci1UR1VIdGR2MF9xSnlYdUF3LXd0V3IwVGVaUmliTXU2R1NXN2c?oc=5",
@@ -1301,6 +1361,21 @@
       "description": "Vivid pink diamond sells for $28.8 mln at Christie's auction Reuters",
       "image": null,
       "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1788376051700-arsiqzcr",
+      "title": "Grimes Auctioning Off Her Met Gala Accessories to Support BIPOC Families in Ukraine - diamondworld.net",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XUW1ycWlmT3AwZkRlRUwxMzd1N0dMV2JhY1pMODZXZEd3ZkdPeG5fU2R4OW5CckNGQmd1Y3YtQ29rYmlEYTVZQlVBLTdlR2NS?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2022-05-19T07:00:00.000Z",
+      "description": "Grimes Auctioning Off Her Met Gala Accessories to Support BIPOC Families in Ukraine diamondworld.net",
+      "image": null,
+      "category": "Met Gala",
       "sources": [
         "Google News"
       ],
@@ -2822,6 +2897,21 @@
       "relevanceScore": 6
     },
     {
+      "id": "1788376052479-1nrk2pkp",
+      "title": "Botswana unearths massive 1,305-carat diamond, marking its 10th record-shattering find over 1,000 carats - Business Insider Africa",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTlNzZXFSQ3MySnNBdTdBRW1fQ1ctUjBFV1hFbDlELTZhM3JkX0Z6dXNxUEtaMnZ3TUJoMDRidm45Tzd3bXJCLS1BOFh1Q2VMeUZoV3RnTzZtb1Naa3NTcUhkUVp4TjgyazRHLW5EaDFnS1hVUS11dmxBaEZLanlqa0VuOGJ2ZmRvaVB0bUk4Y2FCTkVaRHBaVHl0bl9SNUJYVUhDcW1WNTI2MnUzS2p4WVllNFVET1NzTjFubXJvR1g2ZlBZYWI1U3oyWXJDME1lY241cE12d0k?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
+      "description": "Botswana unearths massive 1,305-carat diamond, marking its 10th record-shattering find over 1,000 carats Business Insider Africa",
+      "image": null,
+      "category": "Loose Diamonds",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 6
+    },
+    {
       "id": "1788336965101-wjzalmp3",
       "title": "Lab-grown diamond jewellery brand Aukera raises Rs 90 crore in fresh round of funding - The Retail Jeweller",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdGhSRnBSdGxkNk1uZ0NEY21HX0o0TmlkNXhtTkptYlhzSHEtUzF1ejhBNjRUMGN0Wlk5ZmdVa18tdTRtYVB3OUtXSDk2bDUtLVgza0xVcHF2MTJZdnJOb2JhX2x2RWY1ZnNCYmFxUHh6SVF2b3hmeTlpOEgwOTRoTlRoRElpbGpIakdfTUtCTHRnajl2YzFqdGlmMnI1TDRLVjdraktGQWYwR21PQ0RMd1kxS0xWelRhYkE?oc=5",
@@ -2906,96 +2996,6 @@
       "description": "Divine Solitaires Highlights Seven Natural Diamond Jewellery Pieces for Monsoon Styling Indian Jeweller",
       "image": null,
       "category": "Loose Diamonds",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155411628-bo6cyrmf",
-      "title": "Chanel brings on Signes & Symbols High Jewellery Collection",
-      "link": "https://www.thejewelleryeditor.com/jewellery/article/chanel-brings-signes-symbols-high-jewellery-collection/?utm_source=applenews&utm_medium=referral&utm_campaign=applenews",
-      "source": "The Jewellery Editor",
-      "sourceName": "The Jewellery Editor",
-      "publishedAt": "2026-07-09T05:18:26.000Z",
-      "description": "You could read all 368 pages of the brilliant biography of Gabrielle Chanel by Justine Picardie to understand the mercurial genius of Mademoiselle Gabrielle. Or you could take a look ...",
-      "image": "https://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/filer_public/55/5f/555f309f-9943-4c0a-b969-1ba30a5ee585/chanel-imprime-lion-necklace.jpg__760x0_q75_crop-scale_subsampling-2_upscale-false.jpg",
-      "category": "Jewelry",
-      "sources": [
-        "The Jewellery Editor"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155412825-i08t0w4z",
-      "title": "Second suspect arrested in slay of former friend and theft of diamond jewelry in the Bronx: cops - New York Daily News",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdlFLSFJKNWlfeGhKTnFLQzdSeHZRQ3lCakZveThJZldkVF9obHhtRjZzdllrN0tNcTBTaTNnMVdvQ0ZFMlpsdGozX0F1ZVBEdnhqQVNhYXZqRzdtTEJ6UG5IdDd3dGJ1VURKMHdHbXA1amNvR0Q3LVNoclh4QWEyYzBTaGpIaUtNMkZ3OTZ1bFJBVUw3X01kcDBTQi10VjhkdXRUN3J5Vm9JVDR4NFVZT2l6S3d2cTdYSm11ZUF0VDRKR1lIRVlNeG5Xdw?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-07-08T07:00:00.000Z",
-      "description": "Second suspect arrested in slay of former friend and theft of diamond jewelry in the Bronx: cops New York Daily News",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787879415558-5ebtxi8q",
-      "title": "Senco Gold & Diamonds launches ‘Drops of Joy’ monsoon campaign - Indian Jeweller",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRDZHT0Rza0llTVpkZ0hZM0lXT0NuQkRzQTREWmV0cExLVWlxakwzMGxWM0s0bWFVSEsxS3JLYk4yMEJHMW1rcVNna0VadnNHVmJlX2toc1dQYnFYWmpsLU1vXzN0RFRHMGdVZDRDZFFxWnlRY3BKZHNjWUc1XzBvZ1I1Nm1KZjdCN1FzZTFmUm5PNlRZT2RYZ041SklDMjFnbENqSVpsS2h4aVJfd0VTbk9oYS1MMHc?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-07-07T07:00:00.000Z",
-      "description": "Senco Gold & Diamonds launches ‘Drops of Joy’ monsoon campaign Indian Jeweller",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787879415529-exslwizt",
-      "title": "Diamond Jewellery Showcase Opens at Jos Alukkas Dilsukhnagar Store - Prittle Prattle News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONkRsYndFUEVEd2tsNkNZR3JwbDQ2X0VCOWgxYkpveGtoa1Z0WmNPeXZXdE85S29xOGFQTWw0b3RaamdjOVh2UUZEaU0tX0tXcUd0dUFCcXlBTlBrXzVnN1Y5bEJ0TDdLWloyclBIM2VDN3JUZ0xySDBWaG83YkRyMkd3QThHQlUwcktTaV94UHFoLUtzMnA0RXBIM2hmRHQ3OHRjaWtiVmI?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-07-06T07:00:00.000Z",
-      "description": "Diamond Jewellery Showcase Opens at Jos Alukkas Dilsukhnagar Store Prittle Prattle News",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1788315060251-i6gd1l9i",
-      "title": "Belgian Diamond Industry Gifts Trump 321-Diamond Ring - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGxTXzlRM253SUtxbklid2h4dl9EZ2xlLXdHaUtuQm5henl1b05CSjk2NVFSQTNRcVlEV3lUM3duREF3TTVQTF9nVkxBdGlkamxRRnJ1a1lmQUhtNnlpcnluOHZIeUZKeXBDNDZVXzZKbEhqN2FTd05ZV0d6RkM5X09ZWGY?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-07-04T07:00:00.000Z",
-      "description": "Belgian Diamond Industry Gifts Trump 321-Diamond Ring 조선일보",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155411648-4pdxp0y2",
-      "title": "A Belgian diamond group is gifting Trump a lavish ring after that industry won tariff relief - PBS",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVmVoZkwtd19iR01Cb05NY2RIblVqSVVOVnlqZWZadk1BWEVvVlBnc2E3c0x3US1ULTQwNWxlRTFjcGN3SjJONnplbmlYeEFKMVF0T00xQUx1OHJhT3p0UldSdUZMTTN5NE5KMzdwaUE5bTFiczJ2eldBdFNOT29BVEktdk1Fd0JxZFVOUnQ0cXM3VVcwSEdZMDB0dXc0M282aGRUX3d3dlRJZWZPTDR2ek5nZnVjc0UybDlGbWdGb3dtMGJwTEHSAcsBQVVfeXFMTzQxeG50VWZ4YkJ1NjJnd2pxMHh3M2NfTUtRSXJyR1d2LTdTNEoxRWd6cFVGSXZMcGphWnhocmExRXFDakxXTUpFUGZIbTBYMmRnM3B2M2hYMGdTYzNvTU9nbGxsVUpXQUtwQ1ZyVUMyejh3b2NRVzFsRG5pSm5WajZsb2huZjZ0bUNUVnhZeVgtY3FhVi0wVGttRlBBVkJXNVRsdnJPdlVNNXhDQlVRYVhjV1NYX2s4eTlVdGtWMmRRNlBaX1hlMVA1Zm8?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-07-03T07:00:00.000Z",
-      "description": "A Belgian diamond group is gifting Trump a lavish ring after that industry won tariff relief PBS",
-      "image": null,
-      "category": "Jewelry",
       "sources": [
         "Google News"
       ],
