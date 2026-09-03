@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-03T02:18:07.484Z",
+  "lastFetchAt": "2026-09-03T08:25:38.679Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -159,6 +159,36 @@
       "sourceName": "Google News",
       "publishedAt": "2022-05-11T07:00:00.000Z",
       "description": "Report: Pink Diamond Prices Rise 1.3% to Lead Fancy Colored Diamond Price Gains in Q1 Centurion Jewelry Show",
+      "image": null,
+      "category": "Colored Diamonds",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 12
+    },
+    {
+      "id": "1788423937829-on2qknz0",
+      "title": "3 Fancy Colored Heart-Shaped Diamonds At Sotheby’s Jewelry Auction - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM2JqZVQ4RHM4bHRjV0dtREpHUlp1a2lCQjNlSVRRN1FQZERGZmJ0aFM0Qk5taW5nZUxyX2owQXNnaURTR3BCd0Y4ZXhhOFlhWW9qNTl2UldmNkxMNkhNRUJ0WnREZk5yWnh6V0hvVnFqVWk1YTQ4YUlMOEtzWmdxYUVtZnRGMEF0cVRocDdVZ0VsZ3NfWllVYUJ6YXFaV3VCOE94Q3ZkN1RrWmZhdDQ2Y05yRlZmVnNDWDdNcDBn?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2020-12-06T08:00:00.000Z",
+      "description": "3 Fancy Colored Heart-Shaped Diamonds At Sotheby’s Jewelry Auction Forbes",
+      "image": null,
+      "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 12
+    },
+    {
+      "id": "1788423937755-yfyss71b",
+      "title": "Sotheby's Hong Kong Jewelry Sale To Feature Colored Diamonds And Gems - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVmtvY0s5RzJtcE9renM5V2EtbFpBZVVJRXBVdU8tNWxWWXZjV3FPbDloYzdpbllNWXNxUXlETXdNU085M3lLOXZwTC02OWU5c1RQdV9mQ0xPMlZ5SHZPaWxiakZuZGlteXUxb1RoLTMyNjBPZ0YxOWVNblgwUFY4NlAtVU0tUTVWSDhVV1EzYldKSGs4LXQweW5KMnhSVk9DTDROOFBfTTZPRGYyOEJ2LS1wT2dpcnlRTFpZOEVlSlBhZw?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2019-04-01T07:00:00.000Z",
+      "description": "Sotheby's Hong Kong Jewelry Sale To Feature Colored Diamonds And Gems Forbes",
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
@@ -392,6 +422,21 @@
       "relevanceScore": 9
     },
     {
+      "id": "1788423938556-c2hsdazp",
+      "title": "Goldiam International secures Rs 60 crore US export order for laboratory-grown diamond jewellery - diamondworld.net",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM01lMmhFaVZyLWNrNXd0QmM1X2NVVThTczFsXzRpT0ZWdEZkSWx6UDAzZnlqQ2l6RGdyUVlSSDhTdXZVX1otV2VPbkU0VUhBMkZkYTNjTG42bWVtTEVYcExLOC0zOWVqMDJfdnZqb1hBb09tX0pScVVuVlRkNjB4dUpYeGMtVndnX29WYzB6RzRCUmJRSWwybWFEMXhNQVJEM2k0NWhZLVVVZWdVZFpRck1yUGE4RU4ydkkwOHRhd25ScmVxcWxDUXpB0gHXAUFVX3lxTE1LRm9SNHdtOFVGOFAtaVQ5ZXEzSWRZWjVsSDB3dXFiMlZ3NGVETEREM2trUXhvNUNoWDU2Wkt6d1NJMUhFRTJBSzFrTzRjbGdSLUxPZjBIbUtjQ1FueklfMTZmM1lrV0h0dTgwZkRaaTI4bmJ2RXYxT2h5RnZPdXYxQnI5T3FLUGdJU0hMVXl4eF9aMlhpcWVEVXExY1pUOHpLVVQxVGcwblNsdUE5eWlXcEFRZGhvM1NpYnNNUEJ0c2RUMEdGbDdNMmozNjZOM2stejZrS2t3?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-07-16T07:00:00.000Z",
+      "description": "Goldiam International secures Rs 60 crore US export order for laboratory-grown diamond jewellery diamondworld.net",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
       "id": "1788376052009-om0pyz6j",
       "title": "Verlas Brings New York’s Next-Gen Diamond Jewellery to India - Press Trust of India",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY2xIekwwc192VFBkNDFZbkRJSXZpZlFIcWtCcnkzLWszWEptS2VnU0haNWRwc3BFVlgzOXotUmJUMUsxeHpaYjhmR3hNRU9ra1hCa1FqeFF0SnBwbktvWkdDaS13aEZuQnpweURENHQ3S0NFNFUtU3BjZUVpV0l5NXVfZ1p6Z284eENmS291SFFSdmVtdnVnWEN3bEc3QjEwV0YzRjRySjJxSGJ3MXZqT0NjQlk?oc=5",
@@ -431,6 +476,21 @@
       "description": "Escape Privé Enters India with Laboratory-Grown Diamond Jewellery Offering Indian Jeweller",
       "image": null,
       "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1788423938190-98gx0vzu",
+      "title": "Paraíba Tourmalines Fetch $ 3.4 Million at Sotheby’s High Jewellery Auction - diamondworld.net",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLXZKdzJyX2ZIazYyMDNEcnVHX1hvNVVROGJ3QTNybnBUQmc1N1pOOFp0LUhFbmRrWnhJWldzZ2ZDQ3BKSjZ2a0otUXFmYVJQWnRlNkwyamoxZVhacFpjcnRzSEpKREdUbVFrT2s3bHJzZjF1WGdKS1ZFZlplN3dTT0RYWVFRTm1VakptdjVMaHZ2YXZVa2ZfSUQ2WGhXZXJoUWpsbkp6eDFYZjFQdXVR0gG8AUFVX3lxTE1Eal9CS2JhLVUxeUJTUlhKZUZDaENvbFREbXpKeWZzYS1uOUc3MEJJMmdGSW1ObGhyaUZHM3ExaVVBX3pTMlRBa0dmQlNKWXVKbWRTdzlnZW9DVXhESm4zdl9HUnRQOThVczJHVGVROXg4WUpKUFBiSG0yNkpUWHlRa2NENE5jRUdqWmtMVExqWlZtbjA1amdOU0d0WXl4X2lweFd5VmdXbF9yM1ktT2FmY0MwOTQ0Y1BaVnpt?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-06-19T07:00:00.000Z",
+      "description": "Paraíba Tourmalines Fetch $ 3.4 Million at Sotheby’s High Jewellery Auction diamondworld.net",
+      "image": null,
+      "category": "Auction",
       "sources": [
         "Google News"
       ],
@@ -662,6 +722,21 @@
       "relevanceScore": 9
     },
     {
+      "id": "1788423938177-bmu09btm",
+      "title": "Diamond Earrings to Shine at Sotheby’s Geneva - Rapaport",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVcTJzQWI4akpzUFVFZVJjY3NmdVVWNlpfUVBTMlpPazNCNUJNWXJJNDVzZW1jTTRGVXctcVNOaUxNN3N3SWFsRzliLWpWZVpSSXd6Umd6UktOQy1feFRYZFlaNmg0c1FEdXU5NWNFUjBiM0gtam1KSFUwMA?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-04-29T07:00:00.000Z",
+      "description": "Diamond Earrings to Shine at Sotheby’s Geneva Rapaport",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
       "id": "1787155412376-hk0vefea",
       "title": "Christie's Unveils Early Highlights of the Hong Kong Magnificent Jewels Spring Auction - press.christies.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRFRNSXV6eGM4V1Rrb2gyVkhaVXZ5amM4U2xHUER3bWhsMXZyWTFSbHlLWW4zUUJxb3V3ZG5FcmQybEJpU0tVamJWdVViMTRVNmlRMHVDTlJOanVnVUR1Nm02VzdtVFV6ZVRSdnJjUG1zS0tlLWtYckxHUHhRcXFpeVphdVRKNl80VE5CVmpmOFNvbm9lbG1RMkM4MXBJS1NRWlcyQUhTRXR0ZkFaR2NUM0hsaFg?oc=5",
@@ -692,6 +767,21 @@
       "relevanceScore": 9
     },
     {
+      "id": "1788423938198-ric7w34y",
+      "title": "Sotheby’s Hong Kong High Jewellery Auction Achieves HKD 257 Million with 89% Sell-Through - diamondworld.net",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRC1FbWNhLXk5bS1FbGVEZUNNb2tuSlFOSm54X1dmQ3dPR0E5dWc1ck95bnJCMmxlUWlUV3pKOHNtLTNzTW1yZXRCaHNVeWZWNGJvMXowZmZ3QzdEZ2ItVXo5NGhFVEM1VU9RZHdMMDBoWU5kVWtkU3RwUEJJNVBxdWVtQWFWZ0dqUTBDM055d0lvMEpXZ01Sem42SmUtVnlHMmFiSzFNQkwzVUhXVjRSZ084N204cTI1ZElyaERn0gHLAUFVX3lxTFBmZzl5VGhIMXMzR2FWWVJfcGRMalRuWFEwT1gtVVZZOGc1clNCdTNBMGdIVXUxSTlrcHEwVWFwcC1fYndxZWRwY0tyLUd2VVRGZWJPSkhkRXpZQm00aEdnTkZaV0k2Qk43RzhZbThDaDJwemZCcnlSYkhlZl82Sm1zUi1nNUYzRDBZRHp3S1FhelZmX2tHNnRVa005ZUdpOHpmNTVYbERpbnJhTDBwUkI5S2xnSTNzQVF3Y0ZsZkdLMl9PSkhMbEUtZG5B?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-04-25T07:00:00.000Z",
+      "description": "Sotheby’s Hong Kong High Jewellery Auction Achieves HKD 257 Million with 89% Sell-Through diamondworld.net",
+      "image": null,
+      "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
       "id": "1787155411929-2ns91bcf",
       "title": "Cartier Yellow Diamond Ring Anchors Heritage Auctions’ Spring Sale - jckonline.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeXhMdmxWdFNvWG50MG85aEI1MXZuTFZBeDBlc25WTzVOb0Q2V29mYVU5cDVUcGVGT3EwSVRNa3lCbGNOTE1FRURsaWxNZGtTRXh6Nnc2dk9wRDB2UWZvYm1qOGtoWV9kVzE1S2F0ZmdhbHhLTTF1bnRXZU56WmtqUG1fbmswU0lfUXRWU0IzMnRnTmNCdzB1SWhnQy1hdmc5SHV0dWVYZFRMOUNqeWRn?oc=5",
@@ -701,6 +791,21 @@
       "description": "Cartier Yellow Diamond Ring Anchors Heritage Auctions’ Spring Sale jckonline.com",
       "image": null,
       "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1788423938358-m9b7oo1j",
+      "title": "Jacob Arabov on Why the Jewelry Industry Needed a New Diamond Cut - jckonline.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XQ0MycDI1dFlEaVNQN0RSR0xhazRyR01nbVYtVEtaLUwxRHkwTzJJWjg1c0NRRVBKSUFuMzlrSEtySC1lamF5V3ZzUmYzZ1VwWjRWdGtxM3FTb0Q2ZHdURFJocml4YkRiYkVMUWYzSjlXNFhfbXc?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-04-02T07:00:00.000Z",
+      "description": "Jacob Arabov on Why the Jewelry Industry Needed a New Diamond Cut jckonline.com",
+      "image": null,
+      "category": "Loose Diamonds",
       "sources": [
         "Google News"
       ],
@@ -947,6 +1052,21 @@
       "relevanceScore": 9
     },
     {
+      "id": "1788423938195-3er8ti95",
+      "title": "Pearl and Diamond Earrings Take Spotlight at Sotheby’s London - Rapaport",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGV5U1Y4Wl9NOGVyOWJRS3dSQUxvbHRjVDdRT04wVk1BVzg5aUg3UnBVVTdMd25zcnJ4OURNN3dSaDIteXh0NzU0cnMxYW9IUUVyeVUxdW5EVk1JT1AyYWpheVo5Y3hNdmVyc0poQWpOYUJZV2xkcWRVSWp5S3JyYnNCNW4zcF9FWElsRURPZkY?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2025-11-30T08:00:00.000Z",
+      "description": "Pearl and Diamond Earrings Take Spotlight at Sotheby’s London Rapaport",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
       "id": "1787155412186-cti2049u",
       "title": "Two high-profile fancy colour diamonds withdrawn from auction - Jeweller Magazine",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1haeG8tREYxbVRxM3RWQjMxTGJxdEN5cTQya0JVSm5qVVpvVDJoT3VZUEJiMW9uRTNERWFSQ0ttRjZWNnpGQ002XzNUellhTVJBWUdzc2F3T0daNF9ablowdl9ybnVrWXUxQm5jelhfbVUyWHpRZ3Nkc2N6SEFVNUhqX2NLdDdrSDhPbXZISl94TEdBOHY3RkZ6WTFDU1dacnJsLWoyUm9CdU56?oc=5",
@@ -954,6 +1074,21 @@
       "sourceName": "Google News",
       "publishedAt": "2025-11-25T08:00:00.000Z",
       "description": "Two high-profile fancy colour diamonds withdrawn from auction Jeweller Magazine",
+      "image": null,
+      "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1788423938193-os3t1xsg",
+      "title": "Jennifer Lawrence Wears Diamond Jewelry Set to Hit Auction - Only Natural Diamonds",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR3VaMjVEdnpLclBMeGRrbVhJNE9hNkdUNUh1UnpZYS1WcHhjdXFLSHNYLXBQS2NxeS1HQXJGZ1JMc2ExdDhNM3pweGhzRGVxRW1NZkRpZTQwTXNsVEpWTXBTOGszZU9ic2tMSS1NMDRqU2VFSzJWaDY5NnhiY0VaajhB?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2025-11-17T08:00:00.000Z",
+      "description": "Jennifer Lawrence Wears Diamond Jewelry Set to Hit Auction Only Natural Diamonds",
       "image": null,
       "category": "Auction",
       "sources": [
@@ -1337,6 +1472,21 @@
       "relevanceScore": 9
     },
     {
+      "id": "1788423937854-deplhfl8",
+      "title": "16ct. Yellow Diamond Leads Heritage Fall Jewelry Auction - Rapaport",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOThNdjJoZXd5cHQtTjFZVC1Ib1R5U0FQSldkekFyQ2FfVGJ6OFBmaVRXQXdrdzc3OFZYa05zODhQUjRvcC0zSGZ3X2cwOFR0ZVZQTk9EYkgyUzVvX0ZsUmsyMDIxTmtydmZ0eGstMVdQUTVNdW5jMTdiS3lYNndWaldtTl9hcFF0d0E?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2024-10-08T07:00:00.000Z",
+      "description": "16ct. Yellow Diamond Leads Heritage Fall Jewelry Auction Rapaport",
+      "image": null,
+      "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
       "id": "1787155411745-t96dqh8e",
       "title": "Gigi Hadid’s Met Gala necklace sells for over $100k at charity auction - Something About Rocks",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSTVRd2VHMF95ZmtoMUJoek9vc3BGbTJxcjFXMC02SlFwVjBNN3NQaFhfTUQ0R2dNbUhJY0dWeGRnQ19SUGVlcUFtd1hRTFUyTS0yQ3ZMTkR5OThFdmt1UWs1eU0wTVJyaEJlZHFNazFkY1AwcXZUQ0MxOXlfUFdhUG12LXJTZkVOR2ZtZm5nY3RyVU1tNzBBVHd4YnJqY0dQRVVjNko0ZG8yQXROWWdHY0ZjSUhqWWktSnc?oc=5",
@@ -1346,6 +1496,21 @@
       "description": "Gigi Hadid’s Met Gala necklace sells for over $100k at charity auction Something About Rocks",
       "image": null,
       "category": "Met Gala",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1788423937635-matzn8wn",
+      "title": "Lab-Grown Diamond ‘Dream’ Necklace Sells for $122K at Charity Auction - nationaljeweler.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQVp5b3A2NGlUM2Rnc1A4b29zNXNscUNtdGQ5eTFVa3FGNDhfSWNIWFI4dHZ2Z2dzUUJOeVd2SW1UM0s2eU5PUU1jQ0NZekRnNHNoeU5pRjRJS3JjaWNldDg3R25ZV2dpY29LZ2NXSEdNSUtNN0RyRGZxOWdzbEtvYUU0NFhhUWotY0d4V2FXSnV2X1ZMVUpZblhMSEViLVBBWkhrblloYW1xRTVkQUE?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2024-07-17T07:00:00.000Z",
+      "description": "Lab-Grown Diamond ‘Dream’ Necklace Sells for $122K at Charity Auction nationaljeweler.com",
+      "image": null,
+      "category": "Auction",
       "sources": [
         "Google News"
       ],
@@ -1622,6 +1787,21 @@
       "relevanceScore": 9
     },
     {
+      "id": "1788423937882-esus5ao0",
+      "title": "Diamonds And Colored Gems To Lead Sotheby’s New York Jewelry Auction - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEpRN056RjE2MWFPb1ItYUo5QWFiX0dQdXpPaUVOX0pCeVJtQmttZmJ4anVWVHNoMlllTFlXNTdhVnpWOWNoT3ZWejVoR3dBWGs0Yjh2bFlwTERTQ25sRWRfYzZfMVdpN214ODdYTU9MdDNMYUswdWhRcGs4cU9wa3lqNUkzeElmWW1rdEkzOEl3OUVHMmlNZDlHelhEUWFjM3VhQmhTcVFHM2hpVFNCakJhQS1Vdw?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2021-03-27T07:00:00.000Z",
+      "description": "Diamonds And Colored Gems To Lead Sotheby’s New York Jewelry Auction Forbes",
+      "image": null,
+      "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
       "id": "1787406194875-fu1v0kw7",
       "title": "Demand for Blue Drives Q3 Fancy Colored Diamond Prices Up - nationaljeweler.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSjRFY1U2eGNZdmZTVlBsc1pMakxBcENDbktZcUN1YVprTjlQb0V5YjhSaXltVUxsaHAwa1gxcFNBNGsxU1F2NkVEMnMwZ21lenA2WVhVSWRqbEloVjA5WlM1dnVWT2R5X0x3Ump3c2p1eVZteXBic2MyVEFUUlZweEpxZkdiYzBtSkk3WGhJZFQ1RzN0QldsNGRMLUFOLTJVcE96YUF3?oc=5",
@@ -1652,6 +1832,21 @@
       "relevanceScore": 9
     },
     {
+      "id": "1788423937864-xonglatc",
+      "title": "Spectacular Colored Diamonds Take Center Stage in Christie’s Magnificent Jewels Auction - robbreport.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0thU2I1Wk1taW4xbnZ1UjhfSnlqRWFjQlljUUdSY0NBUDhOWXAzY1Fad0t5V2R5S2x6SjVTcU9XdDJmYzhfSnhBYXZYM2hKVHJrUnB0S2lZV05ETzNXcXVzajg5TnJUSURiU3ZUWG9ld1E1V2hDYV9LMFRVeWg4dDJUbm44MGk3XzFCSy00WUtFZHdnZXBDeWdmS3pXTGxDZlRjYg?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2020-11-04T08:00:00.000Z",
+      "description": "Spectacular Colored Diamonds Take Center Stage in Christie’s Magnificent Jewels Auction robbreport.com",
+      "image": null,
+      "category": "Colored Diamonds",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
       "id": "1788401886791-17l0aztt",
       "title": "This Online Auction Comprises 50 Lots of Just Diamond Jewelry - nationaljeweler.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVFwOVFnUVY0ZXRLM2phOEhiTk0zQlc3ZklVdkhERkViM1UxSDcwdGJxbFIxMXU4MDZ6VmlxVGY2S0JDMmVPVkUtWDYwdnRGQWVCMG5fekxTUUZHcEdLbG5HRkdlT1puYk9MNmZxQUVYYm9ydURCdGdFSW5VNDBzMmdCMWQ3ZFFaZDBPbkJ4T0R5XzlrdmptMjAyOWk3QllUUGVPaUNTTEZlbVU?oc=5",
@@ -1661,6 +1856,21 @@
       "description": "This Online Auction Comprises 50 Lots of Just Diamond Jewelry nationaljeweler.com",
       "image": null,
       "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1788423937805-z450hxco",
+      "title": "These Fancy Colored Diamond Hearts Could Sell for $18M Total - nationaljeweler.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWIzY1RJWXZpdE1ZUGU5czF4Yy1YRXo4bVBOZmdoX2p5SFpZSmRVS0kzV240T2hmZFU0cHFvX0Q4b2U0UEFUN2h5bzF1Mk52bDhKcjZZR2kxQzdHU3dianZ2amRadWJoZWRVX3lwcU5sR2pHekdoVmdfZHhOLWlLVjh0d1ZKUWFISHJTekJ1NEN6WUxwVHVYSElKVVFEbG5kWEtmZkdndm0?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2020-06-22T07:00:00.000Z",
+      "description": "These Fancy Colored Diamond Hearts Could Sell for $18M Total nationaljeweler.com",
+      "image": null,
+      "category": "Colored Diamonds",
       "sources": [
         "Google News"
       ],
@@ -1830,6 +2040,21 @@
         "AGTA"
       ],
       "relevanceScore": 7
+    },
+    {
+      "id": "1788423938206-e9anb57s",
+      "title": "That diamond ring on your finger could be enabling Gaza genocide - The New Arab",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWk43Ykc0QUYxRU91MjVFQ3pKZURQeFdpOFY5TTU5eWl1RkhfOE9nbkNaZHdzUE5yZUctcmMtSFQ4SjBXU3Z6TFpERW5JZVNQbGdhUTNPVXpjTzBCdWdMOWZXUktaX1RCelFSWnd4czhyWDNIS1RuMG5MQWVHVW9tS29mVkNVRVJQVnJid1Fqc2VQQdIBlwFBVV95cUxOVGhQb0pLT1Y1cEJndTJETDJzVmxVakI3YWp6ZE1ha1dZdGtiajNBTXpzdjNkek9JTzFxRmtBdS1vZlItZU1ERHFWalVVdnlLaWs1RDdubnBUanktS3hNU0NzXzhGWkc0azBMN0hVZ1M2Z25xNUwwLTA1NGVscDYtVXRndjhKSUw4ak1rWlhLbEFIY2pSRDEw?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-09-02T10:57:11.000Z",
+      "description": "That diamond ring on your finger could be enabling Gaza genocide The New Arab",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 6
     },
     {
       "id": "1788336965196-w3i6ctnl",
@@ -2769,231 +2994,6 @@
       "sourceName": "Google News",
       "publishedAt": "2026-08-13T11:25:05.000Z",
       "description": "Antwerp diamond sector rejects link between Trump ring and tariff exemption The Straits Times",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787879415730-3bw73cmh",
-      "title": "Diamond sector rejects link between Trump ring and tariff exemption - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObUxRWUNoQmd1QmJVLVVYelVJTDkxZFZxalowVktxb3VGQ2I5WVpyNFdhcWh0ellNdWRqUUR0eFJ1MWozaHRGQkFMeEtRT205REpqOUpTT3lWcFAxeGNtanRjQXh0ZnpsZFVDYV94bEhmbHdiUERqd0FZc1FNNmhZM2E3aC1kbXpoa2tMcVRMNlNYYlI2WmVrSkRhOGFtVGhSS1BWcHNCbW9ZRk01V3VhMg?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-08-13T07:00:00.000Z",
-      "description": "Diamond sector rejects link between Trump ring and tariff exemption The Independent",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787954136958-6aq3xeu6",
-      "title": "Antwerp diamond sector rejects link between Trump ring and tariff exemption - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTJTVUJOc3NUckdNSkNrZEdMSGY2SzBrcF9ZbUZIWHNTZi1Jb0U3NkFkVDdnakExa3pyRFJ0YzVrVm9aR05wVk0zZm84Znp3NTFFUkNCVWhpNmZqZmtxeXlUd0xjdzhWWVN3SjZNWDFNNFBkcEdyX0w4M3ZhT1VLMUdfU1UwSkpEMzh5RV9BLTdzd0FZRjNDMlNscnRvWXJzNDZGYXk2dlBOSEw4cTN2R1JpQQ?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-08-13T07:00:00.000Z",
-      "description": "Antwerp diamond sector rejects link between Trump ring and tariff exemption Reuters",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1788401887131-kv3ka3y6",
-      "title": "Antwerp diamond sector rejects link between Trump ring and tariff exemption - Mining.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNTBuZ2x0eTZveWlHcHVMZ0hHQzNxUDFSUU9pSHgydWFkWGFkWk01S0JnX2t6b1R3a2phQ1FlTFNBRkR6bUw5NDNPVTFtYWdJMHRMQjZMVHpDNmtPc2k0REhfck4yTUIyZ2l2U09PUjdoODJFMy1fM0JyajdrTWFfeUVSLU9IV19Sc0dQU3NSR1VBVGQ2eFZpSXFDUW93cFp1d2NmVnVR?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-08-13T07:00:00.000Z",
-      "description": "Antwerp diamond sector rejects link between Trump ring and tariff exemption Mining.com",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787345654116-liwwgzeo",
-      "title": "Democratic senators question Belgian diamond industry about ring given to Trump - whbl.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlU1UVVUX2tNbnhiQTN6QWpwUXo4dFhfVGdhVTRCZnk2WkFDRk90NzVobTJfY0FERVR6NGlqT2J6cHBZVkxwV3ZQcEY2M1NNN3UtZUlIaUk5cWdtcEthQ2U0c0RRZlBvV3ZpN3lVTGNsODJtNzgyMHlFdkdMMU9hOGZuZGw4dURZc0dHU01abUxXaFlPZTdxVWE4WmdvQjc5S0VUT2J1QUpWTlV3?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-08-11T22:56:09.000Z",
-      "description": "Democratic senators question Belgian diamond industry about ring given to Trump whbl.com",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787591963766-swzsrs1b",
-      "title": "Democratic senators question Belgian diamond industry about ring given to Trump - SRN News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNllIYTlUN3piY3hqWWtveUZnMFVpUzg5b0cwZWpYd2s1bXNwekZicmkwNFhsT0NPQUROeHppRzBDYXJRdjg5d0VpREdoN2dFOWdfeXFLTWs2R01lbTdyQ0FmUElURWZDalBtX0I0LVNSNUlzbUlxVjYxMjRLNFZYUmhfYnNvS1NnYUppYlAyZDZuTDBHZ1RoZzZGNVFIaUpzVEE?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-08-11T21:22:01.000Z",
-      "description": "Democratic senators question Belgian diamond industry about ring given to Trump SRN News",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787581558077-q2d3p6ok",
-      "title": "Democratic senators question Belgian diamond industry about ring given to Trump - 93.3 The Drive",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDNidXFLZlNZZm53ZWtzM3lUYVRyNDVobkczbjFFMU9CaVBtejhYel84eGs1aFZDQXhmeG9zN1JyaElwM01nSW9HdzM5T1NHNVQ3QWpfNWtDemVKVkN1dG05WVlrVllhajdmMGhFTTFuQjRUWDRBMnlzOGxlUnR0c2lVcmNMV1gyT2dkZlNwQm1xMmVwb3EwQUpkdTVRbzFnQjE1dGdzQTRRR180RnA2Z2R4aGhvNTVoQjZv?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-08-11T20:38:52.000Z",
-      "description": "Democratic senators question Belgian diamond industry about ring given to Trump 93.3 The Drive",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1788041321447-vyyllkdw",
-      "title": "Democratic senators question Belgian diamond industry about ring given to Trump - Forth.News",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JZVBwMXM0dzdxM1EzOEdubG9OejEtZ0hIOEptX0diS1RVbURKckg5RnhGVHNVSlFOSHpGZ1BmMDlfTER2d1ZwbHV3VkhrQ1lqMVF3ZVozOHlLcUswdUpGcXltTQ?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-08-11T20:23:18.000Z",
-      "description": "Democratic senators question Belgian diamond industry about ring given to Trump Forth.News",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155411658-r8hzov70",
-      "title": "Democrats want answers about 18-karat gold ring given to Trump - MS NOW",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FQ3QtLUxIWjc2dDA3ZUhNdmI0RVUyVnNNWjkxdjZCYXl5eVc1NnEwZDFBdmhuOTZpc08zTk9BODdGX0sxdmJtVWxaWGpMaFdRTEtlal9hbWpnaV9LSDBtWnhqckdOb3NFYUdQVTNSbkt0Y3B6?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-08-11T09:00:00.000Z",
-      "description": "Democrats want answers about 18-karat gold ring given to Trump MS NOW",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155411639-4igrc1i7",
-      "title": "Democratic senators question Belgian diamond industry about ring given to Trump - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0E2Yk9Kd1NTbWJnRDhud3hLNnBqZE5BTmlWYVJCZ1NHY3dFenB4aWVCcGVZNXl5bEtQTGgyUU5ZMjNZb0xCNHJzNmhyNzM4V1FEaFo4RmZ4dl94SFQ2MTlMei0waTVuOXdNU180Z01YQklnNmlMNTNzeHVrSHdCVTJoME5GODcxNzdQWUtnRkYxdGZEWDliVk80WUU1QnU3LTNzNVFmU19MVnJoeFBiWlp2czA2RWo3dklERER3?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-08-11T07:00:00.000Z",
-      "description": "Democratic senators question Belgian diamond industry about ring given to Trump Reuters",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155411636-wnv76lih",
-      "title": "The Place of AI Software and Advanced Mechanized Manufacturing Techniques in the World of Gems and Jewelry",
-      "link": "https://www.gemsociety.org/article/ai-in-the-world-of-gems-and-jewelry/",
-      "source": "Gem Society",
-      "sourceName": "Gem Society",
-      "publishedAt": "2026-08-06T15:28:20.000Z",
-      "description": "",
-      "image": "https://www.gemsociety.org/wp-content/uploads/2026/08/Yehuda-Sherlock-Holmes-Machine.jpg",
-      "category": "Jewelry",
-      "sources": [
-        "Gem Society"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787155411833-5bvag7hi",
-      "title": "Fancy Color Diamond Prices Remain Stable in Q2 - jckonline.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pejVqdFltRkJJVGx0MW5ZcEtEUHVzZWFDVVdJVzhrbzh1NTRGODk2ZXBNMURGMzRlRjBrYzgyZF9Jc09oeGl3RkZOcXM1bUpHRzZXV1BybEw5R2dWYkt0UGpKLWM4c1FqUWE4MllzRXotNS1heVJXTW90SQ?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-08-05T18:18:29.000Z",
-      "description": "Fancy Color Diamond Prices Remain Stable in Q2 jckonline.com",
-      "image": null,
-      "category": "Colored Diamonds",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787283063505-5fbbqjol",
-      "title": "Top 5 Lab Grown Diamond Jewellery Brands in India - ANI News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNFBvNFhOcnhRYjhKdTRzNEtad0FMbE9hYjBPYWxUR254a1hHNjU4azRSbzdSOGJCR0RFQjVHcTY4cVczOGtpcXVUckdhbjNWcDRBN0hGQVhYY0hGRTBmcUs4Rks2a295blpRZkdySjg1dzR5TldCUGV0NUVhZDJKUVhDOXg0ZG84ZjlKNllQVGQtY19leTZPVzZaYXJCZFhHMGc?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-08-04T07:00:00.000Z",
-      "description": "Top 5 Lab Grown Diamond Jewellery Brands in India ANI News",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1788387142941-wry2ynnc",
-      "title": "Could De Beers’ diamond legacy sell for just $1 billion? - Jewellery Business",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb1V3b1RfYUE0eWY3OVdCTVlpZ2twdm4xY1d6dTNmaFhxUFBnMC03ejdrVndBTE5UdjN4WlZPVXAza3BGbjdub1lVdjFfcjJZUnFPekF0NGtqNFI5VmtrZU9MdTRhM1NCUkNKV1I5c0NUSnZSUkstYjdQQzNQdnVmRU05X0lwYlYxVUR2dmV4RjdRdk1VSFhsNQ?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-08-01T07:00:00.000Z",
-      "description": "Could De Beers’ diamond legacy sell for just $1 billion? Jewellery Business",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787879415519-gxvcc5zx",
-      "title": "Rat 'Steals' Diamond Jewellery Worth Rs 10 Lakh From Store Near Bengaluru, CCTV Solves Mystery | India News - News18",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlkyX1dBRk93ZEh2SmJQd2RiUmFILV92NnYydnRsQVlUa3puemk0VTNXVk5iYTVSWkVGZEJBbHg0UFJGYnMzVUlQUFc3T2lHUEVDMmN6TmpfN0UxbF85S0tUQXNheml1RTNERWVIUXhPM2preU9TMzlTQ0taLUF1bGVGS3kxcHJCTnVkUU04ODVGN0RvN20xMXk1cHRIZF9nUXljY1h6V2lvcjlT?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-07-30T07:00:00.000Z",
-      "description": "Rat 'Steals' Diamond Jewellery Worth Rs 10 Lakh From Store Near Bengaluru, CCTV Solves Mystery | India News News18",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787492721111-kwocelig",
-      "title": "Vietnam’s jeweler PNJ spends over $265mn buying back gold, diamonds - Tuoi Tre News | The News Gateway to Vietnam",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbWU5eWZHOXlzYXZCdDZCeExBZC00SE9sVnUzTmJCbllvZC10MzREYVF6Tm9pT1lVTF9qQnpVSm5UT0d5SlU3eWk1LUdaTUJ6NFl2SU5haGpmWG9DRGNJSllnNFpxekVtaXRTNzBTOEs0VFVacGpBNHRlTW1uOXFhNnpsMDVxNjN1TU9wM2Q3U2l3Ymg0WFJKaWFIQWZiTlBQY2w1VUM2Y3lHdmhyamhSSA?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-07-29T07:00:00.000Z",
-      "description": "Vietnam’s jeweler PNJ spends over $265mn buying back gold, diamonds Tuoi Tre News | The News Gateway to Vietnam",
       "image": null,
       "category": "Jewelry",
       "sources": [
