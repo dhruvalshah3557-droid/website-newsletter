@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-03T18:59:51.692Z",
+  "lastFetchAt": "2026-09-03T22:04:41.442Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -45,6 +45,21 @@
         "Google News"
       ],
       "relevanceScore": 15
+    },
+    {
+      "id": "1788473080732-3m6fx0qk",
+      "title": "Ruby and Diamond Earrings to Headline Sotheby’s Hong Kong Auction - Rapaport",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ24zTTNZektKbDEyaUlMN0tZOHNPdHlDcVJSQjBJcVpLdm01TnVLa2hSbXl3UlFmUXRLXzBYbVBzcnp5WTNsT2M4cFp3MDBuREhIcVdtQUFmQXNqQUFlWS1MSllZbFFpZW0xWWRHT2lUMWw5enJqWkNOQlphY3ZPUzZQSF9YRmpkRFBIRmxOWjNWdG1KX3c?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-09-03T14:31:38.000Z",
+      "description": "Ruby and Diamond Earrings to Headline Sotheby’s Hong Kong Auction Rapaport",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 12
     },
     {
       "id": "1787954137036-hbt79fek",
@@ -1802,6 +1817,21 @@
       "relevanceScore": 9
     },
     {
+      "id": "1788473080457-2bhq9k8t",
+      "title": "‘Bulgari Laguna Blu’ Diamond Makes Met Gala Appearance Ahead of Auction - nationaljeweler.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGQyWVRkVDI2d2ZfT0FtRTMtemw2RlpKTktqVkZhTjdZWldKTlBiYXhjYkFmRndaWG5HX01Ncy0tOVE3Zk44R3VxTk5ISWVhUG9KRjlSdDYwYzlmTjF3N3RnNzdJZjFMdXpLcTd2NFJ4cjd6ZXR1SElON1c5WnN5NG52WmNxVEdIRGtwNmJkM2dxcmVEYmFRWGltN2xSUG1ZLWxzZVJmWVphNzRVQzNTWG1B?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2023-05-03T07:00:00.000Z",
+      "description": "‘Bulgari Laguna Blu’ Diamond Makes Met Gala Appearance Ahead of Auction nationaljeweler.com",
+      "image": null,
+      "category": "Met Gala",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
       "id": "1788387142194-q02b4dsl",
       "title": "The Blue Bulgari Diamond Priyanka Chopra Jonas Wore at the Met Gala Could Fetch More Than $25 Million at Auction - Robb Report",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV2xQMkhMX1p1VUt2M0V6NGtpQ1BEam5EcTR5c1VSaWdjWVFBLVI1cEI2cExHc2JQcmVZX0pVYmNaUFByZ1VwV010dkdYX0JMTFZxTi0zbWM3Q25teUptdkJBaURBMWo5YnBPZXpLRjB3ZzdEbEtGLUVURzV1bUg0Ykc2ektmcUtvejBDQkZ5RVVITFd3cnh0OTBBZUMyMkE?oc=5",
@@ -2965,36 +2995,6 @@
       "publishedAt": "2026-08-20T07:42:55.000Z",
       "description": "Introduction Continue reading on Medium »",
       "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Medium Diamonds"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787219573141-4148dzdc",
-      "title": "The Complete Guide to Cushion Cut Lab Grown Diamond Rings",
-      "link": "https://omgems.medium.com/the-complete-guide-to-cushion-cut-lab-grown-diamond-rings-43b28bda9984?source=rss------diamonds-5",
-      "source": "Medium Diamonds",
-      "sourceName": "Medium Diamonds",
-      "publishedAt": "2026-08-20T07:05:51.000Z",
-      "description": "Do you love diamonds that glow with brilliance? A cushion cut lab grown diamond ring might be perfect for you. Continue reading on Medium »",
-      "image": "https://cdn-images-1.medium.com/max/1374/1*L4VBhKCoE4WvNyaewNQvQg.png",
-      "category": "Loose Diamonds",
-      "sources": [
-        "Medium Diamonds"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787219573142-z7xq1al4",
-      "title": "Finding a Diamond Jewellery Store in Delhi: Things That Matter",
-      "link": "https://hazoorilaljewellers.medium.com/finding-a-diamond-jewellery-store-in-delhi-things-that-matter-71e493372adf?source=rss------diamonds-5",
-      "source": "Medium Diamonds",
-      "sourceName": "Medium Diamonds",
-      "publishedAt": "2026-08-20T05:51:17.000Z",
-      "description": "In a city where tradition and modern living often coexist, Delhi is indeed a shopping extravaganza for anyone looking for fine diamond… Continue reading on Medium »",
-      "image": "https://cdn-images-1.medium.com/max/1638/1*dMAsHZUFDzW-Np2avxCa5w.jpeg",
       "category": "Jewelry",
       "sources": [
         "Medium Diamonds"
