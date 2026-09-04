@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-04T02:20:35.765Z",
+  "lastFetchAt": "2026-09-04T08:22:31.940Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -1922,6 +1922,21 @@
       "relevanceScore": 9
     },
     {
+      "id": "1788510150964-k8okr783",
+      "title": "Pharrell Williams’ Signature Diamond Jewellery Hits the Auction Block at Joopiter - Only Natural Diamonds",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOUxZMGRtUmE4RVpXNHRDMUd2QmJQbTdfbF9PNHU3eUFnZVUtaEswVmo0YUFUTnpjNjRJVlRreElqZ19tT1NZZ0YyZ2hrNHI1aUxnaEYxQ0NOcVlQOHl5N2hBdndSVFBJUnFJS3pwanBkR3RoZWctMzJkYnlITFhERlpJNE5tR2RHMGhNVjZqR0FrSWhJd1VQbjF0YjByc1R5U1BIRXF1YzFlLUZHcjEzUlFudDF4Q2FzMFJQSWJnd3luZTJTVWJfRzIxaw?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2022-10-21T07:00:00.000Z",
+      "description": "Pharrell Williams’ Signature Diamond Jewellery Hits the Auction Block at Joopiter Only Natural Diamonds",
+      "image": null,
+      "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
       "id": "1788376051700-arsiqzcr",
       "title": "Grimes Auctioning Off Her Met Gala Accessories to Support BIPOC Families in Ukraine - diamondworld.net",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XUW1ycWlmT3AwZkRlRUwxMzd1N0dMV2JhY1pMODZXZEd3ZkdPeG5fU2R4OW5CckNGQmd1Y3YtQ29rYmlEYTVZQlVBLTdlR2NS?oc=5",
@@ -2250,6 +2265,21 @@
         "AGTA"
       ],
       "relevanceScore": 7
+    },
+    {
+      "id": "1788510151454-go0zt837",
+      "title": "D Diamond Debuts Fine Pet Jewelry for Feline Friends - jckonline.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FWklWbDlZam9GMUJVeC00SkpoREMtNnZqWFVlb3VucG5PNEV4bG01Z291X0xtd3JVblBxbGM2dDFyOTJtcTdBS1Y4SWZJbU9vN3ZwWVBBWHZRR3JJQW9naXAydktNTDdGUWV1RUJiVjlRQWVqclVBaU9B?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-09-03T19:42:33.000Z",
+      "description": "D Diamond Debuts Fine Pet Jewelry for Feline Friends jckonline.com",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 6
     },
     {
       "id": "1788461991071-gahwu5xv",
@@ -2968,36 +2998,6 @@
       "category": "Jewelry",
       "sources": [
         "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787219573731-osl80sue",
-      "title": "Fake diamonds flood Bangladesh’s jewelry market - en.bd-pratidin.com",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByTkFwQzZZQzduektGUUVtblo0MlE3dDdrQ2R5VmRUUk15aE9HWEpQVW9pazAzYmZZUWpEbjVpQ1VJOGIteVJ6Z0M2RDR6WktaUmNVQWpyWHpnM3VJSEV1Ng?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-08-20T08:22:09.000Z",
-      "description": "Fake diamonds flood Bangladesh’s jewelry market en.bd-pratidin.com",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787219573140-fwttf4pg",
-      "title": "22K vs 18K Gold Jewellery: Which Is Better for Buyers in Varanasi?",
-      "link": "https://medium.com/@thebanarasdiary/22k-vs-18k-gold-jewellery-which-is-better-for-buyers-in-varanasi-e00f748caba5?source=rss------diamonds-5",
-      "source": "Medium Diamonds",
-      "sourceName": "Medium Diamonds",
-      "publishedAt": "2026-08-20T07:42:55.000Z",
-      "description": "Introduction Continue reading on Medium »",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Medium Diamonds"
       ],
       "relevanceScore": 6
     }
