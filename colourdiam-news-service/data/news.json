@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-04T21:58:50.630Z",
+  "lastFetchAt": "2026-09-05T02:13:49.582Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -1862,6 +1862,21 @@
       "relevanceScore": 9
     },
     {
+      "id": "1788574428701-b7b1d2fr",
+      "title": "Colored Diamonds Have a Gray Week at Auction - jckonline.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUlkzaGlWeF8wd25UNXhKTTJ4THpQN2Y0YzFRNkRQRWdTa1B1QXozdXY1d0NKME5IaGJpeVhaa3lzX2prODgxTWdibnhSUjgzQ3pFb3p6V2Y5ekdwRUxEYkYyYld4YVZhaFhDbUxDNXRWc3BPZm5ZT0FoQ1F0dEN6aTg4cWE3QQ?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2022-11-11T08:00:00.000Z",
+      "description": "Colored Diamonds Have a Gray Week at Auction jckonline.com",
+      "image": null,
+      "category": "Colored Diamonds",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
       "id": "1787155412259-tx8jcybn",
       "title": "Mixed Results For Big-Name Colored Diamonds At Geneva Auctions - Forbes",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0ZsTy1rUzF2Tk80dkJwUVhOdjc5MmRnb0s1VzVHd2ZVby0wQXNkR2pMZVJuVTd3QnE4Rlh5UE1BdkM4ZThfeUtCcVdqb0QxZ0VnOUFEMDNXZWhXQkJPd2hRU2M2MUhFT3R4MDR3MjF4V0JPQV9LVkhxQjVoS2FnMHBrYWRLaHJBb05vTHN4S3VuQjJ4MGVic21IWV9NSzg4NS1ISWpvZnB6LTVMeWozaGlqU2tFaEZyckE?oc=5",
@@ -2323,6 +2338,21 @@
       "category": "Jewelry",
       "sources": [
         "Medium Diamonds"
+      ],
+      "relevanceScore": 6
+    },
+    {
+      "id": "1788574429332-jow94t47",
+      "title": "Macy’s $1,000 lab-grown diamond tennis bracelet is 65% off for Labor Day savings - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0U2T1BDZ1lsWmdiOXZTWkZjSHJqN1JBcHR5aDdIczRhdVlLcTVBX2hYcC1ZalkzMTRkTlV6YVVzNGhyOEJ1NWhzOVZLSkg1UHBpN3pBcENlVmNvbnlEVERzeWhSaWZ3XzRqdUh2SHVXbTdCSjVMMzNxVnF1OXJoV0dqVnJjS0dNMEJYaV84dkZrRWg2UTYtemdmWENHUXF3ZXU3ejd3UQ?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-09-03T21:30:00.000Z",
+      "description": "Macy’s $1,000 lab-grown diamond tennis bracelet is 65% off for Labor Day savings thestreet.com",
+      "image": null,
+      "category": "Loose Diamonds",
+      "sources": [
+        "Google News"
       ],
       "relevanceScore": 6
     },
@@ -2968,36 +2998,6 @@
       "category": "Loose Diamonds",
       "sources": [
         "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1788363763704-ivmguytv",
-      "title": "The 10 Most Expensive Diamonds Ever Sold at Auction - Only Natural Diamonds",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mTklQOWt2dThacklMX0dvd29kdUtBUElXWFFGUHRqRVpXZnJwQkNFUUN6YUVEUGZ2YllSdGhoVUhKRGo5dFVjN2tQYjBZSkdwTXpkcEpvQk5KaTRQRGEtLXRVUlhiQWJ6RzRIR25XTWVYN1liZEpZSFBwMG93c0k?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-08-21T07:00:00.000Z",
-      "description": "The 10 Most Expensive Diamonds Ever Sold at Auction Only Natural Diamonds",
-      "image": null,
-      "category": "Auction",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787306093286-pmp0i3s2",
-      "title": "What Is a Moval Diamond? Inside 2026’s Most-Searched Engagement Ring Shape",
-      "link": "https://medium.com/@sales_22161/what-is-a-moval-diamond-inside-2026s-most-searched-engagement-ring-shape-f09d6ec1ed7a?source=rss------diamonds-5",
-      "source": "Medium Diamonds",
-      "sourceName": "Medium Diamonds",
-      "publishedAt": "2026-08-21T06:30:49.000Z",
-      "description": "Scroll through any bridal Pinterest board or “he asked” TikTok reveal this year and you’ll notice something: fewer round brilliants, more… Continue reading on Medium »",
-      "image": "https://cdn-images-1.medium.com/max/600/0*HMXQ9L6982SGvUPW.png",
-      "category": "Jewelry",
-      "sources": [
-        "Medium Diamonds"
       ],
       "relevanceScore": 6
     }
