@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-05T17:49:34.000Z",
+  "lastFetchAt": "2026-09-05T21:49:18.024Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -2432,6 +2432,21 @@
       "relevanceScore": 7
     },
     {
+      "id": "1788644957527-17ar6g8r",
+      "title": "Where does diamond marketing go from here? - The Jewelry Wire",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DN3Jsd3FjSjNmeUU1M2ZWYnhGemh4cDB3OFVGTFNfM1J1TVRBSE9KWlhPRVU5T0JsR2FXWmR3NHFjX2k1Qmxwd1RrUDF0RElfbHQzb1FwRXdnQ1FxYnczaWhyeFc4b2JNQ3V5MmY1eE03Tm96U0VCWFpMSHBCZWs?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-09-05T18:00:42.000Z",
+      "description": "Where does diamond marketing go from here? The Jewelry Wire",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 6
+    },
+    {
       "id": "1788630573075-9189qw5v",
       "title": "Celebrate Every Moment with Diamond Jewellery Made to Be Remembered",
       "link": "https://medium.com/@diyadiamondindia/celebrate-every-moment-with-diamond-jewellery-made-to-be-remembered-a2d616c33ce9?source=rss------diamonds-5",
@@ -2983,21 +2998,6 @@
       "category": "Jewelry",
       "sources": [
         "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787668079246-npcdm2ek",
-      "title": "Diamond Rings: A Lasting Celebration of Love, Luxury and Style",
-      "link": "https://medium.com/@mytestrhino/diamond-rings-a-lasting-celebration-of-love-luxury-and-style-e8e7d3b51c00?source=rss------diamonds-5",
-      "source": "Medium Diamonds",
-      "sourceName": "Medium Diamonds",
-      "publishedAt": "2026-08-25T10:16:11.000Z",
-      "description": "A ring can be much more than an accessory. It can represent love, celebrate an achievement, mark a meaningful milestone, or simply reflect… Continue reading on Medium »",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Medium Diamonds"
       ],
       "relevanceScore": 6
     }
