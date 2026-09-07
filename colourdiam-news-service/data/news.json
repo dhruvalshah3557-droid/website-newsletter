@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-07T08:46:56.765Z",
+  "lastFetchAt": "2026-09-07T16:56:16.872Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -294,6 +294,21 @@
       "sourceName": "Google News",
       "publishedAt": "2026-09-07T03:02:29.000Z",
       "description": "Sotheby's Hong Kong Offers $2.6m Ruby Earrings IDEXonline",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1788800175875-gs8c37ws",
+      "title": "14K Gold Lab-Grown Diamond Jewelry: A Growing Category Worth Understanding - openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVdtbkF5aUx2NGFDN0NQYWdYTXIyN3ZGbGhxVTdpOEFPaHpZY21OTzVYR2l1STZhQl9qeHp2VGZnMXFCeUVmTldVQXgzZ0xRdkxraGRWOHRaVm1MdUJWQnNVczJEZ3dXckctbDduaHZhQ2ZVdGRpNUFFYkFZdUpEeXRyM2Ryckg1Y0s4bzV2U0xPc3ktUGN5M2RPVQ?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-09-04T04:05:20.000Z",
+      "description": "14K Gold Lab-Grown Diamond Jewelry: A Growing Category Worth Understanding openPR.com",
       "image": null,
       "category": "Jewelry",
       "sources": [
@@ -2147,6 +2162,21 @@
       "relevanceScore": 9
     },
     {
+      "id": "1788800175862-8kx50k2b",
+      "title": "Al Capone's Favorite Gun, Diamond Jewelry Head To Auction - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWFUcVJnaHMwZXRhd0xBRTRRdVpMcXJ1VXg2TGc0YlR6QlQwUTJrVjQ1RFl3eFVRd2FlTHg4MmpYaTFrS0doTkZLdHVkck5CZ0N1NFBiemR0UUNiaGJqZ1o2aEFKU0NmelVFR1phYlRFaUNaZzNlbGZKeHR3MW9KWk10OXJuakp6UlFOZTJsRElYYy12aWQxdtIBngFBVV95cUxOa1h0QWtVUHpfSTF1SjVHUnM1Q3dpWGY5a1hheEFUaE9JVGNRMTF2QThEVGNuWVlQTV9UWEhGLTQ2d1JtZ3BhbUhHVkFfWFJUSXRucWljOXhZY1ZTaU1ZOGVCZVR4ZU9YN3Z4LXdHa0VOdkZ6WXU3RTVESU0zdG8zVlEycFlwei1tUDJiMU90b0Y5QzRrNDk2ajAzYXFEQQ?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2021-08-26T07:00:00.000Z",
+      "description": "Al Capone's Favorite Gun, Diamond Jewelry Head To Auction CBS News",
+      "image": null,
+      "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
       "id": "1788423937882-esus5ao0",
       "title": "Diamonds And Colored Gems To Lead Sotheby’s New York Jewelry Auction - Forbes",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEpRN056RjE2MWFPb1ItYUo5QWFiX0dQdXpPaUVOX0pCeVJtQmttZmJ4anVWVHNoMlllTFlXNTdhVnpWOWNoT3ZWejVoR3dBWGs0Yjh2bFlwTERTQ25sRWRfYzZfMVdpN214ODdYTU9MdDNMYUswdWhRcGs4cU9wa3lqNUkzeElmWW1rdEkzOEl3OUVHMmlNZDlHelhEUWFjM3VhQmhTcVFHM2hpVFNCakJhQS1Vdw?oc=5",
@@ -2488,6 +2518,21 @@
       "category": "Loose Diamonds",
       "sources": [
         "Medium Diamonds"
+      ],
+      "relevanceScore": 6
+    },
+    {
+      "id": "1788800176710-eopt1ulv",
+      "title": "CIBJO marks centenary, examines priorities for future of natural diamond jewellery - FashionNetwork India",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNnNEM3hyWTdLeFh6OUtYenN2enNIQWRUQ1FyRVJ4ZjZ1TWNVNlFQeTFpYTNVZC1pNXN1NFVLMGg5cUw4VG9MMFd2TzN1NGI2bUhfTlBRZk0xMlJ4QVlIMUdLS0toeUM4UVdkdWNoQnRPN0FRdmwtTTNOT1F3OFJEMjlHd0U3X3prVEh2VGNnS2FONVNLaVZOTEJwQkMwZW5paE9LVUJodlNQanRfQjhUZFFzN3hmNGV6Wk5qclFBb2NFWlZfTGZmbA?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-09-07T02:36:37.000Z",
+      "description": "CIBJO marks centenary, examines priorities for future of natural diamond jewellery FashionNetwork India",
+      "image": null,
+      "category": "Loose Diamonds",
+      "sources": [
+        "Google News"
       ],
       "relevanceScore": 6
     },
@@ -2953,51 +2998,6 @@
       "category": "Jewelry",
       "sources": [
         "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787954136430-zx0zmanl",
-      "title": "Modern Gold Rings for Women — Minimal Designs with Elegant Sparkle",
-      "link": "https://medium.com/@kvishstj/modern-gold-rings-for-women-minimal-designs-with-elegant-sparkle-6cc91aec1eab?source=rss------diamonds-5",
-      "source": "Medium Diamonds",
-      "sourceName": "Medium Diamonds",
-      "publishedAt": "2026-08-28T05:57:28.000Z",
-      "description": "Modern Gold Rings for Women — Minimal Designs with Elegant Sparkle Continue reading on Medium »",
-      "image": "https://cdn-images-1.medium.com/max/1122/1*fUBeq0nACuIL77It5vf63g.jpeg",
-      "category": "Jewelry",
-      "sources": [
-        "Medium Diamonds"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787954136430-vhznmx4e",
-      "title": "Gold Jewellery Resale Value — What You Actually Get Back and When",
-      "link": "https://medium.com/@rimshad.glinfo/gold-jewellery-resale-value-what-you-actually-get-back-and-when-ae73e70c77eb?source=rss------diamonds-5",
-      "source": "Medium Diamonds",
-      "sourceName": "Medium Diamonds",
-      "publishedAt": "2026-08-28T04:54:36.000Z",
-      "description": "Buying gold jewellery in India has always felt like a smart financial move. And in many ways, it is. But when the time comes to sell or… Continue reading on Medium »",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*JJAaaO9crYhrdqp3S7dkiw.png",
-      "category": "Jewelry",
-      "sources": [
-        "Medium Diamonds"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1787879415041-a5yh2r5q",
-      "title": "Grace Kelly Set the Trend For Emerald-Cut Diamond Engagement Rings",
-      "link": "https://www.naturaldiamonds.com/engagement-rings/grace-kelly-engagement-ring/",
-      "source": "Natural Diamonds",
-      "sourceName": "Natural Diamonds",
-      "publishedAt": "2026-08-27T13:34:35.000Z",
-      "description": "An icon of Old Hollywood glamour, Grace Kelly's natural diamond engagement ring has a legacy all its own. The post Grace Kelly Set the Trend For Emerald-Cut Diamond Engagement Rings appeared first on Natural Diamonds.",
-      "image": "https://www.naturaldiamonds.com/wp-content/uploads/2025/10/1956_Grace-Kelly_High-Society-607397584-2-copy.jpg?quality=82",
-      "category": "Jewelry",
-      "sources": [
-        "Natural Diamonds"
       ],
       "relevanceScore": 6
     }
