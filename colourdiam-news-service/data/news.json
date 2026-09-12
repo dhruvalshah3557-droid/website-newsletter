@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-12T17:59:46.125Z",
+  "lastFetchAt": "2026-09-12T21:51:44.641Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -2717,6 +2717,21 @@
       "relevanceScore": 7
     },
     {
+      "id": "1789249904346-80jgnnhg",
+      "title": "The Internet has decided everyone is a diamond expert - thejewelrywire.substack.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XdXg2U1NXb2hBUjh1eGd3bGJvdTBWUzNoRzhxZG44ZWd6X3RyNkpibzM1MHltRjhzZWxxdjJSb0lraEttaHlRQ2VqOEF2bUZiNGNVZmxXbDVtVDZ4clhoRWFMa182ekhFMXV4bndKRjR3SjYxT0ZMemJBQQ?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-09-12T18:00:41.000Z",
+      "description": "The Internet has decided everyone is a diamond expert thejewelrywire.substack.com",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 6
+    },
+    {
       "id": "1789224180973-p7sv4pkx",
       "title": "Caught On Camera Thieves Smash Jewelry Cases During Spring Lake Heights Break In - News12 | New Jersey",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMFJFVlZZZGdTVW51ZGFHTTU4MjZiN2FkQmRfYmNoYUtFZFgzRXhWQ2NDNzVhMElta1cxRC1XR1VQUEpIdTRwOV9ySzVlbXQ0OTJLZXducEVyenNaY013Z3pST09jcW9xWmpZZGNob3dOYTY0U0lSTkJ4Ri01aWxUX0ZhR2xYeVlYYkdyd1hlbTl5a1NweUxHMk1yT2lQSkh4RHE2SXp2UFNMWGZVN3NJMXgyZDNFLXp3RDhMYmRfRmFOX29vYkRwNXYzbmtkM2c0VDRwc0RJeGdIZnc?oc=5",
@@ -2983,21 +2998,6 @@
       "category": "Jewelry",
       "sources": [
         "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1788535846699-61dk4uie",
-      "title": "Jewelry for the Camera: Styling Diamonds for Photos and Video",
-      "link": "https://medium.com/@keianluxandor28/jewelry-for-the-camera-styling-diamonds-for-photos-and-video-c5cf53babba3?source=rss------diamonds-5",
-      "source": "Medium Diamonds",
-      "sourceName": "Medium Diamonds",
-      "publishedAt": "2026-09-04T10:46:32.000Z",
-      "description": "A diamond can look extraordinary in person and surprisingly ordinary on camera. Continue reading on Medium »",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*KEKRdTCo1-HoJNmDu3xSiA.png",
-      "category": "Jewelry",
-      "sources": [
-        "Medium Diamonds"
       ],
       "relevanceScore": 6
     }
