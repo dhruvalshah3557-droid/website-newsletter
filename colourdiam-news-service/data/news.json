@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-15T09:05:26.672Z",
+  "lastFetchAt": "2026-09-15T15:58:35.719Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -285,6 +285,36 @@
         "Medium Diamonds"
       ],
       "relevanceScore": 10
+    },
+    {
+      "id": "1789487915120-a9l964h3",
+      "title": "Providence Diamond Partners With Kwiat in Campaign Featuring Kelsey Swanson - Centurion Jewelry Show",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTUc1bTNsV1FWV18xci1Zc2FQQXMzd2pKYlFnNW9hdVUyWG5hU1BtTHFsV05EQXF0NkJvRmVjNHpBa05ONzFoTzZsWEVYVERRY1JHUlZlazl0Z3FJQzVLWWhjOFRJRjNZZHh4dmx4cGlGa3F6YWRxNFo5blpXNk9YMzFhMkRRU3BrQ1pqN2Ryd3MzcjZNMkhTR01wc25tY01xMW02bWhkb1V1eUpEbkpaR1NPMFUwTENzLUJpQ2h2M3oxLXM?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-09-15T15:41:50.000Z",
+      "description": "Providence Diamond Partners With Kwiat in Campaign Featuring Kelsey Swanson Centurion Jewelry Show",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1789487915318-7twwq92o",
+      "title": "Introducing Christie's Geneva Jewelry Auction November 2026 - Haute Living",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1dJSjRfM0N4VGRxVTBmXzRudTRXWmdZckJnaHc5RGkzUUxfR1QxVEZLWkpvNDM0ckJfc0hKbDl2STE1UWhFM1U4dlhrbnVpaVhfMjloMGVfQmwtTHJFQTU0eXdDSVo2Z0xyeXhUWGVzMGlmU1lJRmRYVHVSNUx5cGU5ajUyV1F1aXBuWExJZw?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-09-15T13:06:49.000Z",
+      "description": "Introducing Christie's Geneva Jewelry Auction November 2026 Haute Living",
+      "image": null,
+      "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
     },
     {
       "id": "1789312965061-xnrqo19d",
@@ -2747,6 +2777,21 @@
       "relevanceScore": 7
     },
     {
+      "id": "1789487915320-7bdj5v1l",
+      "title": "Christie's Presents Two Leading Highlights of the Hong Kong Magnificent Jewels Autumn Auction - Christie's Press",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0VPNzlSUEpDRmRGM3FmWHV1Z1dTcy1BLU5VaWV5MEJIZkw3VlFmdGlQZk4ybklLZUtHRUViejNESDRLMHhDZEUtTUU3TXFHTjRXRVBJSFlLTW5Oajh1U0x6aDhHbkFnWEtpTzRtbmRueFpxNUlrSllXelRiOWlqc2NwclRvaHJiUC1uYTBhWURQb3gxd19rN3VtRFppRFlhMVJ6bHpSY2txMFFENjlJZzdoek4wbEtwVEZqUTF3?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-09-15T08:17:07.000Z",
+      "description": "Christie's Presents Two Leading Highlights of the Hong Kong Magnificent Jewels Autumn Auction Christie's Press",
+      "image": null,
+      "category": "Auction",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 6
+    },
+    {
       "id": "1789440110313-ovgopux0",
       "title": "Modest sales slide for diamond jewellery retail giant - Jeweller Magazine",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR3RvSmd0ckRKaW1NUkZZQ3F4LWRiMVRKTnhXTVB3ZTU4Qk5XakxlVk5HSklLMmh5WTJudWNESm1tazcwU3QxUUNSNi03RWxacHNpWFJWdHFoU2Z6LWdxLVh1UzBHdVN3bUF4SzJhU011TEJRN2ZpTmxvTERxMi1tRDlib0dTNG9tcjNLT2tTMUE1SlR0WDdTcFdvUFdENERNTVE?oc=5",
@@ -2953,51 +2998,6 @@
       "category": "Jewelry",
       "sources": [
         "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1789054501524-iltku9se",
-      "title": "London Diamond Bourse puts education at the heart of September programme - jewelleryworld.net.au",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWm84VEcwLVU0bzJQVEl1X2xZcUE4X3BCQXRIRzZGWGpuU2t3eExtYWRYbjVXcGdjMmdsN01MVkR5dnlyVTZTT29VRldBQVcyWmNfX2lheWRSRnozNFU4c1BSOXljQzd6NlZESVY2eGpfYUFhbjZ2alM0NjV6RFRYTnJjeXNUNHNYdVU1RjM1T25xd1NTbm92TFNTUHB6MG9KOWl0bzVxeFJzRHpZMlk0?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-09-10T08:41:33.000Z",
-      "description": "London Diamond Bourse puts education at the heart of September programme jewelleryworld.net.au",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1789029132210-6fl2xjbd",
-      "title": "Diamond jewellery leads the way for independents in August - Jeweller Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjhxeHZxVFFUeUdaaHhJa1ptQThKYU9pNVlYekFYaGw2a19zNWFwdkxRYWt4WWJDWWhhelRsOHlzNEVTRVpVbmJhVHp4SlItY3ZvRmlOX0tIVWpkNi1LZ2RYQW83ZnQxVnB4UkJHb0NqbzZxdERrRnI0VFkyR3pza0FhY3hpVTRFTE1CWDMxWnpFNUs3LXVwYlZsRkQySm1PZjNpV1UxMUs?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-09-10T00:52:49.000Z",
-      "description": "Diamond jewellery leads the way for independents in August Jeweller Magazine",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1788968361905-0g3cy9tm",
-      "title": "14k vs 18k Gold Engagement Ring: Durability, Hardness, and Daily Wear Performance",
-      "link": "https://medium.com/@ask.allan.jewels/14k-vs-18k-gold-engagement-ring-durability-hardness-and-daily-wear-performance-16056ef8bdd2?source=rss------diamonds-5",
-      "source": "Medium Diamonds",
-      "sourceName": "Medium Diamonds",
-      "publishedAt": "2026-09-09T13:32:52.000Z",
-      "description": "TLDR: 14k gold contains 58.5% pure gold and 41.5% structural base metals, producing greater hardness and scratch resistance than 18k… Continue reading on Medium »",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*hY_-_3NvQTpOlfhNDCaAoA.png",
-      "category": "Jewelry",
-      "sources": [
-        "Medium Diamonds"
       ],
       "relevanceScore": 6
     }
