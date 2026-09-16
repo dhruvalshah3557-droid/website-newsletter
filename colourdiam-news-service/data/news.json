@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-16T19:14:31.777Z",
+  "lastFetchAt": "2026-09-16T22:30:42.006Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -1136,6 +1136,21 @@
       "description": "Jacob Arabov on Why the Jewelry Industry Needed a New Diamond Cut jckonline.com",
       "image": null,
       "category": "Loose Diamonds",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 9
+    },
+    {
+      "id": "1789597841015-u6i1seix",
+      "title": "What a decade of auction reveals about coloured diamonds - Windhoek Observer",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVDJjVTZoRlZkWEc5Q1ZBek1ld0tjLVpfc1pjZUFQdzM0UEljVGUySlBxTXlwVVdESE9kTmE0RFFQWGtMV3ByTjZRazRpYkttSm5OdEtOeHNJWGdsZk1VOVFYeDhORVBWaG8yNGw5QV8tbUlBcGd0N0V2YWhrdVNiOXhDQXR1c1VOTFU0?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-03-31T07:00:00.000Z",
+      "description": "What a decade of auction reveals about coloured diamonds Windhoek Observer",
+      "image": null,
+      "category": "Colored Diamonds",
       "sources": [
         "Google News"
       ],
@@ -2980,21 +2995,6 @@
       "publishedAt": "2026-09-14T07:11:31.000Z",
       "description": "What makes two similar pieces of diamond jewellery look completely different, even when they contain diamonds of similar weight? It is the… Continue reading on Medium »",
       "image": "https://cdn-images-1.medium.com/max/1638/1*dMAsHZUFDzW-Np2avxCa5w.jpeg",
-      "category": "Jewelry",
-      "sources": [
-        "Medium Diamonds"
-      ],
-      "relevanceScore": 6
-    },
-    {
-      "id": "1789377927458-mfosdu9n",
-      "title": "Micropave Diamond Rings Elegant Micropave Diamond Rings for Modern Brides",
-      "link": "https://medium.com/@diamondhedge38/micropave-diamond-rings-elegant-micropave-diamond-rings-for-modern-brides-d1f8a6b4ed0d?source=rss------diamonds-5",
-      "source": "Medium Diamonds",
-      "sourceName": "Medium Diamonds",
-      "publishedAt": "2026-09-14T07:09:40.000Z",
-      "description": "Continue reading on Medium »",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*n-b1gMta3vchKKz2FVlYTA.jpeg",
       "category": "Jewelry",
       "sources": [
         "Medium Diamonds"
