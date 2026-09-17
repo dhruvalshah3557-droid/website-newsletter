@@ -100,7 +100,8 @@ class NewsStore {
       image: article.image || null,
       category: article.category || 'Industry News',
       sources: [article.sourceName || article.source || 'unknown'],
-      relevanceScore: article.relevanceScore || 0
+      relevanceScore: article.relevanceScore || 0,
+      uploadedAt: article.uploadedAt || null
     };
 
     this.data.articles.push(record);
@@ -138,6 +139,20 @@ class NewsStore {
 
   setLastFetchAt(timestamp) {
     this.data.lastFetchAt = timestamp;
+    this.persist();
+  }
+
+  markUploaded(ids) {
+    const idSet = new Set(ids || []);
+    if (idSet.size === 0) {
+      return;
+    }
+    const now = new Date().toISOString();
+    for (const article of this.data.articles) {
+      if (idSet.has(article.id)) {
+        article.uploadedAt = now;
+      }
+    }
     this.persist();
   }
 

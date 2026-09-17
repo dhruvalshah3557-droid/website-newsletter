@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sample Newsletter Upload</title>
+  <style>
+    body { font-family: Georgia, serif; background: #f4f1ea; color: #222; margin: 0; }
+    .wrap { max-width: 980px; margin: 0 auto; padding: 32px 20px 64px; }
+    h1 { font-size: 28px; margin: 0 0 8px; }
+    .note { color: #666; margin-bottom: 28px; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+    .card { background: #fff; border: 1px solid #ddd; padding: 20px; }
+    .card h2 { font-size: 16px; margin: 0 0 12px; letter-spacing: .04em; text-transform: uppercase; color: #888; }
+    .news-title { font-size: 28px; margin: 0 0 8px; }
+    .date { color: #777; }
+    .news-content { margin-top: 18px; line-height: 1.6; }
+    .news-content a { color: #8a6a22; }
+    pre { background: #111827; color: #e8e6e1; padding: 16px; overflow: auto; font-size: 12px; }
+    @media (max-width: 800px) { .grid { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Sample newsletter payload</h1>
+    <p class="note">This is the corrected field mapping. Live upload to colourdiam.com needs ADMIN_USERNAME and ADMIN_PASSWORD.</p>
+    <div class="grid">
+      <div class="card">
+        <h2>How colourdiam.com/news looked (empty)</h2>
+        <h2 class="news-title"></h2>
+        <span class="date">15.Sep.2026 ..</span>
+        <div class="news-content"></div>
+      </div>
+      <div class="card">
+        <h2>How the sample should look</h2>
+        <h2 class="news-title">De Beers London Plays on Diamond Cabochons for First High Jewelry on Home Turf - WWD</h2>
+        <span class="date">17.Sep.2026</span>
+        <div class="news-content">
+          <p>De Beers London Plays on Diamond Cabochons for First High Jewelry on Home Turf WWD</p>
+          <p><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQWC1IMktuV3gza0tGSm50SzNTUUY5UGtUUlNOWVVjODktbFF1OVR6cEhDOF9NVTNlM1VUSEpjb3N4eS11R0o2b3hlbmJCcXE4a0VnN1IwMjhza016REczczVOajQzWnJRVXgwT0ItaWloUzV6cmNhT2lBUEFZanRKcFFicXdtWEpkSVAwdzNmaHdCQ3JaWFNLMnZfeUMycmtkb29BYzUyM0F0U3BEeUE?oc=5" target="_blank" rel="noopener">Read full article at Google News</a></p>
+        </div>
+      </div>
+    </div>
+    <div class="card" style="margin-top:20px;">
+      <h2>POST /Admin/SaveNews fields</h2>
+      <pre>{
+  "Subject": "De Beers London Plays on Diamond Cabochons for First High Jewelry on Home Turf - WWD",
+  "DescpBody": "&lt;p&gt;De Beers London Plays on Diamond Cabochons for First High Jewelry on Home Turf WWD&lt;/p&gt;",
+  "CreatedDate": "17.Sep.2026",
+  "UniquId": 0
+}</pre>
+    </div>
+  </div>
+</body>
+</html>

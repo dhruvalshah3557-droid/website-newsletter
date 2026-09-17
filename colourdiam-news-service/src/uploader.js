@@ -123,22 +123,80 @@ class AdminUploader {
     });
 
     const text = await res.text();
-    return { status: res.status, body: text.slice(0, 300) };
+    let parsed = text;
+    try {
+      parsed = JSON.parse(text);
+    } catch (err) {
+      parsed = text;
+    }
+    const savedId = Number(parsed);
+    const ok = res.status >= 200 && res.status < 300 && (parsed === true || savedId > 0);
+    return { status: res.status, body: String(text).slice(0, 300), ok, savedId: Number.isFinite(savedId) ? savedId : 0 };
+  }
+
+  escapeHtml(str) {
+    return String(str || '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;');
+  }
+
+  formatCreatedDate(iso) {
+    const d = new Date(iso);
+    if (Number.isNaN(d.getTime())) {
+      return '';
+    }
+    const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    return `${d.getUTCDate()}.${months[d.getUTCMonth()]}.${d.getUTCFullYear()}`;
+  }
+
+  buildBodyHtml(article) {
+    const title = this.escapeHtml(article.title);
+    const description = this.escapeHtml(article.description);
+    const link = this.escapeHtml(article.link);
+    const source = this.escapeHtml(article.sourceName || article.source || 'Source');
+    const image = this.escapeHtml(article.image);
+    const parts = [];
+    if (image) {
+      parts.push(`<p><img src="${image}" alt="${title}" style="max-width:100%;height:auto;"></p>`);
+    }
+    if (description) {
+      parts.push(`<p>${description}</p>`);
+    }
+    if (link) {
+      parts.push(`<p><a href="${link}" target="_blank" rel="noopener">Read full article at ${source}</a></p>`);
+    }
+    return parts.join('\n');
   }
 
   buildPayload(article) {
-    const field = (fallback) =>
-      fallback ||
-      process.env[`FIELD_${fallback}`] ||
-      '';
+    const title = article.title || '';
+    const description = article.description || '';
+    const link = article.link || '';
+    const image = article.image || '';
+    const source = article.sourceName || article.source || '';
+    const publishedAt = article.publishedAt || '';
+    const category = article.category || 'Industry News';
+    const bodyHtml = this.buildBodyHtml(article);
+    const meta = (description || title).slice(0, 250);
+
     return {
-      Title: article.title || '',
-      Link: article.link || '',
-      Description: article.description || '',
-      Image: article.image || '',
-      PublishedDate: article.publishedAt || '',
-      Category: article.category || 'Industry News',
-      Source: article.sourceName || article.source || ''
+      Subject: title,
+      Title: title,
+      DescpBody: bodyHtml,
+      DescpBodySave: bodyHtml,
+      MetaDescp: meta,
+      LogoPath: image,
+      Image: image,
+      Link: link,
+      Description: description,
+      PublishedDate: publishedAt,
+      CreatedDate: this.formatCreatedDate(publishedAt),
+      Category: category,
+      Source: source,
+      UniquId: 0
     };
   }
 
@@ -165,7 +223,7 @@ class AdminUploader {
       }
       try {
         const result = await this.uploadArticle(article);
-        if (result.status >= 200 && result.status < 300) {
+        if (result.ok) {
           this.uploaded.add(article.id);
           console.log(`[uploader] Uploaded: ${article.title}`);
           uploaded += 1;

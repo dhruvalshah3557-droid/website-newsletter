@@ -36,6 +36,7 @@ jobs:
         env:
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
           MAX_ARTICLES: ${{ vars.MAX_ARTICLES || '200' }}
+          GIT_AUTOPUSH: 'false'
 
       - name: Upload news to admin
         run: node src/upload-run.js
@@ -46,6 +47,7 @@ jobs:
           ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
           UPLOAD_ENDPOINT: ${{ secrets.UPLOAD_ENDPOINT || '/Admin/SaveNews' }}
           MAX_UPLOAD: ${{ vars.MAX_UPLOAD || '10' }}
+          MAX_AGE_DAYS: ${{ vars.MAX_AGE_DAYS || '90' }}
 
       - name: Commit and push updated news data
         run: |
