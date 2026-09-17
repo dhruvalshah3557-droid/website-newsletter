@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-17T19:30:33.625Z",
+  "lastFetchAt": "2026-09-17T22:33:20.312Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -59,7 +59,8 @@
       "sources": [
         "Google News"
       ],
-      "relevanceScore": 12
+      "relevanceScore": 12,
+      "uploadedAt": "2026-09-17T22:33:24.686Z"
     },
     {
       "id": "1788473080732-3m6fx0qk",
@@ -395,7 +396,8 @@
       "sources": [
         "Medium Diamonds"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-17T22:33:24.686Z"
     },
     {
       "id": "1788882255851-4rn3kr5z",
@@ -410,7 +412,8 @@
       "sources": [
         "Medium Diamonds"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-17T22:33:24.686Z"
     },
     {
       "id": "1788882255852-wm362h1s",
@@ -425,7 +428,8 @@
       "sources": [
         "Medium Diamonds"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-17T22:33:24.686Z"
     },
     {
       "id": "1788882255853-pbuoki2v",
@@ -440,7 +444,8 @@
       "sources": [
         "Medium Diamonds"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-17T22:33:24.686Z"
     },
     {
       "id": "1788770815620-kqs6tclq",
@@ -455,7 +460,8 @@
       "sources": [
         "Medium Diamonds"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-17T22:33:24.686Z"
     },
     {
       "id": "1788770815936-kvghaia1",
@@ -470,7 +476,8 @@
       "sources": [
         "Google News"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-17T22:33:24.686Z"
     },
     {
       "id": "1788800175875-gs8c37ws",
@@ -2645,7 +2652,8 @@
       "sources": [
         "Medium Diamonds"
       ],
-      "relevanceScore": 8
+      "relevanceScore": 8,
+      "uploadedAt": "2026-09-17T22:33:24.686Z"
     },
     {
       "id": "1788535846698-ycl0p5re",
@@ -2660,7 +2668,8 @@
       "sources": [
         "Medium Diamonds"
       ],
-      "relevanceScore": 8
+      "relevanceScore": 8,
+      "uploadedAt": "2026-09-17T22:33:24.686Z"
     },
     {
       "id": "1787219573141-oj2hyl13",
@@ -2738,7 +2747,8 @@
       "sources": [
         "Medium Diamonds"
       ],
-      "relevanceScore": 7
+      "relevanceScore": 7,
+      "uploadedAt": "2026-09-17T22:33:24.686Z"
     },
     {
       "id": "1788277770683-o7syjl3p",
