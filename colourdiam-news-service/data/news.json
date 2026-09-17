@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-17T15:56:56.798Z",
+  "lastFetchAt": "2026-09-17T19:30:33.625Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -299,7 +299,8 @@
       "sources": [
         "Medium Diamonds"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-17T19:30:38.193Z"
     },
     {
       "id": "1789487915120-a9l964h3",
@@ -314,7 +315,8 @@
       "sources": [
         "Google News"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-17T19:30:38.193Z"
     },
     {
       "id": "1789487915318-7twwq92o",
@@ -329,7 +331,8 @@
       "sources": [
         "Google News"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-17T19:30:38.193Z"
     },
     {
       "id": "1789312965061-xnrqo19d",
@@ -344,7 +347,8 @@
       "sources": [
         "Google News"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-17T19:30:38.193Z"
     },
     {
       "id": "1789224180379-cjbou1wz",
@@ -359,7 +363,8 @@
       "sources": [
         "Medium Diamonds"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-17T19:30:38.193Z"
     },
     {
       "id": "1789141016193-vz651hrk",
@@ -374,7 +379,8 @@
       "sources": [
         "Medium Diamonds"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-17T19:30:38.193Z"
     },
     {
       "id": "1788942610628-br31uud8",
@@ -2684,7 +2690,8 @@
       "sources": [
         "The Jewellery Editor"
       ],
-      "relevanceScore": 7
+      "relevanceScore": 7,
+      "uploadedAt": "2026-09-17T19:30:38.193Z"
     },
     {
       "id": "1789141016191-izvt7q0t",
@@ -2699,7 +2706,8 @@
       "sources": [
         "Medium Diamonds"
       ],
-      "relevanceScore": 7
+      "relevanceScore": 7,
+      "uploadedAt": "2026-09-17T19:30:38.193Z"
     },
     {
       "id": "1789029131686-xm77o23m",
@@ -2714,7 +2722,8 @@
       "sources": [
         "Medium Diamonds"
       ],
-      "relevanceScore": 7
+      "relevanceScore": 7,
+      "uploadedAt": "2026-09-17T19:30:38.193Z"
     },
     {
       "id": "1788942610627-llvg54jv",
@@ -2917,6 +2926,22 @@
       "uploadedAt": "2026-09-17T15:57:00.561Z"
     },
     {
+      "id": "1789673432647-26tubvd5",
+      "title": "\"Beijing Declaration on Natural Diamonds and Sustainable Development\" Signed in Beijing, Ushering in a New Chapter for China-Africa Natural Diamond Industry Cooperation - etnet 經濟通",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeWxyekh1WndLRkdDSW44ejFZc3hHOHVZV1BUb3llSnJaRk5KTGt4NWRhZDFwSmpyR2xDcFRKWE5TZ1hZaDJwU3dvdm03OFNNTTYzZGllQW1ZLXB5SHN3cHJzT0NSV2VyUWtMQUZwRVlFeUtpN204djJRUENpcllVaGRTSWxzMDVXbVhoYlk3T1JkSm1UckJzWWJ3X1k0VXBzU0NSS0ln?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-09-17T02:41:00.000Z",
+      "description": "\"Beijing Declaration on Natural Diamonds and Sustainable Development\" Signed in Beijing, Ushering in a New Chapter for China-Africa Natural Diamond Industry Cooperation etnet 經濟通",
+      "image": null,
+      "category": "Loose Diamonds",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 6,
+      "uploadedAt": "2026-09-17T19:30:38.193Z"
+    },
+    {
       "id": "1789635807316-mxbn5eqh",
       "title": "\"Beijing Declaration on Natural Diamonds and Sustainable Development\" Signed in Beijing, Ushering in a New Chapter for China-Africa Natural Diamond Industry Cooperation - Bluefield Daily Telegraph",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQQzJYb1lWNGQyQjVESC1VdGliN1puSzRLMlEzMHZ1N1VQTHQzbVNwdFRXUUpSRlNXRFhtTGl2VHZMaUpkdVZzVVE1R2xMazdrLVo4ZVFtaWlGOEw4dkxlejRyeFExcEpINXZJUlhGblZEVUNnbmk2eW1NZFp3aVNQcTBkVnFjb1BnUTU5c3lIbjJTQnNVdDQ1bXNUWTFUUG1sSzNJUVdrSXd0MWZhOExYMW15eDVKU1JrLWsxUlZIajlwZ0loU1Z3SmxiZDBFbUd3dmkyYUNLM2dBUk4zUFk5dm16azRBVk5qOGlHRmxhVm5nRW9GMXMyclNGbkJveTMzNk9jSU94TzZiVmIxcG04ZHBLREc?oc=5",
@@ -2995,21 +3020,6 @@
       ],
       "relevanceScore": 6,
       "uploadedAt": "2026-09-17T15:57:00.561Z"
-    },
-    {
-      "id": "1789573853545-2f7s3r14",
-      "title": "Why More People Are Choosing to Wear Diamond Jewelry Every Day",
-      "link": "https://medium.com/@support.shrishley/why-more-people-are-choosing-to-wear-diamond-jewelry-every-day-3428064c0127?source=rss------diamonds-5",
-      "source": "Medium Diamonds",
-      "sourceName": "Medium Diamonds",
-      "publishedAt": "2026-09-16T09:55:30.000Z",
-      "description": "For a long time, diamond jewelry was associated with milestones and celebrations. Engagements, weddings, anniversaries, and formal events… Continue reading on Medium »",
-      "image": "https://cdn-images-1.medium.com/max/1024/1*o_LZGr8f30m39NDYSZoGpw.png",
-      "category": "Jewelry",
-      "sources": [
-        "Medium Diamonds"
-      ],
-      "relevanceScore": 6
     }
   ]
 }
