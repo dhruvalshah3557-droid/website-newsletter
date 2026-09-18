@@ -296,13 +296,71 @@ class AdminUploader {
     return !subject && !body;
   }
 
+  extractAdminHints(html) {
+    const text = String(html || '');
+    const ajax = Array.from(
+      text.matchAll(/url\s*:\s*["']([^"']+)["']/gi),
+      (m) => m[1]
+    );
+    const actions = Array.from(
+      text.matchAll(/["']\/Admin\/[A-Za-z0-9]+["']/g),
+      (m) => m[0].replace(/['"]/g, '')
+    );
+    const deleteCalls = Array.from(
+      text.matchAll(/Delete[A-Za-z]*|delEntry|onDeleteSuccess|UniquId|ProdId/g),
+      (m) => m[0]
+    );
+    const tableIds = Array.from(text.matchAll(/id=["']([^"']*News[^"']*)["']/gi), (m) => m[1]);
+    return {
+      ajax: Array.from(new Set(ajax)).slice(0, 20),
+      actions: Array.from(new Set(actions)).slice(0, 20),
+      deleteCalls: Array.from(new Set(deleteCalls)).slice(0, 20),
+      tableIds: Array.from(new Set(tableIds)).slice(0, 20)
+    };
+  }
+
   async inspectNewsAdmin() {
     const page = await this.request('GET', `${BASE_URL}/Admin/News`);
+    const html = page.body || '';
+    const scriptSrc = Array.from(html.matchAll(/src=["']([^"']+\.js[^"']*)["']/gi), (m) => m[1]);
+    const dataTableAjax = Array.from(html.matchAll(/ajax\s*:\s*["']([^"']+)["']/gi), (m) => m[1]);
+    const inlineScripts = (html.match(/<script(?![^>]*src=)[^>]*>([\s\S]*?)<\/script>/gi) || [])
+      .map((s) => s.replace(/<\/?script[^>]*>/gi, '').trim())
+      .filter((s) => /News|Delete|ajax|DataTable|UniquId/i.test(s))
+      .map((s) => s.slice(0, 1500));
+    const listAttempts = [];
+    const listUrls = ['/Admin/NewsList', '/Admin/GetNewsList', '/Admin/NewsMaster', '/Admin/News'];
+    for (const path of listUrls) {
+      const payloads = [
+        {},
+        { draw: 1, start: 0, length: 200 },
+        { UniquId: 0, PartialViewName: '_NewsList' }
+      ];
+      for (const payload of payloads) {
+        const result = await this.request('POST', `${BASE_URL}${path}`, payload);
+        listAttempts.push({
+          path,
+          payload,
+          status: result.status,
+          length: result.body.length,
+          preview: String(result.body).slice(0, 400)
+        });
+        if (result.status >= 200 && result.status < 300 && result.body.length > 20) {
+          break;
+        }
+      }
+    }
     return {
       status: page.status,
       location: page.location,
       length: page.body.length,
-      snippet: page.body.slice(0, 4000)
+      snippet: html.slice(0, 4000),
+      tail: html.slice(-4000),
+      scriptSrc,
+      dataTableAjax,
+      inlineScripts,
+      hints: this.extractAdminHints(html),
+      listAttempts
     };
   }
 
