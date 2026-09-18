@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-18T13:45:58.501Z",
+  "lastFetchAt": "2026-09-18T13:58:54.324Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -1378,7 +1378,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Only Natural Diamonds"
       ],
       "relevanceScore": 9
     },
@@ -1441,7 +1442,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "idexonline.com"
       ],
       "relevanceScore": 9
     },
