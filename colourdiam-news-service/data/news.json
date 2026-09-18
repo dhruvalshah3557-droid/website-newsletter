@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-18T18:45:41.835Z",
+  "lastFetchAt": "2026-09-18T22:06:49.705Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -328,7 +328,8 @@
       "category": "Jewelry",
       "sources": [
         "Google News",
-        "TechBullion"
+        "TechBullion",
+        "techbullion.com"
       ],
       "relevanceScore": 9,
       "uploadedAt": "2026-09-18T08:37:51.149Z"
@@ -1323,7 +1324,8 @@
       "category": "Jewelry",
       "sources": [
         "Google News",
-        "Town & Country Magazine"
+        "Town & Country Magazine",
+        "townandcountrymag.com"
       ],
       "relevanceScore": 9
     },
@@ -3023,7 +3025,8 @@
       "category": "Loose Diamonds",
       "sources": [
         "Google News",
-        "The Retail Jeweller India"
+        "The Retail Jeweller India",
+        "retailjewellerindia.com"
       ],
       "relevanceScore": 6,
       "uploadedAt": "2026-09-18T13:31:01.818Z"
