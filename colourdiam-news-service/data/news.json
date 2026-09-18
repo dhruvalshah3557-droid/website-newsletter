@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-18T13:30:57.189Z",
+  "lastFetchAt": "2026-09-18T13:45:58.501Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -12,7 +12,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Only Natural Diamonds"
       ],
       "relevanceScore": 15
     },
@@ -57,7 +58,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "Artnet"
       ],
       "relevanceScore": 12,
       "uploadedAt": "2026-09-18T13:31:01.818Z"
@@ -73,7 +75,8 @@
       "image": null,
       "category": "Jewelry",
       "sources": [
-        "Google News"
+        "Google News",
+        "Rapaport"
       ],
       "relevanceScore": 12,
       "uploadedAt": "2026-09-17T22:33:24.686Z"
@@ -136,7 +139,8 @@
       "image": null,
       "category": "Jewelry",
       "sources": [
-        "Google News"
+        "Google News",
+        "Only Natural Diamonds"
       ],
       "relevanceScore": 12
     },
@@ -151,7 +155,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "Forbes"
       ],
       "relevanceScore": 12
     },
@@ -181,7 +186,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Robb Report"
       ],
       "relevanceScore": 12
     },
@@ -196,7 +202,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "Robb Report"
       ],
       "relevanceScore": 12
     },
@@ -211,7 +218,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "Rapaport"
       ],
       "relevanceScore": 12
     },
@@ -226,7 +234,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "Centurion Jewelry Show"
       ],
       "relevanceScore": 12
     },
@@ -317,7 +326,8 @@
       "image": null,
       "category": "Jewelry",
       "sources": [
-        "Google News"
+        "Google News",
+        "TechBullion"
       ],
       "relevanceScore": 9,
       "uploadedAt": "2026-09-18T08:37:51.149Z"
@@ -349,7 +359,8 @@
       "image": null,
       "category": "Jewelry",
       "sources": [
-        "Google News"
+        "Google News",
+        "Centurion Jewelry Show"
       ],
       "relevanceScore": 9,
       "uploadedAt": "2026-09-17T19:30:38.193Z"
@@ -365,7 +376,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Haute Living"
       ],
       "relevanceScore": 9,
       "uploadedAt": "2026-09-17T19:30:38.193Z"
@@ -509,7 +521,8 @@
       "image": null,
       "category": "Jewelry",
       "sources": [
-        "Google News"
+        "Google News",
+        "idexonline.com"
       ],
       "relevanceScore": 9,
       "uploadedAt": "2026-09-17T22:33:24.686Z"
@@ -621,7 +634,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "instoremag.com"
       ],
       "relevanceScore": 9,
       "uploadedAt": "2026-09-18T02:28:05.071Z"
@@ -795,7 +809,8 @@
       "image": null,
       "category": "Met Gala",
       "sources": [
-        "Google News"
+        "Google News",
+        "Something About Rocks"
       ],
       "relevanceScore": 9
     },
@@ -915,7 +930,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Rapaport"
       ],
       "relevanceScore": 9
     },
@@ -930,7 +946,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Only Natural Diamonds"
       ],
       "relevanceScore": 9
     },
@@ -960,7 +977,8 @@
       "image": null,
       "category": "Loose Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "Only Natural Diamonds"
       ],
       "relevanceScore": 9
     },
@@ -975,7 +993,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "nationaljeweler.com"
       ],
       "relevanceScore": 9
     },
@@ -990,7 +1009,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "Rapaport"
       ],
       "relevanceScore": 9
     },
@@ -1020,7 +1040,8 @@
       "image": null,
       "category": "Jewelry",
       "sources": [
-        "Google News"
+        "Google News",
+        "Intelligent Collector"
       ],
       "relevanceScore": 9
     },
@@ -1125,7 +1146,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Rapaport"
       ],
       "relevanceScore": 9
     },
@@ -1155,7 +1177,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Christie's Press"
       ],
       "relevanceScore": 9
     },
@@ -1200,7 +1223,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "jckonline.com"
       ],
       "relevanceScore": 9
     },
@@ -1230,7 +1254,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "Windhoek Observer"
       ],
       "relevanceScore": 9
     },
@@ -1245,7 +1270,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "Rapaport"
       ],
       "relevanceScore": 9
     },
@@ -1290,7 +1316,8 @@
       "image": null,
       "category": "Jewelry",
       "sources": [
-        "Google News"
+        "Google News",
+        "Town & Country Magazine"
       ],
       "relevanceScore": 9
     },
@@ -1305,7 +1332,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "MediaPost"
       ],
       "relevanceScore": 9
     },
@@ -1365,7 +1393,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Only Natural Diamonds"
       ],
       "relevanceScore": 9
     },
@@ -1380,7 +1409,8 @@
       "image": null,
       "category": "Jewelry",
       "sources": [
-        "Google News"
+        "Google News",
+        "De Beers Group"
       ],
       "relevanceScore": 9
     },
@@ -1395,7 +1425,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "Only Natural Diamonds"
       ],
       "relevanceScore": 9
     },
@@ -1425,7 +1456,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "PR Newswire"
       ],
       "relevanceScore": 9
     },
@@ -1440,7 +1472,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Rapaport"
       ],
       "relevanceScore": 9
     },
@@ -1470,7 +1503,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Only Natural Diamonds"
       ],
       "relevanceScore": 9
     },
@@ -1485,7 +1519,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Rapaport"
       ],
       "relevanceScore": 9
     },
@@ -1530,7 +1565,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Jeweller Magazine"
       ],
       "relevanceScore": 9
     },
@@ -1560,7 +1596,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Only Natural Diamonds"
       ],
       "relevanceScore": 9
     },
@@ -1605,7 +1642,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Yahoo Lifestyle Canada"
       ],
       "relevanceScore": 9
     },
@@ -1620,7 +1658,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "nationaljeweler.com"
       ],
       "relevanceScore": 9
     },
@@ -1650,7 +1689,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Only Natural Diamonds"
       ],
       "relevanceScore": 9
     },
@@ -1680,7 +1720,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "nationaljeweler.com"
       ],
       "relevanceScore": 9
     },
@@ -1695,7 +1736,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "nationaljeweler.com"
       ],
       "relevanceScore": 9
     },
@@ -1725,7 +1767,8 @@
       "image": null,
       "category": "Loose Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "CBS News"
       ],
       "relevanceScore": 9
     },
@@ -1755,7 +1798,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "Robb Report"
       ],
       "relevanceScore": 9
     },
@@ -1770,7 +1814,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "Yahoo Finance"
       ],
       "relevanceScore": 9
     },
@@ -1860,7 +1905,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "Rapaport"
       ],
       "relevanceScore": 9
     },
@@ -1920,7 +1966,8 @@
       "image": null,
       "category": "Met Gala",
       "sources": [
-        "Google News"
+        "Google News",
+        "WATE 6 On Your Side"
       ],
       "relevanceScore": 9
     },
@@ -1980,7 +2027,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Only Natural Diamonds"
       ],
       "relevanceScore": 9
     },
@@ -2055,7 +2103,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Centurion Jewelry Show"
       ],
       "relevanceScore": 9
     },
@@ -2100,7 +2149,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Robb Report"
       ],
       "relevanceScore": 9
     },
@@ -2115,7 +2165,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "Rapaport"
       ],
       "relevanceScore": 9
     },
@@ -2160,7 +2211,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Only Natural Diamonds"
       ],
       "relevanceScore": 9
     },
@@ -2325,7 +2377,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "Antique Trader"
       ],
       "relevanceScore": 9
     },
@@ -2340,7 +2393,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "jckonline.com"
       ],
       "relevanceScore": 9
     },
@@ -2355,7 +2409,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "Forbes"
       ],
       "relevanceScore": 9
     },
@@ -2893,7 +2948,8 @@
       "sources": [
         "Natural Diamonds"
       ],
-      "relevanceScore": 7
+      "relevanceScore": 7,
+      "uploadedAt": "2026-09-18T13:46:00.249Z"
     },
     {
       "id": "1787155411632-0h5u1kij",
@@ -2908,7 +2964,8 @@
       "sources": [
         "AGTA"
       ],
-      "relevanceScore": 7
+      "relevanceScore": 7,
+      "uploadedAt": "2026-09-18T13:46:00.249Z"
     },
     {
       "id": "1789738256075-r6tdy5li",
@@ -2937,7 +2994,8 @@
       "image": null,
       "category": "Loose Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "The Retail Jeweller India"
       ],
       "relevanceScore": 6,
       "uploadedAt": "2026-09-18T13:31:01.818Z"
@@ -2969,7 +3027,8 @@
       "image": null,
       "category": "Jewelry",
       "sources": [
-        "Google News"
+        "Google News",
+        "WatchPro USA"
       ],
       "relevanceScore": 6,
       "uploadedAt": "2026-09-18T13:31:01.818Z"
@@ -2985,7 +3044,8 @@
       "image": null,
       "category": "Loose Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "Indovizka.com"
       ],
       "relevanceScore": 6,
       "uploadedAt": "2026-09-18T02:28:05.071Z"
