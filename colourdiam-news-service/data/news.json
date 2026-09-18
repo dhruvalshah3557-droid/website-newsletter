@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-17T22:33:20.312Z",
+  "lastFetchAt": "2026-09-18T02:28:00.381Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -75,7 +75,8 @@
       "sources": [
         "Google News"
       ],
-      "relevanceScore": 12
+      "relevanceScore": 12,
+      "uploadedAt": "2026-09-18T02:28:05.071Z"
     },
     {
       "id": "1787954137036-hbt79fek",
@@ -492,7 +493,8 @@
       "sources": [
         "Google News"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-18T02:28:05.071Z"
     },
     {
       "id": "1788449560057-7b6o04lc",
@@ -507,7 +509,8 @@
       "sources": [
         "Medium Diamonds"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-18T02:28:05.071Z"
     },
     {
       "id": "1788449560101-bx6wiynq",
@@ -522,7 +525,8 @@
       "sources": [
         "Google News"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-18T02:28:05.071Z"
     },
     {
       "id": "1788387142601-238ahdpr",
@@ -537,7 +541,8 @@
       "sources": [
         "Google News"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-18T02:28:05.071Z"
     },
     {
       "id": "1788387142746-4d0iha0x",
@@ -552,7 +557,8 @@
       "sources": [
         "Google News"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-18T02:28:05.071Z"
     },
     {
       "id": "1788336964738-ejyli0mx",
@@ -567,7 +573,8 @@
       "sources": [
         "Medium Diamonds"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-18T02:28:05.071Z"
     },
     {
       "id": "1788731522180-n2s7bu09",
@@ -582,7 +589,8 @@
       "sources": [
         "Google News"
       ],
-      "relevanceScore": 9
+      "relevanceScore": 9,
+      "uploadedAt": "2026-09-18T02:28:05.071Z"
     },
     {
       "id": "1787879415595-b9jjxkn3",
@@ -2763,7 +2771,8 @@
       "sources": [
         "Medium Diamonds"
       ],
-      "relevanceScore": 7
+      "relevanceScore": 7,
+      "uploadedAt": "2026-09-18T02:28:05.071Z"
     },
     {
       "id": "1787954136416-39msn2p8",
@@ -2854,6 +2863,22 @@
         "AGTA"
       ],
       "relevanceScore": 7
+    },
+    {
+      "id": "1789698479902-5nvk40yk",
+      "title": "\"Beijing Declaration on Natural Diamonds and Sustainable Development\" Signed in Beijing, Ushering in a New Chapter for China-Africa Natural Diamond Industry Cooperation - indovizka.com",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOejRMa0hSVlFpSnB5RVdxa3hjN2FHaW9hR2Y0Zl9yLWJkcFE2N1FHajEtZi1BYTZXTExtZDc3VjhsdTl2Nm5rYWdjZUFHZVJ3M1dOeFRISnhGMDUwVVpZbm9SMVlJakpPQnNjN2pGbUtySzJTQ0RhOERjY18wa1NBd1o5bUNFSS1POTRkcXlYdjFfc0hTNmY1Q18wblVFY1ViOHRsYjB6anpFSFhFa2tWdkhEcDFzRDh1ME5BS3VXLTJJRmltTndNc1VzejRXYzlFaU5DRTZTR05MZmtsZ1dndDgySTRRX1A4RFktN0xiaTRnTVhnOURqSTNJRWhtYjNTLVNLNFRNQ01kRzF2dFdEYWlEWUV3RmhBaTFuazR1VktNWkwySlpfbG9GenU?oc=5",
+      "source": "Google News",
+      "sourceName": "Google News",
+      "publishedAt": "2026-09-18T00:23:15.000Z",
+      "description": "\"Beijing Declaration on Natural Diamonds and Sustainable Development\" Signed in Beijing, Ushering in a New Chapter for China-Africa Natural Diamond Industry Cooperation indovizka.com",
+      "image": null,
+      "category": "Loose Diamonds",
+      "sources": [
+        "Google News"
+      ],
+      "relevanceScore": 6,
+      "uploadedAt": "2026-09-18T02:28:05.071Z"
     },
     {
       "id": "1789660615722-1ho8kvsy",
@@ -3011,22 +3036,6 @@
       "category": "Jewelry",
       "sources": [
         "Medium Diamonds"
-      ],
-      "relevanceScore": 6,
-      "uploadedAt": "2026-09-17T15:57:00.561Z"
-    },
-    {
-      "id": "1789573854021-f7hmef03",
-      "title": "Lab Grown Diamonds: 7 reasons India’s smartest jewellery buyers are making the switch in 2026 - The News Mill",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU0FYQkFxQy1OdXVPZDNScGN1bFNYR0RuSWNCOFJQdFRHSDZhb2dhSVVIYTdlTmxwakk3Z29LQXJGdG8wTTdnZHVRSUNjQUNMRHZMOHlkVFdMUEJvMVZmYWkxV01ESUZXcHB0cmF6ZVRfOVZiTUxFMGs0T0V4SmdrUW80VXZtaGJSYW9DUV9XMG1sVU5FV0FiRDA2NmQ4QW9QZWs4YUFiQ1BOeC1sTGxGaEQ4bENTeExESDNKa2pHdzlidw?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-09-16T10:21:21.000Z",
-      "description": "Lab Grown Diamonds: 7 reasons India’s smartest jewellery buyers are making the switch in 2026 The News Mill",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
       ],
       "relevanceScore": 6,
       "uploadedAt": "2026-09-17T15:57:00.561Z"
