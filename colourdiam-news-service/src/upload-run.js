@@ -2,6 +2,7 @@ require('dotenv').config();
 
 const { NewsStore } = require('./store');
 const { AdminUploader } = require('./uploader');
+const { isLowQualitySource, uniqueDescription } = require('./article-text');
 
 async function main() {
   const store = new NewsStore();
@@ -14,6 +15,8 @@ async function main() {
   const candidates = articles
     .filter((article) => !article.uploadedAt)
     .filter((article) => (article.title || '').trim())
+    .filter((article) => !isLowQualitySource(article))
+    .filter((article) => uniqueDescription(article.title, article.description) || article.image)
     .filter((article) => {
       const published = new Date(article.publishedAt || 0).getTime();
       return Number.isFinite(published) && published >= cutoff;

@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const { uniqueDescription, publisherFromTitle } = require('./article-text');
 
 const BASE_URL = process.env.ADMIN_BASE_URL || 'https://www.colourdiam.com';
 const ADMIN_USERNAME = process.env.ADMIN_USERNAME || '';
@@ -153,30 +154,32 @@ class AdminUploader {
   }
 
   buildBodyHtml(article) {
-    const title = this.escapeHtml(article.title);
-    const description = this.escapeHtml(article.description);
+    const title = article.title || '';
+    const description = uniqueDescription(title, article.description);
     const link = this.escapeHtml(article.link);
-    const source = this.escapeHtml(article.sourceName || article.source || 'Source');
+    const source = this.escapeHtml(
+      publisherFromTitle(title, article.sourceName || article.source || 'source')
+    );
     const image = this.escapeHtml(article.image);
     const parts = [];
     if (image) {
-      parts.push(`<p><img src="${image}" alt="${title}" style="max-width:100%;height:auto;"></p>`);
+      parts.push(`<p><img src="${image}" alt="${this.escapeHtml(title)}" style="max-width:100%;height:auto;"></p>`);
     }
     if (description) {
-      parts.push(`<p>${description}</p>`);
+      parts.push(`<p>${this.escapeHtml(description)}</p>`);
     }
     if (link) {
-      parts.push(`<p><a href="${link}" target="_blank" rel="noopener">Read full article at ${source}</a></p>`);
+      parts.push(`<p><a href="${link}" target="_blank" rel="noopener">Read more at ${source}</a></p>`);
     }
     return parts.join('\n');
   }
 
   buildPayload(article) {
     const title = article.title || '';
-    const description = article.description || '';
+    const description = uniqueDescription(title, article.description);
     const link = article.link || '';
     const image = article.image || '';
-    const source = article.sourceName || article.source || '';
+    const source = publisherFromTitle(title, article.sourceName || article.source || '');
     const publishedAt = article.publishedAt || '';
     const category = article.category || 'Industry News';
     const bodyHtml = this.buildBodyHtml(article);

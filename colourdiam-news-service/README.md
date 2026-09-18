@@ -12,7 +12,7 @@ site owner simply links to the news page URL from the main site.
 
 - **Three news source types**
   - Hand-picked jewellery/diamond/auction RSS feeds (Rapaport, JCK, National
-    Jeweler, The Jewellery Editor, Natural Diamonds, AGTA, Medium, Gem Society).
+    Jeweler, The Jewellery Editor, Natural Diamonds, AGTA, Gem Society).
   - Google News RSS search with 7 niche keyword queries.
   - Optional NewsAPI.org querying when `NEWSAPI_KEY` is set (skipped gracefully
     otherwise).

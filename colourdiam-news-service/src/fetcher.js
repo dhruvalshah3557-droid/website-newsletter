@@ -1,4 +1,5 @@
 const Parser = require('rss-parser');
+const { stripHtml, uniqueDescription, publisherFromTitle, isLowQualitySource } = require('./article-text');
 
 const RELEVANT_KEYWORDS = [
   'diamond',
@@ -71,10 +72,6 @@ const RSS_FEEDS = [
     url: 'https://agta.org/feed/'
   },
   {
-    name: 'Medium Diamonds',
-    url: 'https://www.medium.com/feed/tag/diamonds'
-  },
-  {
     name: 'Gem Society',
     url: 'https://www.gemsociety.org/feed/'
   }
@@ -94,21 +91,6 @@ const NEWSAPI_QUERIES = [
   'diamond jewelry',
   'Met Gala auction'
 ];
-
-function stripHtml(html) {
-  return String(html || '')
-    .replace(/<[^>]*>/g, ' ')
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&amp;/g, '&')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&rsquo;/g, "'")
-    .replace(/&ldquo;|&rdquo;/g, '"')
-    .replace(/&ndash;|&mdash;/g, '-')
-    .replace(/&hellip;/g, '...')
-    .replace(/\s+/g, ' ')
-    .trim();
-}
 
 function computeRelevanceScore(title, description) {
   const titleLower = String(title || '').toLowerCase();
@@ -170,18 +152,20 @@ function extractImage(item) {
 
 function buildArticle(item, source) {
   const title = stripHtml(item.title);
-  const description = stripHtml(item.contentSnippet || item.content || item.summary || item.description || '');
+  const rawDescription = item.contentSnippet || item.content || item.summary || item.description || '';
+  const description = uniqueDescription(title, rawDescription).slice(0, 500);
   const publishedAt = item.isoDate || item.pubDate || item.published || new Date().toISOString();
+  const sourceName = source.name === 'Google News' ? publisherFromTitle(title, source.name) : source.name;
 
-  const relevanceScore = computeRelevanceScore(title, description);
+  const relevanceScore = computeRelevanceScore(title, description || rawDescription);
 
   return {
     title,
     link: item.link || '',
     source: source.name,
-    sourceName: source.name,
+    sourceName,
     publishedAt,
-    description: description.slice(0, 500),
+    description,
     image: extractImage(item),
     relevanceScore
   };
@@ -329,7 +313,9 @@ class NewsFetcher {
       }
     }
 
-    const relevant = results.filter((article) => isRelevant(article.title, article.description));
+    const relevant = results.filter(
+      (article) => isRelevant(article.title, article.description) && !isLowQualitySource(article)
+    );
     console.log(
       `[fetcher] fetched ${results.length} raw items, ${relevant.length} relevant after filtering`
     );
