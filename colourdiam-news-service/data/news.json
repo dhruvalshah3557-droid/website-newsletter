@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-18T14:07:20.556Z",
+  "lastFetchAt": "2026-09-18T15:32:00.112Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -235,7 +235,8 @@
       "category": "Colored Diamonds",
       "sources": [
         "Google News",
-        "Centurion Jewelry Show"
+        "Centurion Jewelry Show",
+        "news.centurionjewelry.com"
       ],
       "relevanceScore": 12
     },
@@ -360,7 +361,8 @@
       "category": "Jewelry",
       "sources": [
         "Google News",
-        "Centurion Jewelry Show"
+        "Centurion Jewelry Show",
+        "news.centurionjewelry.com"
       ],
       "relevanceScore": 9,
       "uploadedAt": "2026-09-17T19:30:38.193Z"
@@ -1257,7 +1259,8 @@
       "category": "Colored Diamonds",
       "sources": [
         "Google News",
-        "Windhoek Observer"
+        "Windhoek Observer",
+        "observer24.com.na"
       ],
       "relevanceScore": 9
     },
@@ -1632,7 +1635,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "The Independent"
       ],
       "relevanceScore": 9
     },
@@ -1972,7 +1976,8 @@
       "category": "Met Gala",
       "sources": [
         "Google News",
-        "WATE 6 On Your Side"
+        "WATE 6 On Your Side",
+        "wate.com"
       ],
       "relevanceScore": 9
     },
@@ -2124,7 +2129,8 @@
       "image": null,
       "category": "Met Gala",
       "sources": [
-        "Google News"
+        "Google News",
+        "Something About Rocks"
       ],
       "relevanceScore": 9
     },
