@@ -11,15 +11,15 @@ async function main() {
     `[cleanup] Admin/News HTTP ${inspect.status} location=${inspect.location} bytes=${inspect.length}`
   );
   console.log(`[cleanup] Admin/News hints: ${JSON.stringify(inspect.hints)}`);
-  console.log(`[cleanup] scriptSrc: ${JSON.stringify(inspect.scriptSrc)}`);
-  console.log(`[cleanup] dataTableAjax: ${JSON.stringify(inspect.dataTableAjax)}`);
   for (const script of inspect.inlineScripts || []) {
-    console.log(`[cleanup] inline script:\n${script}`);
+    const idx = script.indexOf('TableList');
+    if (idx >= 0) {
+      console.log(`[cleanup] TableList script:\n${script.slice(idx, idx + 2500)}`);
+    }
   }
-  console.log(`[cleanup] Admin/News tail:\n${inspect.tail}`);
   for (const attempt of inspect.listAttempts || []) {
     console.log(
-      `[cleanup] List ${attempt.path} ${JSON.stringify(attempt.payload)} HTTP ${attempt.status} bytes=${attempt.length}`
+      `[cleanup] List ${JSON.stringify(attempt.payload)} HTTP ${attempt.status} bytes=${attempt.length}`
     );
     console.log(`[cleanup] List preview: ${attempt.preview}`);
   }

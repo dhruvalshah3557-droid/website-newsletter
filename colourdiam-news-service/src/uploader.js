@@ -329,26 +329,21 @@ class AdminUploader {
       .filter((s) => /News|Delete|ajax|DataTable|UniquId/i.test(s))
       .map((s) => s.slice(0, 1500));
     const listAttempts = [];
-    const listUrls = ['/Admin/NewsList', '/Admin/GetNewsList', '/Admin/NewsMaster', '/Admin/News'];
-    for (const path of listUrls) {
-      const payloads = [
-        {},
-        { draw: 1, start: 0, length: 200 },
-        { UniquId: 0, PartialViewName: '_NewsList' }
-      ];
-      for (const payload of payloads) {
-        const result = await this.request('POST', `${BASE_URL}${path}`, payload);
-        listAttempts.push({
-          path,
-          payload,
-          status: result.status,
-          length: result.body.length,
-          preview: String(result.body).slice(0, 400)
-        });
-        if (result.status >= 200 && result.status < 300 && result.body.length > 20) {
-          break;
-        }
-      }
+    const listPayloads = [
+      { sEcho: 1, iDisplayStart: 0, iDisplayLength: 50 },
+      { sEcho: 1, iDisplayStart: 0, iDisplayLength: 50, sSearch: '' },
+      { draw: 1, start: 0, length: 50, 'search[value]': '' },
+      { UniquId: 0 }
+    ];
+    for (const payload of listPayloads) {
+      const result = await this.request('POST', `${BASE_URL}/Admin/NewsList`, payload);
+      listAttempts.push({
+        path: '/Admin/NewsList',
+        payload,
+        status: result.status,
+        length: result.body.length,
+        preview: String(result.body).slice(0, 800)
+      });
     }
     return {
       status: page.status,
