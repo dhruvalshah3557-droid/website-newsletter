@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-18T15:32:00.112Z",
+  "lastFetchAt": "2026-09-18T18:45:41.835Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -379,7 +379,8 @@
       "category": "Auction",
       "sources": [
         "Google News",
-        "Haute Living"
+        "Haute Living",
+        "hauteliving.com"
       ],
       "relevanceScore": 9,
       "uploadedAt": "2026-09-17T19:30:38.193Z"
@@ -2979,6 +2980,22 @@
       "uploadedAt": "2026-09-18T13:46:00.249Z"
     },
     {
+      "id": "1789757140753-cv2mlo2w",
+      "title": "Princess Diana's famous 'revenge dress' goes on show ahead of Sotheby's auction - DARPAN Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVdQZGEyOWFfbktLRUg0X1A4cXVwQUZMOEpzMFp0R1d6N1FFYXdWTHZPdjRUYzk3LUpMSV81bE42U1NXZmZfYVAydHJyR2tQY2ltaTNHd1YzYnlvMXc1QmhXMVBwMTU0bVgzbWMxeG0taDdCZ0p5NWtXTEhsbmU0Q18wbjBYX2cwYUE4LVBzWWJPaUZKYW9QWWFFT0xLT1hMQ3NzdmZ3Si1PY0JLNllCdHhobk5qLUJ1Zk5CenVNR0k?oc=5",
+      "source": "Google News",
+      "sourceName": "DARPAN Magazine",
+      "publishedAt": "2026-09-18T17:39:52.000Z",
+      "description": "",
+      "image": null,
+      "category": "Auction",
+      "sources": [
+        "DARPAN Magazine"
+      ],
+      "relevanceScore": 6,
+      "uploadedAt": null
+    },
+    {
       "id": "1789738256075-r6tdy5li",
       "title": "How to Choose the Perfect Gold Jewellery for Every Occasion",
       "link": "https://medium.com/@vignesh.godlandit/how-to-choose-the-perfect-gold-jewellery-for-every-occasion-dc8a6f7d442e?source=rss------diamonds-5",
@@ -3039,7 +3056,8 @@
       "category": "Jewelry",
       "sources": [
         "Google News",
-        "WatchPro USA"
+        "WatchPro USA",
+        "usa.watchpro.com"
       ],
       "relevanceScore": 6,
       "uploadedAt": "2026-09-18T13:31:01.818Z"
@@ -3101,22 +3119,6 @@
       "sourceName": "Google News",
       "publishedAt": "2026-09-17T05:04:29.000Z",
       "description": "De Beers London Plays on Diamond Cabochons for First High Jewelry on Home Turf WWD",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6,
-      "uploadedAt": "2026-09-17T15:57:00.561Z"
-    },
-    {
-      "id": "1789660616047-t1wt6ymv",
-      "title": "De Beers London Plays on Diamond Cabochons for First High Jewelry on Home Turf - Yahoo Lifestyle Singapore",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZlJZems4eWlfLWFFT2NZYWQ4T2NoYmV4ay1tV1VldUs3dll0NkJfUWF2Um9NUjFDTV9DWGdjWFpNUUh0a1B1ZXFnRTFKeGZPY0ZpZU5JUlZZSlFRRWxlMFBJaTQyUUdHa0p1bGdmdFY4UDVzellhMUNZc3l5bG81dTJrdng?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-09-17T05:00:00.000Z",
-      "description": "De Beers London Plays on Diamond Cabochons for First High Jewelry on Home Turf Yahoo Lifestyle Singapore",
       "image": null,
       "category": "Jewelry",
       "sources": [
