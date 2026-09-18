@@ -243,6 +243,163 @@ class AdminUploader {
     this.persistUploaded();
     return { uploaded, skipped, errors };
   }
+
+  authHeaders() {
+    return {
+      'User-Agent':
+        'Mozilla/5.0 (compatible; ColourDiamNewsBot/1.0; +https://www.colourdiam.com)',
+      'X-Requested-With': 'XMLHttpRequest',
+      ...(this.cookie ? { Cookie: this.cookie } : {})
+    };
+  }
+
+  async request(method, url, payload) {
+    const res = await this.withTimeout(async (signal) => {
+      const options = {
+        method,
+        headers: this.authHeaders(),
+        signal,
+        redirect: 'manual'
+      };
+      if (payload) {
+        options.headers['Content-Type'] = 'application/x-www-form-urlencoded';
+        options.body = new URLSearchParams(payload).toString();
+      }
+      return fetch(url, options);
+    });
+    const text = await res.text();
+    return { status: res.status, body: text, location: res.headers.get('location') || '' };
+  }
+
+  async getNews(uniquId) {
+    const url = uniquId
+      ? `${BASE_URL}/Home/GetNews?UniquId=${encodeURIComponent(uniquId)}`
+      : `${BASE_URL}/Home/GetNews`;
+    const result = await this.request('GET', url);
+    try {
+      return JSON.parse(result.body);
+    } catch (err) {
+      return null;
+    }
+  }
+
+  isEmptyNews(item) {
+    if (!item || !item.UniquId) {
+      return false;
+    }
+    const subject = String(item.Subject || '').trim();
+    const body = String(item.DescpBody || item.DescpBodySave || '')
+      .replace(/<[^>]*>/g, ' ')
+      .replace(/&nbsp;/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    return !subject && !body;
+  }
+
+  async inspectNewsAdmin() {
+    const page = await this.request('GET', `${BASE_URL}/Admin/News`);
+    return {
+      status: page.status,
+      location: page.location,
+      length: page.body.length,
+      snippet: page.body.slice(0, 4000)
+    };
+  }
+
+  async deleteNews(uniquId) {
+    const endpoint = process.env.DELETE_ENDPOINT || '/Admin/DeleteNews';
+    const payloads = [
+      { UniquId: uniquId },
+      { ProdId: uniquId },
+      { DelId: uniquId },
+      { UniquId: uniquId, ProdId: uniquId, DelId: uniquId }
+    ];
+    for (const payload of payloads) {
+      const result = await this.request('POST', `${BASE_URL}${endpoint}`, payload);
+      const text = String(result.body || '').trim();
+      let parsed = text;
+      try {
+        parsed = JSON.parse(text);
+      } catch (err) {
+        parsed = text;
+      }
+      const ok =
+        result.status >= 200 &&
+        result.status < 300 &&
+        parsed !== false &&
+        parsed !== 'false' &&
+        !/error|fail|invalid|permission/i.test(String(text).slice(0, 200));
+      if (ok) {
+        return { ok: true, status: result.status, body: text.slice(0, 200), payload };
+      }
+      if (result.status !== 411 && result.status !== 400) {
+        return { ok: false, status: result.status, body: text.slice(0, 200), payload };
+      }
+    }
+    return { ok: false, status: 0, body: 'all delete payloads failed', payload: null };
+  }
+
+  async deleteEmptyNews({ minId = 1, maxId = 0, dryRun = false } = {}) {
+    const latest = await this.getNews();
+    const latestId = Number(latest && latest.UniquId) || 0;
+    const end = maxId > 0 ? maxId : latestId;
+    const start = Math.max(1, Number(minId) || 1);
+    console.log(`[cleanup] Scanning news ids ${start}..${end} (latest=${latestId})`);
+
+    const empty = [];
+    const kept = [];
+    const missing = [];
+
+    for (let id = start; id <= end; id += 1) {
+      const item = await this.getNews(id);
+      const got = Number(item && item.UniquId) || 0;
+      if (!got) {
+        missing.push(id);
+        continue;
+      }
+      if (this.isEmptyNews(item)) {
+        empty.push(got);
+      } else {
+        kept.push(got);
+      }
+    }
+
+    console.log(
+      `[cleanup] Found empty=${empty.length} filled=${kept.length} missing=${missing.length}`
+    );
+
+    const deleted = [];
+    const errors = [];
+    if (dryRun) {
+      console.log(`[cleanup][dry-run] Would delete: ${empty.join(', ')}`);
+      return { empty, kept: kept.length, missing: missing.length, deleted, errors, dryRun: true };
+    }
+
+    for (const id of empty) {
+      try {
+        const result = await this.deleteNews(id);
+        if (result.ok) {
+          const check = await this.getNews(id);
+          const stillThere = Number(check && check.UniquId) === id && this.isEmptyNews(check);
+          if (stillThere) {
+            errors.push({ id, error: 'delete reported ok but record still empty' });
+            console.error(`[cleanup] Still present after delete: ${id}`);
+          } else {
+            deleted.push(id);
+            console.log(`[cleanup] Deleted empty newsletter ${id}`);
+          }
+        } else {
+          errors.push({ id, status: result.status, body: result.body });
+          console.error(`[cleanup] Delete failed ${id}: HTTP ${result.status} ${result.body}`);
+        }
+      } catch (err) {
+        errors.push({ id, error: err.message });
+        console.error(`[cleanup] Delete error ${id}: ${err.message}`);
+      }
+    }
+
+    return { empty, kept: kept.length, missing: missing.length, deleted, errors, dryRun: false };
+  }
 }
 
 module.exports = { AdminUploader };

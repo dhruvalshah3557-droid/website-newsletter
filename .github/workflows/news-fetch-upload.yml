@@ -38,6 +38,17 @@ jobs:
           MAX_ARTICLES: ${{ vars.MAX_ARTICLES || '200' }}
           GIT_AUTOPUSH: 'false'
 
+      - name: Delete empty newsletters
+        run: npm run cleanup-empty
+        working-directory: colourdiam-news-service
+        env:
+          ADMIN_BASE_URL: ${{ secrets.ADMIN_BASE_URL }}
+          ADMIN_USERNAME: ${{ secrets.ADMIN_USERNAME }}
+          ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
+          DELETE_ENDPOINT: ${{ secrets.DELETE_ENDPOINT || '/Admin/DeleteNews' }}
+          CLEANUP_MIN_ID: ${{ vars.CLEANUP_MIN_ID || '1200' }}
+          CLEANUP_DRY_RUN: 'false'
+
       - name: Upload news to admin
         run: node src/upload-run.js
         working-directory: colourdiam-news-service
