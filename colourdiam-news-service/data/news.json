@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-18T13:58:54.324Z",
+  "lastFetchAt": "2026-09-18T14:04:18.288Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -522,7 +522,8 @@
       "category": "Jewelry",
       "sources": [
         "Google News",
-        "idexonline.com"
+        "idexonline.com",
+        "IDEX Online"
       ],
       "relevanceScore": 9,
       "uploadedAt": "2026-09-17T22:33:24.686Z"
@@ -1178,7 +1179,8 @@
       "category": "Auction",
       "sources": [
         "Google News",
-        "Christie's Press"
+        "Christie's Press",
+        "press.christies.com"
       ],
       "relevanceScore": 9
     },
@@ -1443,7 +1445,8 @@
       "category": "Auction",
       "sources": [
         "Google News",
-        "idexonline.com"
+        "idexonline.com",
+        "IDEX Online"
       ],
       "relevanceScore": 9
     },
