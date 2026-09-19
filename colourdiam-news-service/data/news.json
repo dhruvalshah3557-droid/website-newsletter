@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-18T22:06:49.705Z",
+  "lastFetchAt": "2026-09-19T02:27:30.967Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -591,7 +591,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "jckonline.com"
       ],
       "relevanceScore": 9,
       "uploadedAt": "2026-09-18T02:28:05.071Z"
@@ -1136,7 +1137,8 @@
       "image": null,
       "category": "Met Gala",
       "sources": [
-        "Google News"
+        "Google News",
+        "Cultura Colectiva"
       ],
       "relevanceScore": 9
     },
@@ -1371,7 +1373,8 @@
       "image": null,
       "category": "Jewelry",
       "sources": [
-        "Google News"
+        "Google News",
+        "Only Natural Diamonds"
       ],
       "relevanceScore": 9
     },
@@ -1764,7 +1767,8 @@
       "image": null,
       "category": "Loose Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "CBS News"
       ],
       "relevanceScore": 9
     },
@@ -2210,7 +2214,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "IDEX Online"
       ],
       "relevanceScore": 9
     },
