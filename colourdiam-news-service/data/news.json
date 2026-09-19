@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-19T08:25:00.399Z",
+  "lastFetchAt": "2026-09-19T15:06:33.754Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -1768,7 +1768,8 @@
       "category": "Loose Diamonds",
       "sources": [
         "Google News",
-        "CBS News"
+        "CBS News",
+        "cbsnews.com"
       ],
       "relevanceScore": 9
     },
@@ -1784,7 +1785,8 @@
       "category": "Loose Diamonds",
       "sources": [
         "Google News",
-        "CBS News"
+        "CBS News",
+        "cbsnews.com"
       ],
       "relevanceScore": 9
     },
