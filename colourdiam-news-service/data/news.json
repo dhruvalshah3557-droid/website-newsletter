@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-19T02:27:30.967Z",
+  "lastFetchAt": "2026-09-19T08:25:00.399Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -2152,7 +2152,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "nationaljeweler.com"
       ],
       "relevanceScore": 9
     },
