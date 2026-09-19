@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-19T18:18:59.204Z",
+  "lastFetchAt": "2026-09-19T21:58:28.108Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -1155,7 +1155,8 @@
       "category": "Met Gala",
       "sources": [
         "Google News",
-        "Cultura Colectiva"
+        "Cultura Colectiva",
+        "culturacolectiva.com"
       ],
       "relevanceScore": 9
     },
@@ -3124,20 +3125,20 @@
       "uploadedAt": "2026-09-18T02:28:05.071Z"
     },
     {
-      "id": "1789660615722-1ho8kvsy",
-      "title": "How to Choose Dallas Lab-Grown Diamonds for Your Engagement Ring",
-      "link": "https://medium.com/@jewelerseaton/how-to-choose-dallas-lab-grown-diamonds-for-your-engagement-ring-be4385843f3c?source=rss------diamonds-5",
-      "source": "Medium Diamonds",
-      "sourceName": "Medium Diamonds",
-      "publishedAt": "2026-09-17T12:25:27.000Z",
-      "description": "Choosing an engagement ring demands selecting a diamond that complements the overall design of your engagement ring and effectively… Continue reading on Medium »",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*384lqUDAy6CLid_QxmvS1Q.jpeg",
+      "id": "1789855106845-xmodf9bu",
+      "title": "De Beers London Plays on Diamond Cabochons for First High Jewelry on Home Turf - WWD",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWC1IMktuV3gza0tGSm50SzNTUUY5UGtUUlNOWVVjODktbFF1OVR6cEhDOF9NVTNlM1VUSEpjb3N4eS11R0o2b3hlbmJCcXE4a0VnN1IwMjhza016REczczVOajQzWnJRVXgwT0ItaWloUzV6cmNhT2lBUEFZanRKcFFicXdtWEpkSVAwdzNmaHdCQ3JaWFNLMnZfeUMycmtkb29BYzUyM0F0U3BEeUE?oc=5",
+      "source": "Google News",
+      "sourceName": "WWD",
+      "publishedAt": "2026-09-17T17:58:43.000Z",
+      "description": "",
+      "image": null,
       "category": "Jewelry",
       "sources": [
-        "Medium Diamonds"
+        "WWD"
       ],
       "relevanceScore": 6,
-      "uploadedAt": "2026-09-17T15:57:00.561Z"
+      "uploadedAt": null
     }
   ]
 }
