@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-19T21:58:28.108Z",
+  "lastFetchAt": "2026-09-20T02:38:49.268Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -1851,7 +1851,8 @@
       "category": "Colored Diamonds",
       "sources": [
         "Google News",
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "finance.yahoo.com"
       ],
       "relevanceScore": 9
     },
@@ -2141,7 +2142,8 @@
       "category": "Auction",
       "sources": [
         "Google News",
-        "Centurion Jewelry Show"
+        "Centurion Jewelry Show",
+        "news.centurionjewelry.com"
       ],
       "relevanceScore": 9
     },
