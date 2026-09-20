@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-20T15:10:02.905Z",
+  "lastFetchAt": "2026-09-20T18:24:11.249Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -1489,7 +1489,8 @@
       "category": "Colored Diamonds",
       "sources": [
         "Google News",
-        "PR Newswire"
+        "PR Newswire",
+        "prnewswire.com"
       ],
       "relevanceScore": 9
     },
@@ -1676,7 +1677,8 @@
       "category": "Auction",
       "sources": [
         "Google News",
-        "Yahoo Lifestyle Canada"
+        "Yahoo Lifestyle Canada",
+        "ca.style.yahoo.com"
       ],
       "relevanceScore": 9
     },
@@ -3036,7 +3038,8 @@
       "image": null,
       "category": "Jewelry",
       "sources": [
-        "The Jewelry Wire"
+        "The Jewelry Wire",
+        "thejewelrywire.substack.com"
       ],
       "relevanceScore": 6,
       "uploadedAt": null
