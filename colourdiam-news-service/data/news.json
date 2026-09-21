@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-21T09:27:39.081Z",
+  "lastFetchAt": "2026-09-21T17:32:04.865Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -187,7 +187,8 @@
       "category": "Auction",
       "sources": [
         "Google News",
-        "Robb Report"
+        "Robb Report",
+        "robbreport.com"
       ],
       "relevanceScore": 12
     },
@@ -203,7 +204,8 @@
       "category": "Colored Diamonds",
       "sources": [
         "Google News",
-        "Robb Report"
+        "Robb Report",
+        "robbreport.com"
       ],
       "relevanceScore": 12
     },
@@ -769,7 +771,8 @@
       "image": null,
       "category": "Jewelry",
       "sources": [
-        "Yahoo News Canada"
+        "Yahoo News Canada",
+        "ca.news.yahoo.com"
       ],
       "relevanceScore": 9,
       "uploadedAt": null
@@ -1110,7 +1113,8 @@
       "image": null,
       "category": "Colored Diamonds",
       "sources": [
-        "Google News"
+        "Google News",
+        "christies.com"
       ],
       "relevanceScore": 9
     },
@@ -1235,7 +1239,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "christies.com"
       ],
       "relevanceScore": 9
     },
@@ -1855,7 +1860,8 @@
       "category": "Colored Diamonds",
       "sources": [
         "Google News",
-        "Robb Report"
+        "Robb Report",
+        "robbreport.com"
       ],
       "relevanceScore": 9
     },
@@ -2211,7 +2217,8 @@
       "category": "Auction",
       "sources": [
         "Google News",
-        "Robb Report"
+        "Robb Report",
+        "robbreport.com"
       ],
       "relevanceScore": 9
     },
@@ -3031,6 +3038,22 @@
       "uploadedAt": "2026-09-18T13:46:00.249Z"
     },
     {
+      "id": "1790011924086-lqw40z8q",
+      "title": "LIMIRA Introduces Digital-First Lab-Grown Diamond Jewellery Brand in India - Indian Retailer",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVFpGenF6Y3hqVms4MC1YM05WVkhoUWxnRnppc0dSVFJqVDJrakVPblhicEx1LXJYSTk1Smpmb01VX1ZPTUlNeDdNM1l6amVyeV8yQTFWNFpLOTJXOGpFS2w4SHVvT19TVEVSXzVrZFFGY1ZNaDBtSWxIckwzcWw2WDhmd1czU0trVnVpNDlyV0pOY05tQUp2UmNVeXktNFRsbmJsQ1BtdHRxNzA?oc=5",
+      "source": "Google News",
+      "sourceName": "Indian Retailer",
+      "publishedAt": "2026-09-21T11:46:21.000Z",
+      "description": "",
+      "image": null,
+      "category": "Loose Diamonds",
+      "sources": [
+        "Indian Retailer"
+      ],
+      "relevanceScore": 6,
+      "uploadedAt": null
+    },
+    {
       "id": "1789982858816-twzf5249",
       "title": "Accelerating Scarcity: Why Natural Diamonds Are Entering a New Era of Geological Rarity - CNBC Africa",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcURNazVOM0JiYXlQdWtBTmpsbVFXWG5mcERqcjQ1VHZVeWE5a0ttQmJ0Qlh5ZU5ZLUVLOXRqb1l0bjRtYUdON2RfYXZReEYxVUtoM1ZWVmxuN0YxMEpIdnpDRDZHeWJTZ3ZaTC1NbFpmNHhwaEJGbERBeG9hTG04TWZhZm1TV2duRHdIUllqaHR5OGpzVHd1VllKTXh2aG1sb0x0T1lka0p6MmM1SUJnYnZEQnhwNjR1Y1E?oc=5",
@@ -3095,6 +3118,22 @@
       "uploadedAt": null
     },
     {
+      "id": "1790011924079-24yjgwrw",
+      "title": "LIMIRA Debuts Three Lab-Grown Diamond Jewellery Collections - SMEStreet",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUt1c2xGTEwxYlppNGxyRXM4TmtPbVJUOW1MMUZNa0NCejNwa01UM1MtLWFoeTZTR2RqZU5NUmwyOUVCWWVwN1QzUFpabzBLSm1nTXlsRWhyY3NEVjJYSUx3OWM4VEtQZmhuOHgtNlk4V3l1OElpNVZMdWxLQjNJaktHNlpLQkU4WS03NlgzeXE5Sy1Vd2VESnI4TV9yUdIBngFBVV95cUxPLUt1c2xGTEwxYlppNGxyRXM4TmtPbVJUOW1MMUZNa0NCejNwa01UM1MtLWFoeTZTR2RqZU5NUmwyOUVCWWVwN1QzUFpabzBLSm1nTXlsRWhyY3NEVjJYSUx3OWM4VEtQZmhuOHgtNlk4V3l1OElpNVZMdWxLQjNJaktHNlpLQkU4WS03NlgzeXE5Sy1Vd2VESnI4TV9yUQ?oc=5",
+      "source": "Google News",
+      "sourceName": "SMEStreet",
+      "publishedAt": "2026-09-21T04:59:37.000Z",
+      "description": "",
+      "image": null,
+      "category": "Loose Diamonds",
+      "sources": [
+        "SMEStreet"
+      ],
+      "relevanceScore": 6,
+      "uploadedAt": null
+    },
+    {
       "id": "1789917001840-n8wxd6fm",
       "title": "Want to glam up your festive looks? 4 diamond jewellery trends that work for celebrations and everyday wear | Fashion Trends - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcXQ1NEMwMExIUWRGeVltTTRxMU8teVRvQTJxcWo3SWptZkxBSXVXaUYyU3k2WjRXSVE1X2w2eWFtMnkyU3BuendrX0RjOEtyanB1TE5zdmhQcHZqRXhzdnJBWWJlck1aSGJrY1NMUUVLV3YxbkFCVHViejNOTDVtWHNoSmtPRTFEb2VhaHVHQXpnU2xuZjhCY09oQmxyRHZKUXpEbjk0UUlfSWVHVU1zS2lvMWJGRnBFd3ZqbnEtWHBzODVHTTYxSE52WVVqR3UwWGxCSm9ld014Vm5zQkpCWmxVSXpvTWxnLUpPQ1pPSGdNazFXSXppWWlES1c4MVRKcVJfU2JBMNIBjAJBVV95cUxQWW55Y1pTOUZIN2JFVGFjN3FNMlNRb1BlZVBndTY0SnJBaVQ5bGxOSTF0dVo4RG5BMjdjMjc1Tzg2ajBOUWx0c2FHaDMwMnBjOWdTc2RQUDZuLVNOUDlzRWFqdmNtcDBrR1k1RzJ5R1I1OE5UNlZpU2FaSEM0dmRtdGRIX1B2cVJIY3Y4cG8wbWE4ZF96ZHBaYUg5M2RxWDFXZDR6Y0lYYmZ5X1VsZW5CajYyVUJ4SURyNXhTYl80YTRnaXpkXzhaLTgtam4tSzFtWlZlX1Y1MWRmWnlTLWpDN3dBSHl1N1V6RjJwZ1BRMzRWc2hpb2N6bDVxU3BzNFhINFJfcU9iMV9STGlB?oc=5",
@@ -3106,39 +3145,6 @@
       "category": "Jewelry",
       "sources": [
         "Hindustan Times"
-      ],
-      "relevanceScore": 6,
-      "uploadedAt": null
-    },
-    {
-      "id": "1789982858640-6iezvuc1",
-      "title": "Koura Fine Diamond Jewelry shareholders approve ₹2.22 crore warrant issue - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcEhVZG03UlZ0Wm1qRjhzUlVaNGE2akM4dWQyNldQMzBNVjhNMzFHQ2xEaFRzWTdrX3NfM3Jma1Z0QlNhRUF4SXJzS01jOUhPUTg3THhyRHJjYmxLVWFXTmp6ZmhEdkVYS1M1S0dLVkhIaTlmbE4zZEFsTU45b2k5M09Kdk5XemxCTzJ3UUR0aGFRUTdBand2c3hSRUdQMFNxNUFmZGJpQVN5V3ZjUVV0TDJmR0xBcFR2dkN4Tw?oc=5",
-      "source": "Google News",
-      "sourceName": "scanx.trade",
-      "publishedAt": "2026-09-20T09:40:02.000Z",
-      "description": "",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "scanx.trade"
-      ],
-      "relevanceScore": 6,
-      "uploadedAt": null
-    },
-    {
-      "id": "1789841938604-vapb7q63",
-      "title": "The diamond industry is teaching consumers to hate it - The Jewelry Wire",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxcmdkamhObHQ5ajlNVXhwVklybVNyNEpUMDV3LXdVTzh4UWJwVUdqeFdmUlVhejNMdHlyMlFCajdSTi1sUVBQQUNrdHpXTnlybTNKSjd2Z2NNSHdZQjJfZHdYclFhSjJ2eThoMXNmQzROb2JiVEVtcS13?oc=5",
-      "source": "Google News",
-      "sourceName": "The Jewelry Wire",
-      "publishedAt": "2026-09-19T18:01:36.000Z",
-      "description": "",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "The Jewelry Wire",
-        "thejewelrywire.substack.com"
       ],
       "relevanceScore": 6,
       "uploadedAt": null
