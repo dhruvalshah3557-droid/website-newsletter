@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-20T18:24:11.249Z",
+  "lastFetchAt": "2026-09-21T09:27:39.081Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -759,6 +759,22 @@
       "uploadedAt": "2026-09-18T13:31:01.818Z"
     },
     {
+      "id": "1789982858631-4ulvn2vl",
+      "title": "Taylor Swift Dazzles in Over $50,000 Worth of Diamond Jewelry During First Post-Wedding Performance - Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zUmZFcTR5T3RBSmk1VzhiYkNIVm8tS2lBT3NxdkN1OVpFM2wzMEhEZzN5M3FfT2JoeU0zLVpJYzRDR3VwZnFvNlpMT0IyV0RWMkRDV1RzZmVKbzl6YnFqTDZoUnI1YVFMLVk1TEdmOG1Gdmd6TXJEcQ?oc=5",
+      "source": "Google News",
+      "sourceName": "Yahoo News Canada",
+      "publishedAt": "2026-08-25T07:00:00.000Z",
+      "description": "",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Yahoo News Canada"
+      ],
+      "relevanceScore": 9,
+      "uploadedAt": null
+    },
+    {
       "id": "1787306093288-8bkwj0a9",
       "title": "Elegant Floral Gold Earrings for Women — Lightweight Designs with Sparkling Stones",
       "link": "https://medium.com/@kvishstj/elegant-floral-gold-earrings-for-women-lightweight-designs-with-sparkling-stones-e165ec205997?source=rss------diamonds-5",
@@ -1361,7 +1377,8 @@
       "category": "Auction",
       "sources": [
         "Google News",
-        "MediaPost"
+        "MediaPost",
+        "mediapost.com"
       ],
       "relevanceScore": 9
     },
@@ -1599,7 +1616,8 @@
       "category": "Auction",
       "sources": [
         "Google News",
-        "Jeweller Magazine"
+        "Jeweller Magazine",
+        "jewellermagazine.com"
       ],
       "relevanceScore": 9
     },
@@ -2240,7 +2258,8 @@
       "category": "Colored Diamonds",
       "sources": [
         "Google News",
-        "IDEX Online"
+        "IDEX Online",
+        "idexonline.com"
       ],
       "relevanceScore": 9
     },
@@ -3012,6 +3031,70 @@
       "uploadedAt": "2026-09-18T13:46:00.249Z"
     },
     {
+      "id": "1789982858816-twzf5249",
+      "title": "Accelerating Scarcity: Why Natural Diamonds Are Entering a New Era of Geological Rarity - CNBC Africa",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcURNazVOM0JiYXlQdWtBTmpsbVFXWG5mcERqcjQ1VHZVeWE5a0ttQmJ0Qlh5ZU5ZLUVLOXRqb1l0bjRtYUdON2RfYXZReEYxVUtoM1ZWVmxuN0YxMEpIdnpDRDZHeWJTZ3ZaTC1NbFpmNHhwaEJGbERBeG9hTG04TWZhZm1TV2duRHdIUllqaHR5OGpzVHd1VllKTXh2aG1sb0x0T1lka0p6MmM1SUJnYnZEQnhwNjR1Y1E?oc=5",
+      "source": "Google News",
+      "sourceName": "CNBC Africa",
+      "publishedAt": "2026-09-21T08:30:27.000Z",
+      "description": "",
+      "image": null,
+      "category": "Loose Diamonds",
+      "sources": [
+        "CNBC Africa"
+      ],
+      "relevanceScore": 6,
+      "uploadedAt": null
+    },
+    {
+      "id": "1789982858992-y4dvsk0t",
+      "title": "WJI 2030 report highlights circularity potential to cut jewellery industry emissions - Retail Jeweller",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOWV4dGJfc1N3TXNlT0xKbi01ZWtwdXpXT2IyUDFSbWxuMVlmZGFBUmRvR1lDWlZnU3hkX2tHN3M5ZUpoNjBYTXNqTzI4N1VRZFg0QnVRMmxSWWxaNGdWeHk0ZG4tek4zQXpSR1pGVWU4OFdYVXYzdndfRU12TlRhNW9FVXFxZ3RzdWxMdEtLdzhFM1Ewdm45MGpKRk1zRUZfSmVUUEZUbnZ4S2lMamtXRlJxb1hlb1JUeldsUTFBcjlPbXI4V3lUZEVMNDZjWHNmVXpEc0ZlWUVYZkJ1R0E?oc=5",
+      "source": "Google News",
+      "sourceName": "Retail Jeweller",
+      "publishedAt": "2026-09-21T08:05:29.000Z",
+      "description": "",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "Retail Jeweller"
+      ],
+      "relevanceScore": 6,
+      "uploadedAt": null
+    },
+    {
+      "id": "1789982858807-j84k5n4z",
+      "title": "The diamond split: the way ahead for lab-grown and mined diamonds - The Jewellery Editor",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQalc2UV9OU1hYTGVvOGtNTEU3Q2ZYZkZ4MmwwY2kyQWM1ZG1jLTV5WkdWNWhrRzg5TmRQdVJ0Z1lXRzUzb2prVjhYczdwY3B4NmJGd0pKZFJRTTd2MDM3R01ZRGREZjdrZ095SXd4d240MUMyN1NEYy12dXl2SHg5M2hkLWRvTXZKUGFpT2U2UzBoclg1SnprcWkwUVE0enNaRTRLTmVDLTY2anRrZmR2ZE1uUDhubWoyU092QTEwQzJtZk1CckVJNEhqLUgwLXlqRzJyMjltNWFMcnY4ZjBFODVrRU93NTc3TmRPVzVsTGhsLVNJS01zelFQem5aMnc3QXdyaERVLWNxTElvRjNtLQ?oc=5",
+      "source": "Google News",
+      "sourceName": "The Jewellery Editor",
+      "publishedAt": "2026-09-21T06:19:20.000Z",
+      "description": "",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "The Jewellery Editor"
+      ],
+      "relevanceScore": 6,
+      "uploadedAt": null
+    },
+    {
+      "id": "1789982858596-k3oybg96",
+      "title": "LIMIRA Launches Gender Neutral Lab-Grown Diamond Jewellery Collection - Indian Jeweller",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcXZ4YkZaZUhuNlZVd2lOaXZsNmNJNzVjeGd4YWFXd1I1MUd0TDlyNzNZWmZwYnlCcWQ4aTZPQWNqUWZUNy1pZ2EwZmxHaGFPZkZVaEpnM2RwYWVBczA3N3RnVGc0cjhRRlZoTG1MSmxLamZ4UGs4dmtyaHA3d3Z0NzAzaDh3MWNOcHNHalhTeHQyQktfUDh1YlpORThKLVBIek00cWQ3blBvMWhKMXRjUkpGeDVlMUhRX2R3MVdGamRRaE5OVFE?oc=5",
+      "source": "Google News",
+      "sourceName": "Indian Jeweller",
+      "publishedAt": "2026-09-21T05:49:00.000Z",
+      "description": "",
+      "image": null,
+      "category": "Loose Diamonds",
+      "sources": [
+        "Indian Jeweller"
+      ],
+      "relevanceScore": 6,
+      "uploadedAt": null
+    },
+    {
       "id": "1789917001840-n8wxd6fm",
       "title": "Want to glam up your festive looks? 4 diamond jewellery trends that work for celebrations and everyday wear | Fashion Trends - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcXQ1NEMwMExIUWRGeVltTTRxMU8teVRvQTJxcWo3SWptZkxBSXVXaUYyU3k2WjRXSVE1X2w2eWFtMnkyU3BuendrX0RjOEtyanB1TE5zdmhQcHZqRXhzdnJBWWJlck1aSGJrY1NMUUVLV3YxbkFCVHViejNOTDVtWHNoSmtPRTFEb2VhaHVHQXpnU2xuZjhCY09oQmxyRHZKUXpEbjk0UUlfSWVHVU1zS2lvMWJGRnBFd3ZqbnEtWHBzODVHTTYxSE52WVVqR3UwWGxCSm9ld014Vm5zQkpCWmxVSXpvTWxnLUpPQ1pPSGdNazFXSXppWWlES1c4MVRKcVJfU2JBMNIBjAJBVV95cUxQWW55Y1pTOUZIN2JFVGFjN3FNMlNRb1BlZVBndTY0SnJBaVQ5bGxOSTF0dVo4RG5BMjdjMjc1Tzg2ajBOUWx0c2FHaDMwMnBjOWdTc2RQUDZuLVNOUDlzRWFqdmNtcDBrR1k1RzJ5R1I1OE5UNlZpU2FaSEM0dmRtdGRIX1B2cVJIY3Y4cG8wbWE4ZF96ZHBaYUg5M2RxWDFXZDR6Y0lYYmZ5X1VsZW5CajYyVUJ4SURyNXhTYl80YTRnaXpkXzhaLTgtam4tSzFtWlZlX1Y1MWRmWnlTLWpDN3dBSHl1N1V6RjJwZ1BRMzRWc2hpb2N6bDVxU3BzNFhINFJfcU9iMV9STGlB?oc=5",
@@ -3023,6 +3106,22 @@
       "category": "Jewelry",
       "sources": [
         "Hindustan Times"
+      ],
+      "relevanceScore": 6,
+      "uploadedAt": null
+    },
+    {
+      "id": "1789982858640-6iezvuc1",
+      "title": "Koura Fine Diamond Jewelry shareholders approve ₹2.22 crore warrant issue - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcEhVZG03UlZ0Wm1qRjhzUlVaNGE2akM4dWQyNldQMzBNVjhNMzFHQ2xEaFRzWTdrX3NfM3Jma1Z0QlNhRUF4SXJzS01jOUhPUTg3THhyRHJjYmxLVWFXTmp6ZmhEdkVYS1M1S0dLVkhIaTlmbE4zZEFsTU45b2k5M09Kdk5XemxCTzJ3UUR0aGFRUTdBand2c3hSRUdQMFNxNUFmZGJpQVN5V3ZjUVV0TDJmR0xBcFR2dkN4Tw?oc=5",
+      "source": "Google News",
+      "sourceName": "scanx.trade",
+      "publishedAt": "2026-09-20T09:40:02.000Z",
+      "description": "",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "scanx.trade"
       ],
       "relevanceScore": 6,
       "uploadedAt": null
@@ -3043,106 +3142,6 @@
       ],
       "relevanceScore": 6,
       "uploadedAt": null
-    },
-    {
-      "id": "1789917002387-ka4zogk3",
-      "title": "‘Pink Star’ diamond aims for world auction record - Arab News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb2tJdW9GQlRTTUUyYmlKdGdJWVBMNTYyaEItWjlKN2NrZlNaQURxc1g3R0Z1UmVBd3luanUyQjRfZ0FWRGt6MUgzUXBxMnA2eXdscy1ZNXBfZWlTMlI3RzQ4MXo1elQ1TUZaeUF1ZU1Bby02YVVJQ1JBYUNCMzM1X3M3Sk1mQzhwaXFfWmhPa00?oc=5",
-      "source": "Google News",
-      "sourceName": "Arab News",
-      "publishedAt": "2026-09-19T16:44:47.000Z",
-      "description": "",
-      "image": null,
-      "category": "Auction",
-      "sources": [
-        "Arab News"
-      ],
-      "relevanceScore": 6,
-      "uploadedAt": null
-    },
-    {
-      "id": "1789757140753-cv2mlo2w",
-      "title": "Princess Diana's famous 'revenge dress' goes on show ahead of Sotheby's auction - DARPAN Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVdQZGEyOWFfbktLRUg0X1A4cXVwQUZMOEpzMFp0R1d6N1FFYXdWTHZPdjRUYzk3LUpMSV81bE42U1NXZmZfYVAydHJyR2tQY2ltaTNHd1YzYnlvMXc1QmhXMVBwMTU0bVgzbWMxeG0taDdCZ0p5NWtXTEhsbmU0Q18wbjBYX2cwYUE4LVBzWWJPaUZKYW9QWWFFT0xLT1hMQ3NzdmZ3Si1PY0JLNllCdHhobk5qLUJ1Zk5CenVNR0k?oc=5",
-      "source": "Google News",
-      "sourceName": "DARPAN Magazine",
-      "publishedAt": "2026-09-18T17:39:52.000Z",
-      "description": "",
-      "image": null,
-      "category": "Auction",
-      "sources": [
-        "DARPAN Magazine"
-      ],
-      "relevanceScore": 6,
-      "uploadedAt": null
-    },
-    {
-      "id": "1789738256075-r6tdy5li",
-      "title": "How to Choose the Perfect Gold Jewellery for Every Occasion",
-      "link": "https://medium.com/@vignesh.godlandit/how-to-choose-the-perfect-gold-jewellery-for-every-occasion-dc8a6f7d442e?source=rss------diamonds-5",
-      "source": "Medium Diamonds",
-      "sourceName": "Medium Diamonds",
-      "publishedAt": "2026-09-18T12:34:49.000Z",
-      "description": "Jewellery is more than an accessory. The right piece can become part of your everyday style, a meaningful gift, or a memory connected to… Continue reading on Medium »",
-      "image": "https://cdn-images-1.medium.com/max/1651/1*dmEZwng07-_4Pm9olf5qFg.jpeg",
-      "category": "Jewelry",
-      "sources": [
-        "Medium Diamonds"
-      ],
-      "relevanceScore": 6,
-      "uploadedAt": "2026-09-18T13:31:01.818Z"
-    },
-    {
-      "id": "1789738256753-doemzyuz",
-      "title": "Origem introduces 110% lifetime exchange value proposition for its lab-grown diamond jewellery - The Retail Jeweller India",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSW1QM1QybDExWVRUR2ZRdUJpR3BPb28ybjF1eHNoQk96d0piY0V0Nko0Z2xTNzdQVC1VV2FaWlZrLWNzeEl2b1JYQUlfZkM1WW4zWE5fQ2ROLUJibkpZcm9QM19lMkxyd29PZlJHZEJsN1ZhWjBaRi1sREVrU1dFMkFFcVdxRlN0M3lkcWFBWGlKMnM4N3V5aVc3UTgxaTJfQlFYS0xKWGlWQnU0UmZvdjNrQnZOZ2VwaXFSSVhYRzFCT09F?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-09-18T10:31:49.000Z",
-      "description": "Origem introduces 110% lifetime exchange value proposition for its lab-grown diamond jewellery The Retail Jeweller India",
-      "image": null,
-      "category": "Loose Diamonds",
-      "sources": [
-        "Google News",
-        "The Retail Jeweller India",
-        "retailjewellerindia.com"
-      ],
-      "relevanceScore": 6,
-      "uploadedAt": "2026-09-18T13:31:01.818Z"
-    },
-    {
-      "id": "1789738256076-4vhdk6nn",
-      "title": "Lab Made Diamonds in Chandigarh: A Modern Guide to Choosing Brilliant, Responsible Jewellery",
-      "link": "https://medium.com/@ahujajewellers.silver/lab-made-diamonds-in-chandigarh-a-modern-guide-to-choosing-brilliant-responsible-jewellery-7acbe7173b54?source=rss------diamonds-5",
-      "source": "Medium Diamonds",
-      "sourceName": "Medium Diamonds",
-      "publishedAt": "2026-09-18T10:24:57.000Z",
-      "description": "What makes a diamond feel truly special today — the sparkle, the craftsmanship, the meaning behind it, or the way it fits into a modern… Continue reading on Medium »",
-      "image": "https://cdn-images-1.medium.com/max/1080/1*huqFi_WKNMANdZXM-Eplyg.jpeg",
-      "category": "Jewelry",
-      "sources": [
-        "Medium Diamonds"
-      ],
-      "relevanceScore": 6,
-      "uploadedAt": "2026-09-18T13:31:01.818Z"
-    },
-    {
-      "id": "1789738256111-ecy5io7b",
-      "title": "97,000 tonnes of gold is sitting in people’s watch and jewellery boxes - WatchPro USA",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNal9uLXpQVDlrY09EYk9lWHpLVGppN2pDNTBNN3lfbE1rVTFtUUI0V3k0WGViemppeUNvNnNBMnlVN1pRWWFlSXdoaVF2anhyQlNOdm14b19reXJ1YTU4SjFwYmRGeHZVcldsZmNzS1k2ZGJWSlh1aWNxcFBqa1ZQWC1kbjJwLXhMbld2SVd3aWdwTG9sdEgzMF9B?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-09-18T08:34:03.000Z",
-      "description": "97,000 tonnes of gold is sitting in people’s watch and jewellery boxes WatchPro USA",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News",
-        "WatchPro USA",
-        "usa.watchpro.com"
-      ],
-      "relevanceScore": 6,
-      "uploadedAt": "2026-09-18T13:31:01.818Z"
     }
   ]
 }
