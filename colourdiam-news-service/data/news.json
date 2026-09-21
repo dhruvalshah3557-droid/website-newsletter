@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-21T17:32:04.865Z",
+  "lastFetchAt": "2026-09-21T22:56:22.638Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -13,7 +13,8 @@
       "category": "Auction",
       "sources": [
         "Google News",
-        "Only Natural Diamonds"
+        "Only Natural Diamonds",
+        "naturaldiamonds.com"
       ],
       "relevanceScore": 15
     },
@@ -140,7 +141,8 @@
       "category": "Jewelry",
       "sources": [
         "Google News",
-        "Only Natural Diamonds"
+        "Only Natural Diamonds",
+        "naturaldiamonds.com"
       ],
       "relevanceScore": 12
     },
@@ -317,6 +319,22 @@
         "Medium Diamonds"
       ],
       "relevanceScore": 10
+    },
+    {
+      "id": "1790031382255-m7f8uoao",
+      "title": "Pamela Bernstein-Gulla Retiring After 40 Years in the Jewelry Industry - nationaljeweler.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTzJ4aWhmQjJzbml1bkd6N3lwdzRJM2tDS3lXRVNzZG9zdTRDUGhLc3Qzc0NvZGVPNlhiNnZONE9pNnZ5ZVVMSlJBdHRYU0FQVlRVczVhanFBdURZbFBLY014WUZZdFh5b2RUbjZpQjdpZW04Mm16ZGQ3cDZUMXkxNDhNV095UkZVay1oelFELTY2TS1rbXNIYTlKZWd3bVk1ZzZxM2Zn?oc=5",
+      "source": "Google News",
+      "sourceName": "nationaljeweler.com",
+      "publishedAt": "2026-09-21T18:56:15.000Z",
+      "description": "",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "nationaljeweler.com"
+      ],
+      "relevanceScore": 9,
+      "uploadedAt": null
     },
     {
       "id": "1789720662966-yaokffnw",
@@ -972,7 +990,8 @@
       "category": "Auction",
       "sources": [
         "Google News",
-        "Only Natural Diamonds"
+        "Only Natural Diamonds",
+        "naturaldiamonds.com"
       ],
       "relevanceScore": 9
     },
@@ -1003,7 +1022,8 @@
       "category": "Loose Diamonds",
       "sources": [
         "Google News",
-        "Only Natural Diamonds"
+        "Only Natural Diamonds",
+        "naturaldiamonds.com"
       ],
       "relevanceScore": 9
     },
@@ -1414,7 +1434,8 @@
       "category": "Jewelry",
       "sources": [
         "Google News",
-        "Only Natural Diamonds"
+        "Only Natural Diamonds",
+        "naturaldiamonds.com"
       ],
       "relevanceScore": 9
     },
@@ -1430,7 +1451,8 @@
       "category": "Auction",
       "sources": [
         "Google News",
-        "Only Natural Diamonds"
+        "Only Natural Diamonds",
+        "naturaldiamonds.com"
       ],
       "relevanceScore": 9
     },
@@ -1446,7 +1468,8 @@
       "category": "Auction",
       "sources": [
         "Google News",
-        "Only Natural Diamonds"
+        "Only Natural Diamonds",
+        "naturaldiamonds.com"
       ],
       "relevanceScore": 9
     },
@@ -1478,7 +1501,8 @@
       "category": "Colored Diamonds",
       "sources": [
         "Google News",
-        "Only Natural Diamonds"
+        "Only Natural Diamonds",
+        "naturaldiamonds.com"
       ],
       "relevanceScore": 9
     },
@@ -1653,7 +1677,8 @@
       "category": "Auction",
       "sources": [
         "Google News",
-        "Only Natural Diamonds"
+        "Only Natural Diamonds",
+        "naturaldiamonds.com"
       ],
       "relevanceScore": 9
     },
@@ -1748,7 +1773,8 @@
       "category": "Auction",
       "sources": [
         "Google News",
-        "Only Natural Diamonds"
+        "Only Natural Diamonds",
+        "naturaldiamonds.com"
       ],
       "relevanceScore": 9
     },
@@ -2092,7 +2118,8 @@
       "category": "Auction",
       "sources": [
         "Google News",
-        "Only Natural Diamonds"
+        "Only Natural Diamonds",
+        "naturaldiamonds.com"
       ],
       "relevanceScore": 9
     },
@@ -2282,7 +2309,8 @@
       "category": "Auction",
       "sources": [
         "Google News",
-        "Only Natural Diamonds"
+        "Only Natural Diamonds",
+        "naturaldiamonds.com"
       ],
       "relevanceScore": 9
     },
@@ -3080,7 +3108,8 @@
       "image": null,
       "category": "Jewelry",
       "sources": [
-        "Retail Jeweller"
+        "Retail Jeweller",
+        "Google News"
       ],
       "relevanceScore": 6,
       "uploadedAt": null
@@ -3129,22 +3158,6 @@
       "category": "Loose Diamonds",
       "sources": [
         "SMEStreet"
-      ],
-      "relevanceScore": 6,
-      "uploadedAt": null
-    },
-    {
-      "id": "1789917001840-n8wxd6fm",
-      "title": "Want to glam up your festive looks? 4 diamond jewellery trends that work for celebrations and everyday wear | Fashion Trends - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcXQ1NEMwMExIUWRGeVltTTRxMU8teVRvQTJxcWo3SWptZkxBSXVXaUYyU3k2WjRXSVE1X2w2eWFtMnkyU3BuendrX0RjOEtyanB1TE5zdmhQcHZqRXhzdnJBWWJlck1aSGJrY1NMUUVLV3YxbkFCVHViejNOTDVtWHNoSmtPRTFEb2VhaHVHQXpnU2xuZjhCY09oQmxyRHZKUXpEbjk0UUlfSWVHVU1zS2lvMWJGRnBFd3ZqbnEtWHBzODVHTTYxSE52WVVqR3UwWGxCSm9ld014Vm5zQkpCWmxVSXpvTWxnLUpPQ1pPSGdNazFXSXppWWlES1c4MVRKcVJfU2JBMNIBjAJBVV95cUxQWW55Y1pTOUZIN2JFVGFjN3FNMlNRb1BlZVBndTY0SnJBaVQ5bGxOSTF0dVo4RG5BMjdjMjc1Tzg2ajBOUWx0c2FHaDMwMnBjOWdTc2RQUDZuLVNOUDlzRWFqdmNtcDBrR1k1RzJ5R1I1OE5UNlZpU2FaSEM0dmRtdGRIX1B2cVJIY3Y4cG8wbWE4ZF96ZHBaYUg5M2RxWDFXZDR6Y0lYYmZ5X1VsZW5CajYyVUJ4SURyNXhTYl80YTRnaXpkXzhaLTgtam4tSzFtWlZlX1Y1MWRmWnlTLWpDN3dBSHl1N1V6RjJwZ1BRMzRWc2hpb2N6bDVxU3BzNFhINFJfcU9iMV9STGlB?oc=5",
-      "source": "Google News",
-      "sourceName": "Hindustan Times",
-      "publishedAt": "2026-09-20T14:50:28.000Z",
-      "description": "",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Hindustan Times"
       ],
       "relevanceScore": 6,
       "uploadedAt": null
