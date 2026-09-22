@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-22T16:00:49.812Z",
+  "lastFetchAt": "2026-09-22T22:34:46.222Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -158,7 +158,8 @@
       "category": "Colored Diamonds",
       "sources": [
         "Google News",
-        "Forbes"
+        "Forbes",
+        "forbes.com"
       ],
       "relevanceScore": 12
     },
@@ -709,7 +710,8 @@
       "image": null,
       "category": "Jewelry",
       "sources": [
-        "Google News"
+        "Google News",
+        "AOL.com"
       ],
       "relevanceScore": 9,
       "uploadedAt": "2026-09-18T08:37:51.149Z"
@@ -2508,7 +2510,8 @@
       "category": "Colored Diamonds",
       "sources": [
         "Google News",
-        "Forbes"
+        "Forbes",
+        "forbes.com"
       ],
       "relevanceScore": 9
     },
@@ -3066,6 +3069,22 @@
       "uploadedAt": "2026-09-18T13:46:00.249Z"
     },
     {
+      "id": "1790116484523-4f0mfvpi",
+      "title": "How Lukson Is Making Certified Lab Grown Diamond Jewellery More Accessible to Indian Consumers - ANI News",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcHpZU0FxVW5FazFQNjJNenpKRW1rZGxmbDNCR2ljTDF1MW8wOWVBVzJ5Y0U1c1RoeXJsbW1LdUpNSTc2bzY0U0hNR0Fib0hFZ0d4MjBid19DTXoxQnNQUS1qZXl1YzFWVFFyOC1xYXpfWmx3UVM4TnVFUDNiRVdReFMxRDZYSnNvcHkybGF0RUZXU0J3ZG43VElzM0s0alpaUlhSVWU1TEg4b1o5SjlYT3hITmxlVmV3RzdlQTFOeTUwNzFpVGkwMlZ1bm5jMXoyYW1iYVdMZnJ4bTZkeWc?oc=5",
+      "source": "Google News",
+      "sourceName": "ANI News",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "description": "",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "ANI News"
+      ],
+      "relevanceScore": 6,
+      "uploadedAt": null
+    },
+    {
       "id": "1790067315424-b4f91f09",
       "title": "Mini Diamonds launches exclusive men's lab-grown diamond jewellery collection - scanx.trade",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT045eENCZnJuOV9YWHZsMjNvTGxEY01NZEZ3bml4TUxzUFJxa2RVVm9JZ3BHX25Mdjc3UmN4dUhlWWNTZ0ZzbUQ1cHU0eGJxVTAyVW1SOFhqeGV2b01hcXl4WnR5WTFoV3pwTmRsN0NNSF9mWVVzUzJqQm5mb2hTVTEwU0VkNGJreHRDUWdmNjdobHdyV3ZZYU5iTnJWd2tfOVE5ekdHbVpRY1E0d19GYzFmc2dCSVpmMjItZ25iYko?oc=5",
@@ -3143,23 +3162,6 @@
       "category": "Jewelry",
       "sources": [
         "The Jewellery Editor"
-      ],
-      "relevanceScore": 6,
-      "uploadedAt": null
-    },
-    {
-      "id": "1789982858596-k3oybg96",
-      "title": "LIMIRA Launches Gender Neutral Lab-Grown Diamond Jewellery Collection - Indian Jeweller",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcXZ4YkZaZUhuNlZVd2lOaXZsNmNJNzVjeGd4YWFXd1I1MUd0TDlyNzNZWmZwYnlCcWQ4aTZPQWNqUWZUNy1pZ2EwZmxHaGFPZkZVaEpnM2RwYWVBczA3N3RnVGc0cjhRRlZoTG1MSmxLamZ4UGs4dmtyaHA3d3Z0NzAzaDh3MWNOcHNHalhTeHQyQktfUDh1YlpORThKLVBIek00cWQ3blBvMWhKMXRjUkpGeDVlMUhRX2R3MVdGamRRaE5OVFE?oc=5",
-      "source": "Google News",
-      "sourceName": "Indian Jeweller",
-      "publishedAt": "2026-09-21T05:49:00.000Z",
-      "description": "",
-      "image": null,
-      "category": "Loose Diamonds",
-      "sources": [
-        "Indian Jeweller",
-        "indianjeweller.in"
       ],
       "relevanceScore": 6,
       "uploadedAt": null
