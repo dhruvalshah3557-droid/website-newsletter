@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-23T19:21:27.246Z",
+  "lastFetchAt": "2026-09-23T22:35:03.865Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -2481,7 +2481,8 @@
       "category": "Colored Diamonds",
       "sources": [
         "Google News",
-        "Antique Trader"
+        "Antique Trader",
+        "antiquetrader.com"
       ],
       "relevanceScore": 9
     },
@@ -3131,7 +3132,8 @@
       "image": null,
       "category": "Loose Diamonds",
       "sources": [
-        "Jeweller Magazine"
+        "Jeweller Magazine",
+        "jewellermagazine.com"
       ],
       "relevanceScore": 6,
       "uploadedAt": null
