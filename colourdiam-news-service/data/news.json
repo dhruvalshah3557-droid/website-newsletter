@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-22T22:34:46.222Z",
+  "lastFetchAt": "2026-09-23T02:37:48.294Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -93,7 +93,8 @@
       "image": null,
       "category": "Jewelry",
       "sources": [
-        "Google News"
+        "Google News",
+        "Rapaport"
       ],
       "relevanceScore": 12,
       "uploadedAt": "2026-09-18T02:28:05.071Z"
