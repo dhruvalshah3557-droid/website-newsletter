@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-24T16:13:09.365Z",
+  "lastFetchAt": "2026-09-24T22:52:19.410Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -321,6 +321,22 @@
         "Medium Diamonds"
       ],
       "relevanceScore": 10
+    },
+    {
+      "id": "1790290338667-rr87wvgw",
+      "title": "8-Carat Blue Diamond Heads to UK Jewelry Auction - nationaljeweler.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWFTeWt5NU5hYXYza2g2Q2tjSFpVcDQwSjlEVzZzVGRGUDlkZGtZWUNZVHNfZHVWM21sS0JhdUdtNHQ2UnF3Uld4RzZOWXBzNldvUUtBeFAwOGZXMDRhQXFfbHZSNVhzMHViN21LUjA3eXUxVS1adGdoeGxkeFhLOGwxMWR3NC1NSG4yYlBXam93YXp1R2c?oc=5",
+      "source": "Google News",
+      "sourceName": "nationaljeweler.com",
+      "publishedAt": "2026-09-24T18:56:15.000Z",
+      "description": "",
+      "image": null,
+      "category": "Auction",
+      "sources": [
+        "nationaljeweler.com"
+      ],
+      "relevanceScore": 9,
+      "uploadedAt": null
     },
     {
       "id": "1790031382255-m7f8uoao",
@@ -3089,6 +3105,22 @@
       "uploadedAt": null
     },
     {
+      "id": "1790290339211-cfxhcpbg",
+      "title": "{Funding Alert] Lab-Grown Diamond Jewellery Brand ONYA Secures Rs 12.5 Cr Funding - indianretailer.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ1NldTVnbkdMb0NOQjEyTndGeUZoeE1GaURpWlBidHU3eUItSXdFQVBJMERjel95R2lURkxoWDNrWlBrVDdxUVh5N0xOTXNKY0pIck0tcWk5LU1jRW9TcDlVTVpSTVV6QmN0V21KWElnR3lheE93bTdHbk42Ymd1cFBUbzJMRGpSdlJ5NURxOHk0Nml6RW1CTkFkVlFKNS1OWjRVWjBBeDk3Z1d4R2t4ZTRIWFE?oc=5",
+      "source": "Google News",
+      "sourceName": "indianretailer.com",
+      "publishedAt": "2026-09-24T12:00:32.000Z",
+      "description": "",
+      "image": null,
+      "category": "Loose Diamonds",
+      "sources": [
+        "indianretailer.com"
+      ],
+      "relevanceScore": 6,
+      "uploadedAt": null
+    },
+    {
       "id": "1790266388710-j1m5m0kn",
       "title": "Lab-grown diamond jewellery start-up Onya raises Rs 12.5 cr, aims to grow retail presence - The Retail Jeweller India",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMDg4VkNOMjBWS0pWYkJQLWF5eHlELS1scmlLb1ZxM1NKNTJPcmMzX0YyOWt2TmQ4MjlHcWZrOUxfbEdxWVp1U25nQWlRRkExVE4xdFd5YU15RVVXdjc0ZkYtV3dUZTNOLWRnZTY3Nm1Oam1uZlNKcldlYWJTdXhCQkZtZnpqVXpON1FCM1lhMm9PXzVKYXRHWHRHeWVMLVk5Qmd2czJza3BHaExieVZ5TWJmbEF3QW5ScU1IejVn?oc=5",
@@ -3132,38 +3164,6 @@
       "category": "Jewelry",
       "sources": [
         "BusinessToday Malaysia"
-      ],
-      "relevanceScore": 6,
-      "uploadedAt": null
-    },
-    {
-      "id": "1790216827562-69s7hd98",
-      "title": "De Beers Group Showcases Desert diamonds at Jewellery & Gem WORLD Hong Kong - 巴士的報",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTNnX1dTY3A1ZUd5SmpTNVQ2Y1AtOGEtZENDaUF2M01talNKRFA5d3ZOVW56R0hFVEFxZGVveXRpc0NPbW8xVVFuN0pLSExLZHMzS2F4WklwN0V4cUVsam9UOGQ5V2doTEVtTmw3ZXdXbnBuS1ZFd2o0OXd0ZWd5U3g1bnY3ZTdXaFQ2MGh3YlhPUFZkRFh3a3VHdnJNa1FDS0xYb0RVc0wtblk5MTFVeUlka1JaWWpVVy1aWWdjcmZOSzA?oc=5",
-      "source": "Google News",
-      "sourceName": "Google News",
-      "publishedAt": "2026-09-24T02:00:00.000Z",
-      "description": "",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "Google News"
-      ],
-      "relevanceScore": 6,
-      "uploadedAt": null
-    },
-    {
-      "id": "1790266389099-4ekvwvor",
-      "title": "De Beers Group Showcases Desert diamonds at Jewellery & Gem WORLD Hong Kong - pan african visions",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMnFpbTA0YTUzZmt0Mi1ERi1SNkl4d1MxcWhhV29XU0RmTWhMVllhZDFIbVVmVGdDS2VuMFJrSXg2S1NteFFZZXJrNVBOb21JR2JYMkpJd2tzWVhycWpPeXNRbmJOR2tHTGV3T3cyRXpzTHBDMzA2cFZOSGp0Yl9RakNIczVVNHkxWnNDNHluX0FvMWhPVV9XZ2Y5TDVlR1luOTNmNnoxdjUtaERXMHpmWXFB?oc=5",
-      "source": "Google News",
-      "sourceName": "pan african visions",
-      "publishedAt": "2026-09-24T02:00:00.000Z",
-      "description": "",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "pan african visions"
       ],
       "relevanceScore": 6,
       "uploadedAt": null
