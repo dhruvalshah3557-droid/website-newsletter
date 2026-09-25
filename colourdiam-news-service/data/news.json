@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-25T09:14:06.935Z",
+  "lastFetchAt": "2026-09-25T16:13:33.462Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -3089,6 +3089,22 @@
       "uploadedAt": "2026-09-18T13:46:00.249Z"
     },
     {
+      "id": "1790352812599-aexf5lhu",
+      "title": "SENNES Showcases Lab-Grown Diamond Jewellery at Milan Fashion Week - Indian Jeweller",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYkVxZ1hObVFfWVFMUGxERjd3MkVCSXRIUWlaanFxTDZaWFp5Q09GWW42VFRkWF81SEtKNVc1bTFtekxfVjdlMy1YdjBtLTk4QUwwdUhCaFJ4NUZoR1VEdUZDcG9lWFhLalZSQ0g2ak1uemhnLVVoeTVGLVJlbG1YQ0xTZ09LTU5BQ2czeVNSdnhKZm1HT01MeklTSlExbnNPVXR6NUpLQjhyd0ZQaV9VTzZaSzRqZmhLSWRjSUdEUS13QQ?oc=5",
+      "source": "Google News",
+      "sourceName": "Indian Jeweller",
+      "publishedAt": "2026-09-25T14:20:00.000Z",
+      "description": "",
+      "image": null,
+      "category": "Loose Diamonds",
+      "sources": [
+        "Indian Jeweller"
+      ],
+      "relevanceScore": 6,
+      "uploadedAt": null
+    },
+    {
       "id": "1790327646641-ua8oosts",
       "title": "Divine Solitaires Wins Best Diamond Jewellery Brand Award - indianjeweller.in",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDl5R3NZWmd6WmdDX3Z5blA5Q1FuUEJhUDR3QVZ6S1YzcS1LYldMd2xhbDFiWEdaY3hrLXhLYjUzdnBEcEN3RmRydW1GRlE0OGNyTUktTDR2cVhiYU1NdXRIT3VremdIZGlxaDJjcnYzQUdRU3pjVDdRamxHbHl5aGRqUFFVLXJ4TTdTRFpyYUJqVDR3ZXBUcHIzQl93UUJyOFVmb0JGc0c2RzcteHpLTV9Hdk1Mdw?oc=5",
@@ -3099,7 +3115,8 @@
       "image": null,
       "category": "Jewelry",
       "sources": [
-        "indianjeweller.in"
+        "indianjeweller.in",
+        "Indian Jeweller"
       ],
       "relevanceScore": 6,
       "uploadedAt": null
@@ -3150,22 +3167,6 @@
       "sources": [
         "The Retail Jeweller India",
         "retailjewellerindia.com"
-      ],
-      "relevanceScore": 6,
-      "uploadedAt": null
-    },
-    {
-      "id": "1790266388551-gtwkaq9e",
-      "title": "Sotheby’s Fine Jewelry Auction Garners $7.5M - Rapaport",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pSXV6bk10am9HbmdPYmxUSlRRWnhyanhhblhhSHMySXRSbm02WDBmQ1FtaGhkM3hkMVp1UmlCOUkyMFloZjVwRndVU0sxLS01Q3R5c2lvZWpfNUN1d1Fxdnh2UTZQMF9nTFRFMTM0MHVSZVVFdEE5Nw?oc=5",
-      "source": "Google News",
-      "sourceName": "Rapaport",
-      "publishedAt": "2026-09-24T09:29:03.000Z",
-      "description": "",
-      "image": null,
-      "category": "Auction",
-      "sources": [
-        "Rapaport"
       ],
       "relevanceScore": 6,
       "uploadedAt": null
