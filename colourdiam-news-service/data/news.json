@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-25T02:44:01.301Z",
+  "lastFetchAt": "2026-09-25T09:14:06.935Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -3089,6 +3089,22 @@
       "uploadedAt": "2026-09-18T13:46:00.249Z"
     },
     {
+      "id": "1790327646641-ua8oosts",
+      "title": "Divine Solitaires Wins Best Diamond Jewellery Brand Award - indianjeweller.in",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDl5R3NZWmd6WmdDX3Z5blA5Q1FuUEJhUDR3QVZ6S1YzcS1LYldMd2xhbDFiWEdaY3hrLXhLYjUzdnBEcEN3RmRydW1GRlE0OGNyTUktTDR2cVhiYU1NdXRIT3VremdIZGlxaDJjcnYzQUdRU3pjVDdRamxHbHl5aGRqUFFVLXJ4TTdTRFpyYUJqVDR3ZXBUcHIzQl93UUJyOFVmb0JGc0c2RzcteHpLTV9Hdk1Mdw?oc=5",
+      "source": "Google News",
+      "sourceName": "indianjeweller.in",
+      "publishedAt": "2026-09-25T07:43:00.000Z",
+      "description": "",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "indianjeweller.in"
+      ],
+      "relevanceScore": 6,
+      "uploadedAt": null
+    },
+    {
       "id": "1790266388696-jr6pvxjz",
       "title": "Kira Jewels Opens B2B E-Commerce Portal for Lab-Grown Diamond Jewelry - nationaljeweler.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGZQZjR0b1N4RDZFSmoxQ3l3RzhzUmljcDg2R3c0cGUzWVFTTlFTVTlOcTJnYW11bXZyLW5RN2dmaXRvNS1hX1RBR21mNHlnWWxGdE94RV9CeGtMLV9MdkxLT2lVaVhxNThOMnpkbklGUUJQSU0weG1oYVIyOTdMRTN5MVRBRXZGOGJpd0JGZkFCRk8xTTMtX3NYdUU4WW1xX3NyQlRPdGtwcTBPYlUtS0d3?oc=5",
@@ -3132,7 +3148,8 @@
       "image": null,
       "category": "Loose Diamonds",
       "sources": [
-        "The Retail Jeweller India"
+        "The Retail Jeweller India",
+        "retailjewellerindia.com"
       ],
       "relevanceScore": 6,
       "uploadedAt": null
@@ -3149,22 +3166,6 @@
       "category": "Auction",
       "sources": [
         "Rapaport"
-      ],
-      "relevanceScore": 6,
-      "uploadedAt": null
-    },
-    {
-      "id": "1790240015146-vb0klxpj",
-      "title": "De Beers Group Showcases Desert diamonds at Jewellery & Gem WORLD Hong Kong - BusinessToday Malaysia",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONGhZa180Qi15ZXFOekdoclhEWW9aNHEwVmlZelptc2dIbG93bHhhWVRmMzJnald6RDRBQmlxcnJnVC15ZXRISmZqMXRkd0NUdmNpekdwdE9pYThjQUotS3dkcGM5ZGJwN3RaNjJPMGh2SkpjNUZybDNnMXA3YzNEd3c0TWJLamlXLXlsM3ZLLWFKZHd0NnJ5T2N4SlROMjBacFBfd2s1S092TzdJeEQ2N2VXc3dGaUI0REE?oc=5",
-      "source": "Google News",
-      "sourceName": "BusinessToday Malaysia",
-      "publishedAt": "2026-09-24T05:51:49.000Z",
-      "description": "",
-      "image": null,
-      "category": "Jewelry",
-      "sources": [
-        "BusinessToday Malaysia"
       ],
       "relevanceScore": 6,
       "uploadedAt": null
