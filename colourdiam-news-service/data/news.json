@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-25T22:58:59.079Z",
+  "lastFetchAt": "2026-09-26T02:46:53.447Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -471,6 +471,22 @@
       ],
       "relevanceScore": 9,
       "uploadedAt": "2026-09-17T19:30:38.193Z"
+    },
+    {
+      "id": "1790390813098-r6vwawcx",
+      "title": "Woman had gold, diamond jewellery and silver in her home and locker; tax department seized them, but ITAT - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPLU9yWVZ2VGlWMWJxLTE4NEdtSi13d3Qya3hFQ0hBZlhmQTVaNlFnbVEyVFlmczg5b2lOOTVWVlBObFdoMUNpZEYzMVZvcGpaaU9YYUFIeG9aXzcxOUR2N2pUbGVUMUlQUXg5bi1EV19jY3B0blpuZ2RlSTlBTjFPS2FlMGRjeTVZeHlBZFh4Y1pmU1V0RlFNYnBwXzZhTUhXcG5DbGdodnRKckZVQUdOOXdINzllcXJidVQ3LWVvaDgwZnRoVTdsdFpoMFkwMndrVERuMTdkRzhNQWtNOEdJNjl6R044Yy00SG1PTE90dmZoZ0Z0REE1dEZTQXhsdE1wME52SE5iSU9BOGZUUDQwMDZMTU0ySExndjVVTkNockxIMXk1R2V3WC1fNmtTN2pxTFRJMFNWRExNQ0htY2ZBdWdILTlkTnA4b09oanhoRUctUjF5N1JsaXR2bTlCZ9IB4wJBVV95cUxNQmNhVjVWenAyNHlHRUdsUldlNUdmTUc4eF9nazhIaHhCTERWZEh5V1QybWNYblpES3ZqV0JiR0dNSGlUT0F5Z1ZhbGpOY0JJRm1QUThkWThIa1NDTllMbEhPdC1HOHRhVVdkWlFZZk90dllScEJLUXBuUnJMc2p6VmV3LVA4VlBWSVdhRHNodnphVHFrakRSWGJCdXQyZTlzN1VXX2dEa3UtVkpjSFFuU2xyaWV4aHZGTmRMWFAwNTNEVTNhSVk1Njc4RTZMa1dGNUtxR2g0NTgtQ3NCbVBUeUVuNEtWZXpRaEFwZEszcDN4bzFkOFdnckY5LXkyM1lRMG1tc2JiNkgxejVfOFM2eGZUSDY2M3lmczdSemVFR1F3ODZjYk1tVlJYUlNMb256R1ZSVEJIMFVmNmlwZk1ST09ZUEk4cG56QWs2aHR5UWU5anFDY1gxakNSdTBFbnBZRHc0?oc=5",
+      "source": "Google News",
+      "sourceName": "The Times of India",
+      "publishedAt": "2026-09-10T07:00:00.000Z",
+      "description": "",
+      "image": null,
+      "category": "Jewelry",
+      "sources": [
+        "The Times of India"
+      ],
+      "relevanceScore": 9,
+      "uploadedAt": null
     },
     {
       "id": "1788942610628-br31uud8",
@@ -1026,7 +1042,8 @@
       "image": null,
       "category": "Jewelry",
       "sources": [
-        "Google News"
+        "Google News",
+        "NewsMeter"
       ],
       "relevanceScore": 9
     },
@@ -1984,7 +2001,8 @@
       "image": null,
       "category": "Auction",
       "sources": [
-        "Google News"
+        "Google News",
+        "Smithsonian Magazine"
       ],
       "relevanceScore": 9
     },
@@ -3150,23 +3168,6 @@
       "sources": [
         "indianretailer.com",
         "Indian Retailer"
-      ],
-      "relevanceScore": 6,
-      "uploadedAt": null
-    },
-    {
-      "id": "1790266388710-j1m5m0kn",
-      "title": "Lab-grown diamond jewellery start-up Onya raises Rs 12.5 cr, aims to grow retail presence - The Retail Jeweller India",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMDg4VkNOMjBWS0pWYkJQLWF5eHlELS1scmlLb1ZxM1NKNTJPcmMzX0YyOWt2TmQ4MjlHcWZrOUxfbEdxWVp1U25nQWlRRkExVE4xdFd5YU15RVVXdjc0ZkYtV3dUZTNOLWRnZTY3Nm1Oam1uZlNKcldlYWJTdXhCQkZtZnpqVXpON1FCM1lhMm9PXzVKYXRHWHRHeWVMLVk5Qmd2czJza3BHaExieVZ5TWJmbEF3QW5ScU1IejVn?oc=5",
-      "source": "Google News",
-      "sourceName": "The Retail Jeweller India",
-      "publishedAt": "2026-09-24T11:46:03.000Z",
-      "description": "",
-      "image": null,
-      "category": "Loose Diamonds",
-      "sources": [
-        "The Retail Jeweller India",
-        "retailjewellerindia.com"
       ],
       "relevanceScore": 6,
       "uploadedAt": null
