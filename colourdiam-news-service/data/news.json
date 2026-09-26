@@ -1,5 +1,5 @@
 {
-  "lastFetchAt": "2026-09-26T08:57:20.121Z",
+  "lastFetchAt": "2026-09-26T15:27:12.010Z",
   "articles": [
     {
       "id": "1787155412049-oquqn9mj",
@@ -964,7 +964,8 @@
       "image": null,
       "category": "Jewelry",
       "sources": [
-        "Google News"
+        "Google News",
+        "Indian Jeweller"
       ],
       "relevanceScore": 9
     },
